@@ -1,8 +1,8 @@
 {
   "name": "Sunny Pubs in Ireland",
   "short_name": "Sunny Pubs",
-  "id": "/",
-  "start_url": "/",
+  "id": "/ie/",
+  "start_url": "/ie/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#202736",
