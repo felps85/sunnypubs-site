@@ -2576,6 +2576,8 @@
     "name": "Hyde Park",
     "regionLabel": "London",
     "locationLabel": "Hyde Park, London",
+    "lat": 51.5074889,
+    "lon": -0.1622074,
     "regionId": "london",
     "foodOffer": {
       "category": "snacks",
@@ -2986,6 +2988,8 @@
     "name": "St. James's Park",
     "regionLabel": "London",
     "locationLabel": "St. James's Park, London",
+    "lat": 51.5031295,
+    "lon": -0.133165,
     "regionId": "london",
     "foodOffer": {
       "category": "snacks",
@@ -3034,6 +3038,8 @@
     "name": "The Regent's Park & Primrose Hill",
     "regionLabel": "London",
     "locationLabel": "The Regent's Park, London",
+    "lat": 51.530107,
+    "lon": -0.1537691,
     "regionId": "london",
     "foodOffer": {
       "category": "snacks",
