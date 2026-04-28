@@ -210,7 +210,11 @@
     "websiteUrl": "https://www.indexdublin.com",
     "instagramUrl": "https://instagram.com/indexdublin",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "opium-live-dublin",
@@ -271,7 +275,11 @@
     "locationLabel": "37 Great Strand Street",
     "websiteUrl": "https://www.yamamori.ie/night-life",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-dna-node-6763852524",
@@ -304,6 +312,14 @@
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
     }
   },
   {
@@ -320,6 +336,10 @@
     "instagramUrl": "https://instagram.com/killarneygrandofficial",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "dj": {
       "status": "yes",
       "confidence": "confirmed"
@@ -338,6 +358,10 @@
     "websiteUrl": "https://angellanenightclub.ie",
     "instagramUrl": "https://instagram.com/angellanenightclub",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   }
 ]

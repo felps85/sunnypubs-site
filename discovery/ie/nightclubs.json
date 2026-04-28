@@ -185,6 +185,10 @@
     "locationLabel": "57 Middle Abbey Street",
     "lat": 53.347986,
     "lon": -6.261852,
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://www.indexdublin.com",
     "instagramUrl": "https://instagram.com/indexdublin"
   },
@@ -239,6 +243,10 @@
     "locationLabel": "37 Great Strand Street",
     "lat": 53.347006,
     "lon": -6.26391,
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://www.yamamori.ie/night-life"
   },
   {
@@ -265,6 +273,14 @@
       "status": "yes",
       "confidence": "confirmed"
     },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://electricgalway.com",
     "instagramUrl": "https://instagram.com/electricgalway"
   },
@@ -279,6 +295,10 @@
     "lon": -9.509025,
     "wheelchairAccess": {
       "status": "no",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
       "confidence": "confirmed"
     },
     "dj": {
@@ -297,6 +317,10 @@
     "locationLabel": "Robert Street, Limerick",
     "lat": 52.663735,
     "lon": -8.622965,
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://angellanenightclub.ie",
     "instagramUrl": "https://instagram.com/angellanenightclub"
   }
