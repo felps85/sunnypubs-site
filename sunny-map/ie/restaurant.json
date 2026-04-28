@@ -355,6 +355,19 @@
     "status": "unavailable"
   },
   {
+    "id": "restaurants-actons-node-12013021460",
+    "name": "Actons Restaurant",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 54.595103,
+    "lon": -5.933176,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "17 Brunswick Street, Belfast, BT2 7GE",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
     "id": "restaurants-baobun-node-1945534335",
     "name": "BaoBun",
     "placeTypeId": "restaurant",
@@ -1583,6 +1596,19 @@
       ],
       "confidence": "confirmed"
     }
+  },
+  {
+    "id": "restaurants-akira-node-13051403450",
+    "name": "Akira",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 51.899036,
+    "lon": -8.47368,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "16A French Church Street, Cork, T12 HR92",
+    "solarMode": "facade",
+    "status": "unavailable"
   },
   {
     "id": "restaurants-bagel-factory-node-12628299905",
@@ -3184,6 +3210,34 @@
     "regionLabel": "Dublin",
     "locationLabel": "7 George's Street Great South, Dublin",
     "websiteUrl": "https://www.acapulco.ie",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "restaurants-afanti-uyghur-restaurant-node-11578438619",
+    "name": "Afanti Uyghur Restaurant",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 53.352912,
+    "lon": -6.261382,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "3a Cavendish Row, Rotunda, Dublin 1, D01 N2X7",
+    "websiteUrl": "https://afanti.ie/",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "restaurants-agave-node-2385329697",
+    "name": "Agave",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 53.343708,
+    "lon": -6.269027,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "19-22 Lord Edward Street, Dublin 2, D02 R500",
+    "websiteUrl": "https://agavedublin.com/",
     "solarMode": "facade",
     "status": "unavailable"
   },
@@ -9043,6 +9097,20 @@
     }
   },
   {
+    "id": "restaurants-adelphi-jade-node-2651601374",
+    "name": "Adelphi Jade",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 54.004464,
+    "lon": -6.404243,
+    "regionId": "dundalk",
+    "regionLabel": "Dundalk",
+    "locationLabel": "Unit 2, Adelphi Boulevard, Dundalk, Co. Louth, A91 EY90",
+    "websiteUrl": "https://www.adelphijade.ie/",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
     "id": "restaurants-atami-node-3152620285",
     "name": "Atami",
     "placeTypeId": "restaurant",
@@ -11185,6 +11253,20 @@
       "status": "limited",
       "confidence": "confirmed"
     }
+  },
+  {
+    "id": "restaurants-achari-node-268882207",
+    "name": "Achari Indian Restaurant",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 52.668035,
+    "lon": -8.555245,
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "56/57 The Orchard, Castletroy, Co. Limerick, V94 V1KW",
+    "websiteUrl": "https://acharilimerick.ie/",
+    "solarMode": "facade",
+    "status": "unavailable"
   },
   {
     "id": "restaurants-doh-proper-pizza-node-11179603545",
