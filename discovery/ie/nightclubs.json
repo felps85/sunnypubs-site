@@ -12,6 +12,10 @@
       "status": "yes",
       "confidence": "confirmed"
     },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://alibibelfast.com",
     "instagramUrl": "https://instagram.com/alibibelfast"
   },
@@ -40,6 +44,10 @@
       "status": "limited",
       "confidence": "confirmed"
     },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://www.limelightbelfast.com"
   },
   {
@@ -52,6 +60,10 @@
     "lat": 51.898343,
     "lon": -8.469812,
     "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
     },
@@ -122,6 +134,10 @@
     "locationLabel": "60 Harcourt Street, Dublin, D02 P902",
     "lat": 53.334454,
     "lon": -6.26284,
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://www.dtwonightclub.com"
   },
   {
@@ -135,6 +151,14 @@
     "lon": -6.265181,
     "wheelchairAccess": {
       "status": "no",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.fitzsimonsbar.ie/nightclub",

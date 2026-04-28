@@ -16,6 +16,10 @@
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
     }
   },
   {
@@ -49,6 +53,10 @@
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
     }
   },
   {
@@ -66,6 +74,10 @@
     "solarMode": "outdoor-area",
     "status": "unavailable",
     "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
     }
@@ -141,7 +153,11 @@
     "locationLabel": "60 Harcourt Street, Dublin, D02 P902",
     "websiteUrl": "https://www.dtwonightclub.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-fitzsimons-node-6257799735",
@@ -156,7 +172,15 @@
     "websiteUrl": "https://www.fitzsimonsbar.ie/nightclub",
     "instagramUrl": "https://instagram.com/fitzsimonsbar",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-house-dublin-node-4209884820",

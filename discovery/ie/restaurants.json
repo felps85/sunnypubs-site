@@ -248,6 +248,58 @@
     "websiteUrl": "https://www.donnellysofbarna.com"
   },
   {
+    "id": "restaurants-2taps-node-2624735793",
+    "appId": "ie",
+    "name": "2Taps",
+    "type": "restaurant",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "30-42 Waring Street, Cotton Court, Cathedral Quarter, Belfast, BT1 2ED",
+    "lat": 54.601608,
+    "lon": -5.925858,
+    "solarMode": "facade",
+    "websiteUrl": "https://2taps-winebar.com/"
+  },
+  {
+    "id": "restaurants-3-levels-asian-fusion-node-579036440",
+    "appId": "ie",
+    "name": "3 Levels Asian Fusion",
+    "type": "restaurant",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "31 University Road, Belfast, BT7 1NA",
+    "lat": 54.586618,
+    "lon": -5.936128,
+    "solarMode": "facade",
+    "websiteUrl": "https://www.3levels.co.uk/"
+  },
+  {
+    "id": "restaurants-26-west-node-3837178284",
+    "appId": "ie",
+    "name": "26 West Bar & Grill",
+    "type": "restaurant",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Kennedy Centre, 564-568 Falls Road, Belfast, BT11 9AE",
+    "lat": 54.580869,
+    "lon": -5.978769,
+    "solarMode": "facade",
+    "websiteUrl": "https://www.belfast26west.com/"
+  },
+  {
+    "id": "restaurants-abacus-node-5181111842",
+    "appId": "ie",
+    "name": "Abacus Cantonese Restaurant",
+    "type": "restaurant",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "115 Eglantine Avenue, Belfast, BT9 6EU",
+    "lat": 54.580359,
+    "lon": -5.939017,
+    "solarMode": "facade",
+    "websiteUrl": "https://www.theabacusrestaurantbelfast.co.uk/"
+  },
+  {
     "id": "restaurants-baobun-node-1945534335",
     "type": "restaurant",
     "name": "BaoBun",
@@ -1229,6 +1281,32 @@
     "lat": 51.850223,
     "lon": -8.291035,
     "websiteUrl": "https://wanfutakeaway.com"
+  },
+  {
+    "id": "restaurants-14a-restaurant-node-4581159233",
+    "appId": "ie",
+    "name": "14A Restaurant",
+    "type": "restaurant",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "14A French Church Street, Cork, T12 KVN6",
+    "lat": 51.898881,
+    "lon": -8.473543,
+    "solarMode": "facade",
+    "websiteUrl": "https://restaurant14a.ie/"
+  },
+  {
+    "id": "restaurants-51-cornmarket-node-12077806721",
+    "appId": "ie",
+    "name": "51 Cornmarket",
+    "type": "restaurant",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "51 Cornmarket Street, Cork City, T12 VK88",
+    "lat": 51.899834,
+    "lon": -8.476959,
+    "solarMode": "facade",
+    "websiteUrl": "https://51cornmarket.ie/"
   },
   {
     "id": "restaurants-115-cafe-and-wine-bar-node-12702298518",
@@ -2588,6 +2666,19 @@
     "lon": -6.264681,
     "websiteUrl": "https://777.ie",
     "instagramUrl": "https://instagram.com/777dublin"
+  },
+  {
+    "id": "restaurants-1837-node-629750016",
+    "appId": "ie",
+    "name": "1837 Bar & Brasserie",
+    "type": "restaurant",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Guinness Storehouse, St. James's Gate, Dublin 8, D08 VF8H",
+    "lat": 53.341717,
+    "lon": -6.286433,
+    "solarMode": "facade",
+    "websiteUrl": "https://www.guinness-storehouse.com/en/eat-and-drink"
   },
   {
     "id": "restaurants-1838-club-node-5387045972",
@@ -10079,6 +10170,19 @@
     "lat": 54.655909,
     "lon": -5.933299,
     "websiteUrl": "https://www.fallonespizzabelfast.co.uk"
+  },
+  {
+    "id": "restaurants-9th-avenue-node-13325082152",
+    "appId": "ie",
+    "name": "9th Avenue Omagh",
+    "type": "restaurant",
+    "regionId": "omagh",
+    "regionLabel": "Omagh",
+    "locationLabel": "7 Castle Street, Omagh, BT78 1DD",
+    "lat": 54.600999,
+    "lon": -7.305194,
+    "solarMode": "facade",
+    "websiteUrl": "https://omagh.9thavenue.co.uk/"
   },
   {
     "id": "restaurants-grain-and-grill-restaurant-node-2037121433",

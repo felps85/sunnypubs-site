@@ -863,6 +863,31 @@
     "websiteUrl": "https://www.creedcoffeeroasters.ie"
   },
   {
+    "id": "cafes-18ctea-node-7310452318",
+    "appId": "ie",
+    "name": "18CTEA Bubble Tea",
+    "type": "cafe",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "20 North Main Street, Cork",
+    "lat": 51.900163,
+    "lon": -8.478674,
+    "solarMode": "facade",
+    "websiteUrl": "https://www.18ctea.ie/"
+  },
+  {
+    "id": "cafes-107-barrack-street-node-13392144330",
+    "appId": "ie",
+    "name": "107 Barrack Street",
+    "type": "cafe",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "107 Barrack Street, The Lough, Cork, T12 T6H3",
+    "lat": 51.893428,
+    "lon": -8.478625,
+    "solarMode": "facade"
+  },
+  {
     "id": "cafes-bean-and-leaf-node-7973193772",
     "type": "cafe",
     "name": "Bean & Leaf",
@@ -5577,6 +5602,18 @@
     "websiteUrl": "https://www.thesunshinecafe.net"
   },
   {
+    "id": "cafes-23-seats-way-301442345",
+    "appId": "ie",
+    "name": "23 Seats",
+    "type": "cafe",
+    "regionId": "dundalk",
+    "regionLabel": "Dundalk",
+    "locationLabel": "8 Crowe Street, Dundalk, A91 E822",
+    "lat": 54.004252,
+    "lon": -6.401034,
+    "solarMode": "facade"
+  },
+  {
     "id": "cafes-rocksalt-cafe-node-8022148692",
     "type": "cafe",
     "name": "Rocksalt Cafe",
@@ -6497,6 +6534,18 @@
     "websiteUrl": "https://www.thecounterdeli.com"
   },
   {
+    "id": "cafes-arabica-node-4513046356",
+    "appId": "ie",
+    "name": "Arabica Coffee House",
+    "type": "cafe",
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "Garryglass Industrial Estate, Ballysimon Road, Garryglass, Limerick",
+    "lat": 52.649344,
+    "lon": -8.576872,
+    "solarMode": "facade"
+  },
+  {
     "id": "cafes-green-yard-cafe-node-5653038900",
     "type": "cafe",
     "name": "Green Yard Café",
@@ -7310,6 +7359,18 @@
     },
     "websiteUrl": "https://thestableyard.ie/italian-bakery",
     "instagramUrl": "https://instagram.com/thestableyardbakerywaterford"
+  },
+  {
+    "id": "cafes-wich-brew-node-9997795078",
+    "appId": "ie",
+    "name": "Wich + Brew",
+    "type": "cafe",
+    "regionId": "waterford",
+    "regionLabel": "Waterford",
+    "locationLabel": "2 Park Road, Park Gate, Waterford, X91 VHX3",
+    "lat": 52.257666,
+    "lon": -7.102683,
+    "solarMode": "facade"
   },
   {
     "id": "cafes-18ctea-node-10871887346",

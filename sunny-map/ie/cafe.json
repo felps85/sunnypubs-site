@@ -1027,6 +1027,33 @@
     }
   },
   {
+    "id": "cafes-18ctea-node-7310452318",
+    "name": "18CTEA Bubble Tea",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 51.900163,
+    "lon": -8.478674,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "20 North Main Street, Cork",
+    "websiteUrl": "https://www.18ctea.ie/",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-107-barrack-street-node-13392144330",
+    "name": "107 Barrack Street",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 51.893428,
+    "lon": -8.478625,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "107 Barrack Street, The Lough, Cork, T12 T6H3",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
     "id": "cafes-bean-and-leaf-node-7973193772",
     "name": "Bean & Leaf",
     "placeTypeId": "cafe",
@@ -6464,6 +6491,19 @@
     }
   },
   {
+    "id": "cafes-23-seats-way-301442345",
+    "name": "23 Seats",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 54.004252,
+    "lon": -6.401034,
+    "regionId": "dundalk",
+    "regionLabel": "Dundalk",
+    "locationLabel": "8 Crowe Street, Dundalk, A91 E822",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
     "id": "cafes-rocksalt-cafe-node-8022148692",
     "name": "Rocksalt Cafe",
     "placeTypeId": "cafe",
@@ -7535,6 +7575,19 @@
     "status": "unavailable"
   },
   {
+    "id": "cafes-arabica-node-4513046356",
+    "name": "Arabica Coffee House",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.649344,
+    "lon": -8.576872,
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "Garryglass Industrial Estate, Ballysimon Road, Garryglass, Limerick",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
     "id": "cafes-green-yard-cafe-node-5653038900",
     "name": "Green Yard Café",
     "placeTypeId": "cafe",
@@ -8530,6 +8583,19 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     }
+  },
+  {
+    "id": "cafes-wich-brew-node-9997795078",
+    "name": "Wich + Brew",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.257666,
+    "lon": -7.102683,
+    "regionId": "waterford",
+    "regionLabel": "Waterford",
+    "locationLabel": "2 Park Road, Park Gate, Waterford, X91 VHX3",
+    "solarMode": "facade",
+    "status": "unavailable"
   },
   {
     "id": "cafes-18ctea-node-10871887346",
