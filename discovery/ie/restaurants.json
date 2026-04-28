@@ -515,7 +515,9 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 85.7,
     "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "websiteUrl": "https://www.actonandsons.com/",
+    "instagramUrl": "https://www.instagram.com/actonsbelfast/"
   },
   {
     "id": "restaurants-baobun-node-1945534335",

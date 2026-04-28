@@ -490,6 +490,8 @@
     "regionId": "belfast",
     "regionLabel": "Belfast",
     "locationLabel": "17 Brunswick Street, Belfast, BT2 7GE",
+    "websiteUrl": "https://www.actonandsons.com/",
+    "instagramUrl": "https://www.instagram.com/actonsbelfast/",
     "solarMode": "facade",
     "frontBearingDeg": 85.7,
     "shadeClearanceDeg": 17.5,
