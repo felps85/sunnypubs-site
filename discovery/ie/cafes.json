@@ -863,6 +863,30 @@
     "websiteUrl": "https://www.creedcoffeeroasters.ie"
   },
   {
+    "id": "cafes-3-little-piggies-node-12692202541",
+    "appId": "ie",
+    "name": "3 Little Piggies",
+    "type": "cafe",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Union Quay, Cork",
+    "lat": 51.895448,
+    "lon": -8.468504,
+    "solarMode": "facade"
+  },
+  {
+    "id": "cafes-5-points-deli-and-cafe-node-5325864113",
+    "appId": "ie",
+    "name": "5 Points Cafe",
+    "type": "cafe",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "59 MacCurtain Street, Cork, T23 F9DT",
+    "lat": 51.901441,
+    "lon": -8.465812,
+    "solarMode": "facade"
+  },
+  {
     "id": "cafes-18ctea-node-7310452318",
     "appId": "ie",
     "name": "18CTEA Bubble Tea",
@@ -1703,6 +1727,19 @@
     "instagramUrl": "https://instagram.com/3fecoffee"
   },
   {
+    "id": "cafes-3fe-gertrude-node-919855203",
+    "appId": "ie",
+    "name": "3fe Gertrude",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "130 Pearse Street, Grand Canal Dock, Dublin, D02 T322",
+    "lat": 53.34293,
+    "lon": -6.243693,
+    "solarMode": "facade",
+    "websiteUrl": "https://3fe.com/pages/locations/gertrude"
+  },
+  {
     "id": "3fe-grand-canal-street-dublin",
     "type": "cafe",
     "name": "3fe Grand Canal Street",
@@ -1739,6 +1776,56 @@
     },
     "websiteUrl": "https://www.munchies.ie",
     "instagramUrl": "https://instagram.com/munchiesireland"
+  },
+  {
+    "id": "cafes-3fe-victoria-arduino-node-5402591028",
+    "appId": "ie",
+    "name": "3fe Sussex Terrace",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "7 Sussex Terrace, Dublin, D04 NP78",
+    "lat": 53.331689,
+    "lon": -6.251673,
+    "solarMode": "facade",
+    "websiteUrl": "https://3fe.com/pages/locations/sussex-terrace"
+  },
+  {
+    "id": "cafes-3fe-the-triangle-node-564886228",
+    "appId": "ie",
+    "name": "3fe The Triangle",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "33 Ranelagh, Dublin, D06 R1X3",
+    "lat": 53.325084,
+    "lon": -6.25479,
+    "solarMode": "facade",
+    "websiteUrl": "https://3fe.com/pages/locations/the-triangle"
+  },
+  {
+    "id": "cafes-24-hour-to-go-cafe-node-11290217424",
+    "appId": "ie",
+    "name": "24 Hour To Go Cafe",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Holiday Inn Dublin Airport, Stockhole Lane, Clonshaugh, Dublin, K67 E5C9",
+    "lat": 53.412845,
+    "lon": -6.218786,
+    "solarMode": "facade"
+  },
+  {
+    "id": "cafes-505-coffee-way-1483459878",
+    "appId": "ie",
+    "name": "505 Coffee Meadowbrook",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "dlr Leisure Meadowbrook, Broadford Road, Ballinteer, Dublin 16, D16 HK83",
+    "lat": 53.31135,
+    "lon": -6.237732,
+    "solarMode": "facade"
   },
   {
     "id": "cafes-ada-coffee-and-bagels-node-4172567189",
