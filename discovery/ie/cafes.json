@@ -1618,7 +1618,8 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 251.6,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "instagramUrl": "https://instagram.com/alchemycoffeecork"
   },
   {
     "id": "cafes-badger-and-dodo-roastery-outlet-node-13151957485",
@@ -3699,7 +3700,8 @@
     "frontBearingDeg": 88.5,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "South Great George's Street"
+    "facadeInferenceRoadName": "South Great George's Street",
+    "instagramUrl": "https://www.instagram.com/bearmrktcoffee/"
   },
   {
     "id": "cafes-bear-mrkt-node-576101386",
@@ -3719,7 +3721,8 @@
     "facadeWidthM": 8.6,
     "frontBearingDeg": 119.3,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "instagramUrl": "https://www.instagram.com/bearmrktcoffee/"
   },
   {
     "id": "cafes-bear-mrkt-node-5358821193",
@@ -10689,7 +10692,8 @@
     "facadeWidthM": 6.6,
     "frontBearingDeg": 126.4,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "instagramUrl": "https://instagram.com/bailybitesatkish"
   },
   {
     "id": "cafes-anatolia-cafe-and-restaurant-node-3705782703",
@@ -10709,7 +10713,8 @@
     "facadeWidthM": 4.5,
     "frontBearingDeg": 125.9,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "instagramUrl": "https://instagram.com/anatoliakilkenny"
   },
   {
     "id": "cafes-aran-node-7049761479",
@@ -11883,7 +11888,8 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 29.7,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "instagramUrl": "https://www.instagram.com/bearmrktcoffee/"
   },
   {
     "id": "cafes-insomnia-node-2998980123",
@@ -12565,7 +12571,8 @@
     "frontBearingDeg": 246.2,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Dunmore Road"
+    "facadeInferenceRoadName": "Dunmore Road",
+    "instagramUrl": "https://www.instagram.com/wichandbrew/"
   },
   {
     "id": "cafes-18ctea-node-10871887346",

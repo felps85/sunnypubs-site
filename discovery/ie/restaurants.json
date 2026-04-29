@@ -4997,7 +4997,8 @@
     "facadeWidthM": 12.7,
     "frontBearingDeg": 291.1,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "instagramUrl": "https://www.instagram.com/alfiesrestaurant/"
   },
   {
     "id": "restaurants-all-bar-chicken-node-2940666218",
@@ -5300,7 +5301,8 @@
     "frontBearingDeg": 257.8,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Parliament Street"
+    "facadeInferenceRoadName": "Parliament Street",
+    "instagramUrl": "https://www.instagram.com/aperitivo_dublin/"
   },
   {
     "id": "restaurants-aprile-restaurant-node-4406853045",
