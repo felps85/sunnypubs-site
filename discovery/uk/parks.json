@@ -4106,6 +4106,239 @@
     "websiteUrl": "https://www.southampton.gov.uk/culture-leisure-tourism/parks-open-spaces/find-a-park/by-area/bargate/blechynden-terrace-garden/"
   },
   {
+    "id": "parks-amy-dillwyn-park-relation-17697842",
+    "type": "park",
+    "name": "Amy Dillwyn Park, Copr Bay",
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea",
+    "lat": 51.615655,
+    "lon": -3.943942,
+    "websiteUrl": "https://www.swansea.gov.uk/AmyDillwynPark"
+  },
+  {
+    "id": "parks-bryn-y-don-park-way-24011336",
+    "type": "park",
+    "name": "Bryn Y Don Park",
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea",
+    "lat": 51.628685,
+    "lon": -3.945727,
+    "websiteUrl": "https://www.swansea.gov.uk/brynydon"
+  },
+  {
+    "id": "parks-brynmelyn-park-way-1223890681",
+    "type": "park",
+    "name": "Brynmelyn Park",
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea",
+    "lat": 51.632814,
+    "lon": -3.945055,
+    "websiteUrl": "https://www.swansea.gov.uk/brynmelynpark"
+  },
+  {
+    "id": "parks-brynmill-park-way-11257126",
+    "type": "park",
+    "name": "Brynmill Park",
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea",
+    "lat": 51.614922,
+    "lon": -3.973887,
+    "websiteUrl": "https://www.swansea.gov.uk/brynmill"
+  },
+  {
+    "id": "parks-clyne-gardens-way-12125673",
+    "type": "park",
+    "name": "Clyne Gardens",
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea",
+    "lat": 51.595771,
+    "lon": -4.002816,
+    "websiteUrl": "https://www.swansea.gov.uk/article/6799/Clyne-Gardens",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-cockett-woods-park-way-30385245",
+    "type": "park",
+    "name": "Cockett Woods",
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea",
+    "lat": 51.625889,
+    "lon": -3.980274,
+    "websiteUrl": "https://www.swansea.gov.uk/cockettwoods"
+  },
+  {
+    "id": "parks-cwm-level-park-way-296677329",
+    "type": "park",
+    "name": "Cwm Level Park and Playing Fields",
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea",
+    "lat": 51.64595,
+    "lon": -3.941511,
+    "websiteUrl": "https://www.swansea.gov.uk/cwmlevelpark"
+  },
+  {
+    "id": "parks-dunvant-park-way-1493808595",
+    "type": "park",
+    "name": "Dunvant Park",
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea",
+    "lat": 51.620042,
+    "lon": -4.02237,
+    "websiteUrl": "https://www.swansea.gov.uk/dunvantpark"
+  },
+  {
+    "id": "parks-fendrod-lake-park-way-121768031",
+    "type": "park",
+    "name": "Fendrod Lake",
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea",
+    "lat": 51.656169,
+    "lon": -3.913926,
+    "websiteUrl": "https://www.swansea.gov.uk/fendrodlake",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-bantock-park-way-23151422",
+    "type": "park",
+    "name": "Bantock Park",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.578939,
+    "lon": -2.157579,
+    "websiteUrl": "https://www.wolverhampton.gov.uk/visiting/parks-green-spaces-and-nature-reserves/parks",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-east-park-way-42919398",
+    "type": "park",
+    "name": "East Park",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.578753,
+    "lon": -2.097865,
+    "websiteUrl": "https://www.wolverhampton.gov.uk/visiting/parks-green-spaces-and-nature-reserves/parks",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-fowlers-field-way-150531711",
+    "type": "park",
+    "name": "Fowlers Park",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.59915,
+    "lon": -2.120903,
+    "websiteUrl": "https://www.wolverhampton.gov.uk/sports-and-leisure/sports-pitches-hire",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-heath-town-park-way-150521849",
+    "type": "park",
+    "name": "Heath Town Park",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.595754,
+    "lon": -2.100153,
+    "websiteUrl": "https://www.wolverhampton.gov.uk/sports-and-leisure/sports-pitches-hire"
+  },
+  {
+    "id": "parks-mike-swain-garden-way-367403437",
+    "type": "park",
+    "name": "Mike Swain Memorial Garden",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.577679,
+    "lon": -2.115693,
+    "websiteUrl": "https://www.asan.org.uk/community/mike-swain-memorial-garden/"
+  },
+  {
+    "id": "parks-dunstall-peace-park-way-149403566",
+    "type": "park",
+    "name": "Peace Green",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.595031,
+    "lon": -2.132032,
+    "websiteUrl": "https://win.wolverhampton.gov.uk/kb5/wolverhampton/directory/service.page?familychannel=5&id=BVspa2snXq8"
+  },
+  {
+    "id": "parks-phoenix-park-way-43136783",
+    "type": "park",
+    "name": "Phoenix Park",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.568917,
+    "lon": -2.121473,
+    "websiteUrl": "https://www.wolverhampton.gov.uk/visiting/parks-green-spaces-and-nature-reserves/parks",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-saint-christophers-park-way-320543714",
+    "type": "park",
+    "name": "St Christopher's Community Park",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.608549,
+    "lon": -2.107963,
+    "websiteUrl": "https://www.wolverhampton.gov.uk/news/city-takes-queens-challenge-and-safeguards-parks-future"
+  },
+  {
+    "id": "parks-st-peters-gardens-way-156370191",
+    "type": "park",
+    "name": "St Peter's Gardens",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.586778,
+    "lon": -2.127723,
+    "websiteUrl": "https://www.wolverhampton.gov.uk/visiting/parks-green-spaces-and-nature-reserves/parks"
+  },
+  {
+    "id": "parks-west-park-way-23151545",
+    "type": "park",
+    "name": "West Park",
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "lat": 52.589469,
+    "lon": -2.140053,
+    "websiteUrl": "https://www.wolverhampton.gov.uk/visiting/parks-green-spaces-and-nature-reserves/parks"
+  },
+  {
     "id": "parks-acomb-green-way-129539515",
     "type": "park",
     "name": "Acomb Green",
