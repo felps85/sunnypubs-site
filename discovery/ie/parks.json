@@ -1048,6 +1048,19 @@
     }
   },
   {
+    "id": "parks-dillons-park-way-119557136",
+    "appId": "ie",
+    "name": "Dillons Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dalkey",
+    "locationLabel": "Dalkey, County Dublin",
+    "lat": 53.27161,
+    "lon": -6.092066,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dlrcoco.ie/sites/dlrcoco/files/2024-08/dlr%20Annual%20Report%20English%202023.pdf#:~:text=Dillons%20Park"
+  },
+  {
     "id": "parks-bay-road-park-way-80652553",
     "appId": "ie",
     "name": "Bay Road Nature Reserve",
@@ -2088,6 +2101,19 @@
     "websiteUrl": "https://heritageireland.ie/visit/places-to-visit/irish-national-war-memorial-gardens/"
   },
   {
+    "id": "parks-irishtown-nature-park-way-23582259",
+    "appId": "ie",
+    "name": "Irishtown Nature Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Poolbeg Peninsula, Dublin",
+    "lat": 53.336342,
+    "lon": -6.200882,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/dublin-city-parks-strategy/2-parks-and-landscapes-perspective/21-growing-dublin/219-contemporary-dublin"
+  },
+  {
     "id": "parks-iveagh-gardens-way-275449345",
     "type": "park",
     "name": "Iveagh Gardens",
@@ -2216,6 +2242,19 @@
     }
   },
   {
+    "id": "parks-liberty-park-way-13904710",
+    "appId": "ie",
+    "name": "Liberty Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "North East Inner City, Dublin",
+    "lat": 53.352022,
+    "lon": -6.252204,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/news/liberty-park-open-public-following-official-reopening-lord-mayor"
+  },
+  {
     "id": "parks-loreto-park-way-22980750",
     "type": "park",
     "name": "Loreto Park",
@@ -2298,6 +2337,19 @@
         "parking"
       ]
     }
+  },
+  {
+    "id": "parks-liam-mellowes-park-way-30677662",
+    "appId": "ie",
+    "name": "Mellows Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Finglas, Dublin 11",
+    "lat": 53.393926,
+    "lon": -6.305229,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/mellows-park"
   },
   {
     "id": "parks-merrion-square-park-way-4078069",
@@ -3056,6 +3108,32 @@
     "websiteUrl": "https://dlrcoco.citizenspace.com/infrastructure-climate-change/living-streets-dun-laoghaire/"
   },
   {
+    "id": "parks-crosthwaite-park-way-48063960",
+    "appId": "ie",
+    "name": "Crosthwaite Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dun Laoghaire",
+    "locationLabel": "Dun Laoghaire, County Dublin",
+    "lat": 53.286487,
+    "lon": -6.134142,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dlrcoco.ie/sites/dlrcoco/files/2024-08/dlr%20Annual%20Report%20English%202023.pdf#:~:text=Crosthwaite%20Park"
+  },
+  {
+    "id": "parks-dunedin-park-way-9070963",
+    "appId": "ie",
+    "name": "Dunedin Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dun Laoghaire-Rathdown",
+    "locationLabel": "Dun Laoghaire-Rathdown, County Dublin",
+    "lat": 53.287616,
+    "lon": -6.152083,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dlrcoco.ie/sites/dlrcoco/files/2024-08/dlr%20Annual%20Report%20English%202023.pdf#:~:text=Dunedin%20Park"
+  },
+  {
     "id": "parks-blackrock-park-way-306401048",
     "appId": "ie",
     "name": "Blackrock Park",
@@ -3802,6 +3880,32 @@
     "lon": -6.233697,
     "solarMode": "open-area",
     "websiteUrl": "https://www.fingal.ie/news/sod-turn-marks-initiation-active-travel-project-balheary"
+  },
+  {
+    "id": "parks-holywell-park-way-37793954",
+    "appId": "ie",
+    "name": "Holywell Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Swords",
+    "locationLabel": "Swords, County Dublin",
+    "lat": 53.440489,
+    "lon": -6.213341,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.fingal.ie/news/holywell-welcomes-fingals-operation-transformation-walk"
+  },
+  {
+    "id": "parks-kettles-memorial-park-way-68348810",
+    "appId": "ie",
+    "name": "Kettles Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Swords",
+    "locationLabel": "Swords, County Dublin",
+    "lat": 53.439503,
+    "lon": -6.200653,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.fingal.ie/sites/default/files/2025-12/fingal-county-council-development-contribution-scheme-2026-2030.pdf"
   },
   {
     "id": "parks-castle-park-way-668237186",
