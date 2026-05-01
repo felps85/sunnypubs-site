@@ -767,6 +767,19 @@
     "websiteUrl": "https://www.dlrcoco.ie/en/blackrock-park"
   },
   {
+    "id": "parks-corke-abbey-valley-park-way-61498641",
+    "appId": "ie",
+    "name": "Corke Abbey Valley Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Bray",
+    "locationLabel": "Bray and Dun Laoghaire-Rathdown boundary",
+    "lat": 53.21264,
+    "lon": -6.109409,
+    "solarMode": "open-area",
+    "websiteUrl": "https://dlrcoco.citizenspace.com/parks/parks-corke-abbey-valley-park/"
+  },
+  {
     "id": "parks-carlow-town-park-way-37180406",
     "appId": "ie",
     "name": "Carlow Town Park",
@@ -1485,6 +1498,19 @@
     }
   },
   {
+    "id": "parks-california-hills-park-relation-8797383",
+    "appId": "ie",
+    "name": "California Hills Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "California Hills, Dublin",
+    "lat": 53.348954,
+    "lon": -6.35597,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/dublin-city-parks-strategy/4-resources-and-services/46-natural-areas-biodiversity/462-biodiversity-and-green-infrastructure"
+  },
+  {
     "id": "parks-carrigmore-park-way-317216092",
     "appId": "ie",
     "name": "Carrigmore Park",
@@ -1508,6 +1534,19 @@
     "lon": -6.184584,
     "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/carysfort-park",
     "instagramUrl": "https://instagram.com/dlrcoco.ie"
+  },
+  {
+    "id": "parks-central-square-way-136549341",
+    "appId": "ie",
+    "name": "Central Square",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Spencer Dock, Dublin 1",
+    "lat": 53.348493,
+    "lon": -6.237312,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/sites/default/files/2022-08/area-3-central.pdf"
   },
   {
     "id": "parks-chancery-park-way-153254211",
@@ -1534,6 +1573,19 @@
     "lon": -6.375748,
     "solarMode": "open-area",
     "websiteUrl": "https://www.dublincity.ie/dublin-city-parks-strategy/4-resources-and-services/41-parks/416-quality-parks"
+  },
+  {
+    "id": "parks-chimney-park-way-312553676",
+    "appId": "ie",
+    "name": "Chimney Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Grand Canal Dock, Dublin 2",
+    "lat": 53.344983,
+    "lon": -6.239365,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/planning-and-land-use/learn-about-councils-plans-city/public-realm-strategy-and-master-plans/dublin-docklands/visiting-docklands"
   },
   {
     "id": "parks-clonmore-park-way-22677944",
@@ -2991,6 +3043,19 @@
     }
   },
   {
+    "id": "parks-clarinda-park-way-48063956",
+    "appId": "ie",
+    "name": "Clarinda Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dun Laoghaire",
+    "locationLabel": "Dun Laoghaire, County Dublin",
+    "lat": 53.288934,
+    "lon": -6.131687,
+    "solarMode": "open-area",
+    "websiteUrl": "https://dlrcoco.citizenspace.com/infrastructure-climate-change/living-streets-dun-laoghaire/"
+  },
+  {
     "id": "parks-blackrock-park-way-306401048",
     "appId": "ie",
     "name": "Blackrock Park",
@@ -3737,6 +3802,19 @@
     "lon": -6.233697,
     "solarMode": "open-area",
     "websiteUrl": "https://www.fingal.ie/news/sod-turn-marks-initiation-active-travel-project-balheary"
+  },
+  {
+    "id": "parks-castle-park-way-668237186",
+    "appId": "ie",
+    "name": "Swords Castle Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Swords",
+    "locationLabel": "Swords, County Dublin",
+    "lat": 53.46126,
+    "lon": -6.220145,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.fingal.ie/sustainableswords/natural-environment"
   },
   {
     "id": "parks-piarsaigh-park-node-10921495216",
