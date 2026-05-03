@@ -4106,10 +4106,6 @@
     "regionLabel": "Dublin",
     "locationLabel": "153 Capel St, Dublin 01",
     "regionId": "dublin",
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -8289,10 +8285,6 @@
     "regionLabel": "Dublin",
     "locationLabel": "9a Abbey Street Lwr, Dublin 1",
     "regionId": "dublin",
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -8896,14 +8888,6 @@
     "regionLabel": "Dublin",
     "locationLabel": "74 Francis St, The Liberties, Dublin 8",
     "regionId": "dublin",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -8954,10 +8938,6 @@
     "locationLabel": "11 Coke Lane, Dublin, D07 WNP2",
     "lat": 53.346837,
     "lon": -6.279039,
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"

@@ -5075,10 +5075,6 @@
     "lat": 53.2811683,
     "lon": -6.4768954,
     "regionId": "dublin",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -6653,10 +6649,6 @@
     "outdoorArea": {
       "type": "terrace",
       "confidence": "confirmed"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
     },
     "foodOffer": {
       "category": "gastropub",

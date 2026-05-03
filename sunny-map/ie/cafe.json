@@ -8653,10 +8653,6 @@
     "frontObservationPointLat": 53.3468,
     "frontObservationPointLon": -6.2791,
     "facadeWidthM": 10.4,
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
