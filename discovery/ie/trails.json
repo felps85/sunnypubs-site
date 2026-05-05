@@ -12,6 +12,9 @@
     "lon": -6.26829,
     "solarMode": "open-area",
     "status": "unknown",
+    "sourceKind": "sport-ireland-trails",
+    "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+    "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/wicklow-way",
     "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/wicklow-way",
     "trail": {
       "id": "sport-ireland-trail-40",
@@ -32,9 +35,11 @@
       "facilities": [
         "Hostel on the route: Knockree Hostel Lackan House, Lackandarragh, Enniskerry, Co. Wicklow, A98 R2Y9. Knockree Hostel is a restored 18th-century farmhouse set on a 64-acre site of natural conservation providing un-spoilt views of the Glencree Valley. With the Wicklow Way hiking trail passing directly through the grounds, it is ideal for hillwalkers, backpackers, families, youth groups and outdoor enthusiasts. Enquiries: liz@anoige.ie General enquiries: info@anoige.ie. www.anoige.ie"
       ],
-      "dogsAllowed": "no",
       "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/wicklow-way",
       "managementOrganisation": "County Wicklow Partnership",
+      "sourceKind": "sport-ireland-trails",
+      "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+      "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/wicklow-way",
       "sourceConfidence": "confirmed",
       "trailheadParkId": "parks-marlay-park-relation-11252322",
       "startPoint": {
@@ -42,17 +47,27 @@
         "name": "Marley Park, Rathfarnham in South Dublin",
         "lat": 53.27715,
         "lon": -6.26829,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/wicklow-way",
         "sourceConfidence": "confirmed",
-        "placementConfidence": "confirmed"
+        "placementConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails"
       },
       "finishPoint": {
         "id": "sport-ireland-trailhead-40-finish-205409-wicklow-way",
         "name": "Clonegal",
         "lat": 52.69518,
         "lon": -6.64794,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/wicklow-way",
         "sourceConfidence": "confirmed",
-        "placementConfidence": "confirmed"
+        "placementConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails"
       },
+      "geospatialSource": "sport-ireland-trails",
+      "placementConfidence": "confirmed",
       "routeGeometry": {
         "type": "MultiLineString",
         "coordinates": [
@@ -33215,7 +33230,1032 @@
             ]
           ]
         ],
-        "sourceConfidence": "confirmed"
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/wicklow-way",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      }
+    },
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "sport-ireland-trails",
+    "placementConfidence": "confirmed"
+  },
+  {
+    "id": "trail-ie-sport-ireland-route-297-mullaghmeen-multi-access-trail",
+    "appId": "ie",
+    "name": "Mullaghmeen Multi Access Trail",
+    "type": "trail",
+    "placeTypeId": "trail",
+    "regionId": "westmeath",
+    "regionLabel": "Westmeath",
+    "locationLabel": "Starts at Mullaghmeen Forest Carpark",
+    "lat": 53.748869,
+    "lon": -7.273165,
+    "solarMode": "open-area",
+    "status": "unknown",
+    "sourceKind": "sport-ireland-trails",
+    "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+    "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/mullaghmeen-multi-access-trail",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "sport-ireland-trails",
+    "placementConfidence": "confirmed",
+    "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/mullaghmeen-multi-access-trail",
+    "trail": {
+      "id": "sport-ireland-trail-297",
+      "appId": "ie",
+      "placeTypeId": "trail",
+      "name": "Mullaghmeen Multi Access Trail",
+      "slug": "mullaghmeen-multi-access-trail",
+      "activity": "walking",
+      "county": "Westmeath",
+      "regionLabel": "Westmeath",
+      "localityLabel": "Oldcastle",
+      "difficulty": "Easy",
+      "format": "linear",
+      "trailType": "Walking Trail",
+      "lengthKm": 0.2,
+      "timeToComplete": "15 mins",
+      "ascentMetres": 0,
+      "dogsAllowed": "yes",
+      "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/mullaghmeen-multi-access-trail",
+      "managementOrganisation": "Coillte North and East",
+      "sourceKind": "sport-ireland-trails",
+      "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+      "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/mullaghmeen-multi-access-trail",
+      "sourceConfidence": "confirmed",
+      "geospatialSource": "sport-ireland-trails",
+      "placementConfidence": "confirmed",
+      "startPoint": {
+        "id": "sport-ireland-trailhead-297-start-205624-mullaghmeen-multi-access-trail",
+        "name": "Mullaghmeen Forest Carpark",
+        "lat": 53.748869,
+        "lon": -7.273165,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/mullaghmeen-multi-access-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "finishPoint": {
+        "id": "sport-ireland-trailhead-297-finish-205625-mullaghmeen-multi-access-trail",
+        "name": "Mullaghmeen Forest Carpark",
+        "lat": 53.748869,
+        "lon": -7.273165,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/mullaghmeen-multi-access-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "routeGeometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.27387403891595,
+            53.7490692538621
+          ],
+          [
+            -7.2737407414107,
+            53.7495233582303
+          ],
+          [
+            -7.27411835387079,
+            53.7503086162015
+          ],
+          [
+            -7.27394438985907,
+            53.7509811868605
+          ]
+        ],
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/mullaghmeen-multi-access-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      }
+    }
+  },
+  {
+    "id": "trail-ie-sport-ireland-route-416-gortarowey-multi-access",
+    "appId": "ie",
+    "name": "Gortarowey - Multi Access",
+    "type": "trail",
+    "placeTypeId": "trail",
+    "regionId": "sligo",
+    "regionLabel": "Sligo",
+    "locationLabel": "Starts at Gortarowey Forest entrance car park",
+    "lat": 54.361886,
+    "lon": -8.501827,
+    "solarMode": "open-area",
+    "status": "unknown",
+    "sourceKind": "sport-ireland-trails",
+    "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+    "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/gortarowey-multi-access",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "sport-ireland-trails",
+    "placementConfidence": "confirmed",
+    "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/gortarowey-multi-access",
+    "trail": {
+      "id": "sport-ireland-trail-416",
+      "appId": "ie",
+      "placeTypeId": "trail",
+      "name": "Gortarowey - Multi Access",
+      "slug": "gortarowey-multi-access",
+      "activity": "walking",
+      "county": "Sligo",
+      "regionLabel": "Sligo",
+      "localityLabel": "Sligo Town",
+      "difficulty": "Easy",
+      "format": "loop",
+      "trailType": "Walking Trail",
+      "lengthKm": 0.2,
+      "timeToComplete": "10 mins",
+      "ascentMetres": 30,
+      "dogsAllowed": "yes",
+      "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/gortarowey-multi-access",
+      "managementOrganisation": "Coillte West",
+      "sourceKind": "sport-ireland-trails",
+      "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+      "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/gortarowey-multi-access",
+      "sourceConfidence": "confirmed",
+      "geospatialSource": "sport-ireland-trails",
+      "placementConfidence": "confirmed",
+      "startPoint": {
+        "id": "sport-ireland-trailhead-416-start-205709-gortarowey-multi-access",
+        "name": "Gortarowey Forest entrance car park",
+        "lat": 54.361886,
+        "lon": -8.501827,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/gortarowey-multi-access",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "routeGeometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.50218825817666,
+            54.361725256906
+          ],
+          [
+            -8.5034632772933,
+            54.3619057731206
+          ],
+          [
+            -8.50399585980266,
+            54.36208938195
+          ],
+          [
+            -8.5028829578053,
+            54.3621559654077
+          ],
+          [
+            -8.50213976212891,
+            54.3620971190706
+          ],
+          [
+            -8.50224431197103,
+            54.3619727966695
+          ],
+          [
+            -8.50229507321712,
+            54.3617867547825
+          ]
+        ],
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/gortarowey-multi-access",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      }
+    }
+  },
+  {
+    "id": "trail-ie-sport-ireland-route-995-new-ross-kellys-wood-lime-kiln-trail",
+    "appId": "ie",
+    "name": "New Ross - Kelly's Wood - Lime Kiln Trail",
+    "type": "trail",
+    "placeTypeId": "trail",
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "Starts at Oaklands Lake Shop and Car Park",
+    "lat": 52.37844,
+    "lon": -6.9572,
+    "solarMode": "open-area",
+    "status": "unknown",
+    "sourceKind": "sport-ireland-trails",
+    "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+    "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/new-ross-kellys-wood-lime-kiln-trail",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "sport-ireland-trails",
+    "placementConfidence": "confirmed",
+    "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/new-ross-kellys-wood-lime-kiln-trail",
+    "trail": {
+      "id": "sport-ireland-trail-995",
+      "appId": "ie",
+      "placeTypeId": "trail",
+      "name": "New Ross - Kelly's Wood - Lime Kiln Trail",
+      "slug": "new-ross-kellys-wood-lime-kiln-trail",
+      "activity": "walking",
+      "county": "Wexford",
+      "regionLabel": "Wexford",
+      "localityLabel": "New Ross 1km",
+      "difficulty": "Moderate",
+      "format": "linear",
+      "trailType": "Walking Trail",
+      "lengthKm": 0.5,
+      "timeToComplete": "15 mins",
+      "ascentMetres": 23,
+      "dogsAllowed": "yes",
+      "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/new-ross-kellys-wood-lime-kiln-trail",
+      "managementOrganisation": "Wexford County Council Wexford",
+      "sourceKind": "sport-ireland-trails",
+      "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+      "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/new-ross-kellys-wood-lime-kiln-trail",
+      "sourceConfidence": "confirmed",
+      "geospatialSource": "sport-ireland-trails",
+      "placementConfidence": "confirmed",
+      "startPoint": {
+        "id": "sport-ireland-trailhead-995-start-206176-new-ross-kellys-wood-lime-kiln-trail",
+        "name": "Oaklands Lake Shop and Car Park",
+        "lat": 52.37844,
+        "lon": -6.9572,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/new-ross-kellys-wood-lime-kiln-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "finishPoint": {
+        "id": "sport-ireland-trailhead-995-finish-206177-new-ross-kellys-wood-lime-kiln-trail",
+        "name": "Oaklands Lake Shop and Car Park",
+        "lat": 52.37844,
+        "lon": -6.9572,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/new-ross-kellys-wood-lime-kiln-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "routeGeometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.95691974597586,
+            52.378300478526
+          ],
+          [
+            -6.95684284555186,
+            52.3785396589593
+          ],
+          [
+            -6.95630360366509,
+            52.3787420471966
+          ],
+          [
+            -6.95592543757366,
+            52.3789131496223
+          ],
+          [
+            -6.95498299428148,
+            52.3795916862692
+          ],
+          [
+            -6.95411151358634,
+            52.3802817460721
+          ],
+          [
+            -6.95374778837449,
+            52.3805947049747
+          ],
+          [
+            -6.95341916598891,
+            52.3809297751284
+          ],
+          [
+            -6.95294416543482,
+            52.3814270907769
+          ],
+          [
+            -6.95261424027137,
+            52.3818166615927
+          ],
+          [
+            -6.95239454651723,
+            52.3820654749998
+          ],
+          [
+            -6.95214077324343,
+            52.3822485715295
+          ]
+        ],
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/new-ross-kellys-wood-lime-kiln-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      }
+    }
+  },
+  {
+    "id": "trail-ie-sport-ireland-route-962-slncr-rail-trail-the-long-stretch-walking-trail",
+    "appId": "ie",
+    "name": "SLNCR Rail Trail 'The Long Stretch' Walking Trail",
+    "type": "trail",
+    "placeTypeId": "trail",
+    "regionId": "leitrim",
+    "regionLabel": "Leitrim",
+    "locationLabel": "Starts at Riverbank Restaurant and Clubhouse Bar",
+    "lat": 54.2207,
+    "lon": -8.29763,
+    "solarMode": "open-area",
+    "status": "unknown",
+    "sourceKind": "sport-ireland-trails",
+    "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+    "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/slncr-rail-trail-the-long-stretch-walking-trail",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "sport-ireland-trails",
+    "placementConfidence": "confirmed",
+    "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/slncr-rail-trail-the-long-stretch-walking-trail",
+    "trail": {
+      "id": "sport-ireland-trail-962",
+      "appId": "ie",
+      "placeTypeId": "trail",
+      "name": "SLNCR Rail Trail 'The Long Stretch' Walking Trail",
+      "slug": "slncr-rail-trail-the-long-stretch-walking-trail",
+      "activity": "walking",
+      "county": "Leitrim",
+      "regionLabel": "Leitrim",
+      "localityLabel": "Dromahair",
+      "difficulty": "Easy",
+      "format": "linear",
+      "trailType": "Greenway",
+      "lengthKm": 1.1,
+      "timeToComplete": "30 minutes",
+      "ascentMetres": 0,
+      "dogsAllowed": "yes",
+      "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/slncr-rail-trail-the-long-stretch-walking-trail",
+      "managementOrganisation": "SLNCR Rail Trail Working Group",
+      "sourceKind": "sport-ireland-trails",
+      "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+      "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/slncr-rail-trail-the-long-stretch-walking-trail",
+      "sourceConfidence": "confirmed",
+      "geospatialSource": "sport-ireland-trails",
+      "placementConfidence": "confirmed",
+      "startPoint": {
+        "id": "sport-ireland-trailhead-962-start-206146-slncr-rail-trail-the-long-stretch-walking-trail",
+        "name": "Riverbank Restaurant and Clubhouse Bar",
+        "lat": 54.2207,
+        "lon": -8.29763,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/slncr-rail-trail-the-long-stretch-walking-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "finishPoint": {
+        "id": "sport-ireland-trailhead-962-finish-206147-slncr-rail-trail-the-long-stretch-walking-trail",
+        "name": "Riverbank Restaurant and Clubhouse Bar",
+        "lat": 54.21463,
+        "lon": -8.31273,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/slncr-rail-trail-the-long-stretch-walking-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "routeGeometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.29736355767527,
+            54.2203412557155
+          ],
+          [
+            -8.29787340876709,
+            54.220156931067
+          ],
+          [
+            -8.29837515977164,
+            54.2199750037072
+          ],
+          [
+            -8.2991844194598,
+            54.2196805701713
+          ],
+          [
+            -8.29980351341403,
+            54.2194579289026
+          ],
+          [
+            -8.30148267527873,
+            54.2188474878609
+          ],
+          [
+            -8.30257917007488,
+            54.2184500818303
+          ],
+          [
+            -8.30325888826679,
+            54.2182011177566
+          ],
+          [
+            -8.30628119326997,
+            54.2171069748034
+          ],
+          [
+            -8.30762037099902,
+            54.2166256939625
+          ],
+          [
+            -8.30948936945174,
+            54.2159362005065
+          ],
+          [
+            -8.31286730062492,
+            54.2147078407993
+          ]
+        ],
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/slncr-rail-trail-the-long-stretch-walking-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      }
+    }
+  },
+  {
+    "id": "trail-ie-sport-ireland-route-743-garrettstown-templetrine-spur",
+    "appId": "ie",
+    "name": "Garrettstown - Templetrine Spur",
+    "type": "trail",
+    "placeTypeId": "trail",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Starts at Inside gate and pillars at main entrance beside Ballinspittle Village",
+    "lat": 51.662405,
+    "lon": -8.594426,
+    "solarMode": "open-area",
+    "status": "unknown",
+    "sourceKind": "sport-ireland-trails",
+    "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+    "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/garrettstown-templetrine-spur",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "sport-ireland-trails",
+    "placementConfidence": "confirmed",
+    "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/garrettstown-templetrine-spur",
+    "trail": {
+      "id": "sport-ireland-trail-743",
+      "appId": "ie",
+      "placeTypeId": "trail",
+      "name": "Garrettstown - Templetrine Spur",
+      "slug": "garrettstown-templetrine-spur",
+      "activity": "walking",
+      "county": "Cork",
+      "regionLabel": "Cork",
+      "localityLabel": "Ballinspittle Village",
+      "difficulty": "Moderate",
+      "format": "linear",
+      "trailType": "Walking Trail",
+      "lengthKm": 0.8,
+      "timeToComplete": "30 mins",
+      "ascentMetres": 30,
+      "dogsAllowed": "yes",
+      "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/garrettstown-templetrine-spur",
+      "managementOrganisation": "Coillte South",
+      "sourceKind": "sport-ireland-trails",
+      "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+      "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/garrettstown-templetrine-spur",
+      "sourceConfidence": "confirmed",
+      "geospatialSource": "sport-ireland-trails",
+      "placementConfidence": "confirmed",
+      "startPoint": {
+        "id": "sport-ireland-trailhead-743-start-205951-garrettstown-templetrine-spur",
+        "name": "Inside gate and pillars at main entrance beside Ballinspittle Village",
+        "lat": 51.662405,
+        "lon": -8.594426,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/garrettstown-templetrine-spur",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "finishPoint": {
+        "id": "sport-ireland-trailhead-743-finish-205952-garrettstown-templetrine-spur",
+        "name": "Inside gate and pillars at main entrance beside Ballinspittle Village",
+        "lat": 51.662405,
+        "lon": -8.594426,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/garrettstown-templetrine-spur",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "routeGeometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.61432117795884,
+            51.6625662908059
+          ],
+          [
+            -8.61380842836584,
+            51.6616566849068
+          ],
+          [
+            -8.61316165727338,
+            51.6618004053531
+          ],
+          [
+            -8.6126118360555,
+            51.6620162666501
+          ],
+          [
+            -8.60999448102689,
+            51.6620659946685
+          ],
+          [
+            -8.6097018736037,
+            51.6620781717484
+          ],
+          [
+            -8.60909304593556,
+            51.6619988812149
+          ],
+          [
+            -8.60874822616957,
+            51.6619530996925
+          ],
+          [
+            -8.60752510659938,
+            51.6620069999293
+          ],
+          [
+            -8.60639838825108,
+            51.6621198564546
+          ],
+          [
+            -8.6054619179081,
+            51.6621603637328
+          ],
+          [
+            -8.60502133573268,
+            51.6621031714516
+          ],
+          [
+            -8.6035475941056,
+            51.662113982793
+          ]
+        ],
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/garrettstown-templetrine-spur",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      }
+    }
+  },
+  {
+    "id": "trail-ie-sport-ireland-route-1599-kilkishen-bog-walk",
+    "appId": "ie",
+    "name": "Kilkishen Bog Walk",
+    "type": "trail",
+    "placeTypeId": "trail",
+    "regionId": "clare",
+    "regionLabel": "Clare",
+    "locationLabel": "Starts at New Line Road, Kilkishen",
+    "lat": 52.79818,
+    "lon": -8.75196,
+    "solarMode": "open-area",
+    "status": "unknown",
+    "sourceKind": "sport-ireland-trails",
+    "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+    "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/kilkishen-bog-walk",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "sport-ireland-trails",
+    "placementConfidence": "confirmed",
+    "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/kilkishen-bog-walk",
+    "trail": {
+      "id": "sport-ireland-trail-1599",
+      "appId": "ie",
+      "placeTypeId": "trail",
+      "name": "Kilkishen Bog Walk",
+      "slug": "kilkishen-bog-walk",
+      "activity": "walking",
+      "county": "Clare",
+      "regionLabel": "Clare",
+      "localityLabel": "Kilkishen",
+      "difficulty": "Easy",
+      "format": "linear",
+      "trailType": "Walking Trail",
+      "lengthKm": 0.8,
+      "timeToComplete": "20 minutes",
+      "dogsAllowed": "yes",
+      "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/kilkishen-bog-walk",
+      "managementOrganisation": "Kilkishen Tidy Towns Committee",
+      "sourceKind": "sport-ireland-trails",
+      "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+      "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/kilkishen-bog-walk",
+      "sourceConfidence": "confirmed",
+      "geospatialSource": "sport-ireland-trails",
+      "placementConfidence": "confirmed",
+      "startPoint": {
+        "id": "sport-ireland-trailhead-1599-start-206465-kilkishen-bog-walk",
+        "name": "New Line Road, Kilkishen",
+        "lat": 52.79818,
+        "lon": -8.75196,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/kilkishen-bog-walk",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "finishPoint": {
+        "id": "sport-ireland-trailhead-1599-finish-206466-kilkishen-bog-walk",
+        "name": "New Line Road, Kilkishen",
+        "lat": 52.79818,
+        "lon": -8.75196,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/kilkishen-bog-walk",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "routeGeometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.75230949491782,
+            52.7978891529713
+          ],
+          [
+            -8.75100510239401,
+            52.7982398568614
+          ],
+          [
+            -8.7497862600787,
+            52.7985472006444
+          ],
+          [
+            -8.74899722847237,
+            52.7987519404047
+          ],
+          [
+            -8.74859094204468,
+            52.7988543825518
+          ],
+          [
+            -8.74823957333224,
+            52.7989564770821
+          ],
+          [
+            -8.74795064914735,
+            52.7990391540184
+          ],
+          [
+            -8.74773969908102,
+            52.7990927995199
+          ],
+          [
+            -8.74728648891425,
+            52.7992050465674
+          ],
+          [
+            -8.74574735647821,
+            52.7995999752974
+          ],
+          [
+            -8.74423181788192,
+            52.7999994906527
+          ],
+          [
+            -8.74271616888922,
+            52.8003942326075
+          ],
+          [
+            -8.74194260100515,
+            52.8005893164835
+          ],
+          [
+            -8.74134909394473,
+            52.8007594903562
+          ],
+          [
+            -8.74013860520425,
+            52.8011047310701
+          ]
+        ],
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/kilkishen-bog-walk",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      }
+    }
+  },
+  {
+    "id": "trail-ie-sport-ireland-route-210-barnaslingan-pine-loop-trail-blue",
+    "appId": "ie",
+    "name": "Barnaslingan - Pine loop trail (Blue)",
+    "type": "trail",
+    "placeTypeId": "trail",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Starts at Barnaslingan Forest Entrance car park",
+    "lat": 53.220197,
+    "lon": -6.169566,
+    "solarMode": "open-area",
+    "status": "unknown",
+    "sourceKind": "sport-ireland-trails",
+    "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+    "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/barnaslingan-pine-loop-trail-blue",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "sport-ireland-trails",
+    "placementConfidence": "confirmed",
+    "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/barnaslingan-pine-loop-trail-blue",
+    "trail": {
+      "id": "sport-ireland-trail-210",
+      "appId": "ie",
+      "placeTypeId": "trail",
+      "name": "Barnaslingan - Pine loop trail (Blue)",
+      "slug": "barnaslingan-pine-loop-trail-blue",
+      "activity": "walking",
+      "county": "Dublin",
+      "regionLabel": "Dublin",
+      "localityLabel": "Kilternan",
+      "difficulty": "Easy",
+      "format": "loop",
+      "trailType": "Walking Trail",
+      "lengthKm": 0.9,
+      "timeToComplete": "20 mins",
+      "ascentMetres": 30,
+      "dogsAllowed": "yes",
+      "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/barnaslingan-pine-loop-trail-blue",
+      "managementOrganisation": "Coillte Dublin Mountains Partnership",
+      "sourceKind": "sport-ireland-trails",
+      "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+      "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/barnaslingan-pine-loop-trail-blue",
+      "sourceConfidence": "confirmed",
+      "geospatialSource": "sport-ireland-trails",
+      "placementConfidence": "confirmed",
+      "startPoint": {
+        "id": "sport-ireland-trailhead-210-start-205560-barnaslingan-pine-loop-trail-blue",
+        "name": "Barnaslingan Forest Entrance car park",
+        "lat": 53.220197,
+        "lon": -6.169566,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/barnaslingan-pine-loop-trail-blue",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "routeGeometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.17117055260542,
+            53.2205349919292
+          ],
+          [
+            -6.17148673240645,
+            53.2204654201488
+          ],
+          [
+            -6.17209769008061,
+            53.2203781065223
+          ],
+          [
+            -6.17269973775851,
+            53.2203449306583
+          ],
+          [
+            -6.1733397969335,
+            53.2202487144002
+          ],
+          [
+            -6.17429401951527,
+            53.2202421370658
+          ],
+          [
+            -6.1751079096748,
+            53.2202121902545
+          ],
+          [
+            -6.17520369229451,
+            53.2201007059199
+          ],
+          [
+            -6.17542042408197,
+            53.2198600233041
+          ],
+          [
+            -6.17658823485864,
+            53.2187149282971
+          ],
+          [
+            -6.17640327215555,
+            53.2187688496571
+          ],
+          [
+            -6.17443689338391,
+            53.219270442737
+          ],
+          [
+            -6.17201076916586,
+            53.219909344208
+          ],
+          [
+            -6.17099678828393,
+            53.2202067962306
+          ],
+          [
+            -6.17117627933696,
+            53.2205097908782
+          ],
+          [
+            -6.17119140069113,
+            53.2205353119108
+          ]
+        ],
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/barnaslingan-pine-loop-trail-blue",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      }
+    }
+  },
+  {
+    "id": "trail-ie-sport-ireland-route-1823-kiltullagh-church-trail",
+    "appId": "ie",
+    "name": "Kiltullagh Church Trail",
+    "type": "trail",
+    "placeTypeId": "trail",
+    "regionId": "roscommon",
+    "regionLabel": "Roscommon",
+    "locationLabel": "Starts at Kiltullagh Church",
+    "lat": 53.71304,
+    "lon": -8.70114,
+    "solarMode": "open-area",
+    "status": "unknown",
+    "sourceKind": "sport-ireland-trails",
+    "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+    "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/kiltullagh-church-trail",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "sport-ireland-trails",
+    "placementConfidence": "confirmed",
+    "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/kiltullagh-church-trail",
+    "trail": {
+      "id": "sport-ireland-trail-1823",
+      "appId": "ie",
+      "placeTypeId": "trail",
+      "name": "Kiltullagh Church Trail",
+      "slug": "kiltullagh-church-trail",
+      "activity": "walking",
+      "county": "Roscommon",
+      "regionLabel": "Roscommon",
+      "localityLabel": "Cloonfad",
+      "difficulty": "Moderate",
+      "format": "out-and-back",
+      "trailType": "Walking Trail",
+      "lengthKm": 0.4,
+      "timeToComplete": "15 minutes",
+      "websiteUrl": "https://www.sportireland.ie/outdoors/walking/trails/kiltullagh-church-trail",
+      "managementOrganisation": "Kiltullagh Church and Cemetery Heritage Group",
+      "sourceKind": "sport-ireland-trails",
+      "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+      "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/kiltullagh-church-trail",
+      "sourceConfidence": "confirmed",
+      "geospatialSource": "sport-ireland-trails",
+      "placementConfidence": "confirmed",
+      "startPoint": {
+        "id": "sport-ireland-trailhead-1823-start-206698-kiltullagh-church-trail",
+        "name": "Kiltullagh Church",
+        "lat": 53.71304,
+        "lon": -8.70114,
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailHeads",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/kiltullagh-church-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
+      },
+      "routeGeometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.703352775836,
+            53.7129338011585
+          ],
+          [
+            -8.7034798984393,
+            53.7129997305847
+          ],
+          [
+            -8.70365446116694,
+            53.7130512391138
+          ],
+          [
+            -8.70388371862339,
+            53.7131145489374
+          ],
+          [
+            -8.70404749209154,
+            53.7131317718522
+          ],
+          [
+            -8.70426933302814,
+            53.7131587559129
+          ],
+          [
+            -8.70442960045106,
+            53.7131699356833
+          ],
+          [
+            -8.70457597603492,
+            53.7131650337082
+          ],
+          [
+            -8.70474248127906,
+            53.7131418297423
+          ],
+          [
+            -8.70491529139944,
+            53.7130882794755
+          ],
+          [
+            -8.70521309654806,
+            53.7129733771326
+          ],
+          [
+            -8.70540923845862,
+            53.7128893816338
+          ],
+          [
+            -8.7056390966451,
+            53.7127849818509
+          ],
+          [
+            -8.70577788290043,
+            53.7127336517939
+          ],
+          [
+            -8.70597813638846,
+            53.712692061186
+          ],
+          [
+            -8.70657923758572,
+            53.7125874934196
+          ],
+          [
+            -8.70673218696055,
+            53.7125684060834
+          ],
+          [
+            -8.70706705326846,
+            53.7126331069888
+          ],
+          [
+            -8.70724778811136,
+            53.7126461832722
+          ],
+          [
+            -8.70747630147476,
+            53.7126650394932
+          ],
+          [
+            -8.70758531504878,
+            53.7126664158915
+          ]
+        ],
+        "sourceKind": "sport-ireland-trails",
+        "sourceName": "Sport Ireland GetIrelandActive TrailRoutes",
+        "sourceUrl": "https://www.sportireland.ie/outdoors/walking/trails/kiltullagh-church-trail",
+        "sourceConfidence": "confirmed",
+        "geospatialSource": "sport-ireland-trails",
+        "placementConfidence": "confirmed"
       }
     }
   }
