@@ -12431,7 +12431,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.897,
     "frontObservationPointLon": -8.4668,
-    "facadeWidthM": 6.3
+    "facadeWidthM": 6.3,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "eldon-s-node-7792189738",
