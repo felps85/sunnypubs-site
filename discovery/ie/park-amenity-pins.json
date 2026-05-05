@@ -7,10 +7,57 @@
     "name": "Alderman Tommy Patton Memorial Park playground",
     "lat": 54.610039,
     "lon": -5.869626,
+    "sourceKind": "official-site",
+    "sourceName": "Belfast City Council parks",
+    "sourceUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/alderman-tommy-patton-memorial-park",
     "metadata": {
+      "acceptedPresenceId": "park-amenity-presence-ie-parks-alderman-tommy-patton-memorial-park-way-38380590-playground",
+      "acceptedAt": "2026-05-01T00:00:00.000Z",
       "sourceConfidence": "confirmed",
-      "placementConfidence": "source-backed"
-    },
-    "sourceName": "Belfast City Council parks"
+      "sourceKind": "official-site",
+      "sourceUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/alderman-tommy-patton-memorial-park",
+      "geospatialSource": "osm-overpass",
+      "geospatialSourceUrl": "https://www.openstreetmap.org/way/296917815",
+      "placementConfidence": "source-backed",
+      "placementEvidence": {
+        "osmType": "way",
+        "osmId": 296917815,
+        "tags": {
+          "leisure": "playground"
+        }
+      },
+      "satelliteAerialUsage": "not-used"
+    }
+  },
+  {
+    "id": "park-amenity-pin-parks-barnett-demesne-way-554010963-playground-way-466760851",
+    "parkVenueId": "parks-barnett-demesne-way-554010963",
+    "appId": "ie",
+    "type": "playground",
+    "name": "Barnett Demesne playground",
+    "lat": 54.552992,
+    "lon": -5.955509,
+    "sourceKind": "official-site",
+    "sourceName": "Belfast City Council parks",
+    "sourceUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/barnett-demesne",
+    "metadata": {
+      "acceptedPresenceId": "park-amenity-presence-ie-parks-barnett-demesne-way-554010963-playground",
+      "acceptedAt": "2026-05-05T00:00:00.000Z",
+      "sourceConfidence": "confirmed",
+      "sourceKind": "official-site",
+      "sourceUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/barnett-demesne",
+      "geospatialSource": "osm-overpass",
+      "geospatialSourceUrl": "https://www.openstreetmap.org/way/466760851",
+      "placementConfidence": "source-backed",
+      "placementEvidence": {
+        "osmType": "way",
+        "osmId": 466760851,
+        "tags": {
+          "leisure": "playground"
+        },
+        "centroidMethod": "osm-way-node-average"
+      },
+      "satelliteAerialUsage": "not-used"
+    }
   }
 ]
