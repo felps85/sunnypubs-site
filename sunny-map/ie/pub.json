@@ -4096,10 +4096,15 @@
     "frontObservationPointLat": 53.3269,
     "frontObservationPointLon": -6.2647,
     "facadeWidthM": 15.9,
+    "outdoorAreaProfileId": "osm:way:294909021",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.327,
+    "outdoorObservationPointLon": -6.2646,
+    "outdoorAreaWidthM": 16.7,
+    "outdoorAreaInferenceSource": "osm-outdoor-area-way-294909021",
     "foodOffer": {
       "category": "burger-pizza-sandwich",
       "confidence": "confirmed"
@@ -9582,10 +9587,15 @@
     "frontObservationPointLat": 53.3612,
     "frontObservationPointLon": -6.2427,
     "facadeWidthM": 10.4,
+    "outdoorAreaProfileId": "osm:way:656057652",
     "outdoorArea": {
       "type": "beer-garden",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3609,
+    "outdoorObservationPointLon": -6.2424,
+    "outdoorAreaWidthM": 23.3,
+    "outdoorAreaInferenceSource": "osm-outdoor-area-way-656057652",
     "foodOffer": {
       "category": "snacks",
       "confidence": "confirmed"
