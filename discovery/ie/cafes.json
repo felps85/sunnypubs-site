@@ -292,6 +292,11 @@
     "lat": 54.591862,
     "lon": -5.984686,
     "sourceUrl": "https://www.openstreetmap.org/way/1182645069",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "osm"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "Af//AwAAAAAQAAAA/AEAAMAfAAAA/AEAAMA/AAAA/AMAAMB/AAAA/AcAAMB/IAAA/AcCAMD/IAAA/A8DAMD/OQAA/P8DAMD/PwAA/P8DAMD/PwAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -300,7 +305,10 @@
     "facadeWidthM": 8.7,
     "frontBearingDeg": 17.6,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "osm-overpass",
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-ashers-bakery-way-226261648",
@@ -4040,6 +4048,11 @@
     "lat": 53.379034,
     "lon": -6.262047,
     "sourceUrl": "https://www.openstreetmap.org/way/818086251",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "osm"
+    },
     "solarMode": "facade",
     "websiteUrl": "https://www.andersons.ie/",
     "sunGeometryProfileBase64": "Af7/AwAACAAAAMADOAAA/OADAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
@@ -4049,7 +4062,10 @@
     "facadeWidthM": 8,
     "frontBearingDeg": 255,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "osm-overpass",
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-angos-node-989093290",

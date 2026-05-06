@@ -242,7 +242,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 54.5919,
     "frontObservationPointLon": -5.9848,
-    "facadeWidthM": 8.7
+    "facadeWidthM": 8.7,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-ashers-bakery-way-226261648",
@@ -3306,7 +3310,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.379,
     "frontObservationPointLon": -6.2622,
-    "facadeWidthM": 8
+    "facadeWidthM": 8,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-angos-node-989093290",
