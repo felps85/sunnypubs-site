@@ -50734,7 +50734,12 @@
     "websiteUrl": "https://thebathpub.ie",
     "websiteSource": "https://thebathpub.ie/",
     "instagramUrl": "https://instagram.com/bathpubdub",
-    "instagramSource": "https://thebathpub.ie/"
+    "instagramSource": "https://thebathpub.ie/",
+    "outdoorObservationPointLat": 53.3373867,
+    "outdoorObservationPointLon": -6.2321354,
+    "outdoorAreaWidthM": 12.4,
+    "outdoorAreaInferenceSource": "osm-outdoor-area-way-1108388886",
+    "outdoorAreaProfileId": "osm:way:1108388886"
   },
   {
     "id": "the-beach-node-9949401156",

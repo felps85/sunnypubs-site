@@ -52153,10 +52153,15 @@
     "frontObservationPointLat": 53.3375,
     "frontObservationPointLon": -6.2322,
     "facadeWidthM": 8.9,
+    "outdoorAreaProfileId": "osm:way:1108388886",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3373867,
+    "outdoorObservationPointLon": -6.2321354,
+    "outdoorAreaWidthM": 12.4,
+    "outdoorAreaInferenceSource": "osm-outdoor-area-way-1108388886",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
