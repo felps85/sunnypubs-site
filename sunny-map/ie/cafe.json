@@ -4162,7 +4162,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3327,
     "frontObservationPointLon": -6.2656,
-    "facadeWidthM": 8.4
+    "facadeWidthM": 8.4,
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-butlers-chocolate-cafe-node-2797078497",
@@ -15451,5 +15455,212 @@
     "frontObservationPointLat": 53.3255,
     "frontObservationPointLon": -6.2649,
     "facadeWidthM": 18
+  },
+  {
+    "id": "cafes-coffee-rush-drive-through-cafe-way-1386085772",
+    "name": "Coffee Rush Drive Through Café",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.853496,
+    "lon": -8.971426,
+    "regionId": "ennis",
+    "regionLabel": "Ennis",
+    "locationLabel": "Tulla Road, Ennis",
+    "solarMode": "facade",
+    "frontBearingDeg": 71.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.8535,
+    "frontObservationPointLon": -8.9714,
+    "facadeWidthM": 8.9,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cream-tea-room-node-10871887335",
+    "name": "Cream Tea Room",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.337301,
+    "lon": -6.460418,
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "Henrietta Street, Wexford",
+    "solarMode": "facade",
+    "frontBearingDeg": 330.8,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.3374,
+    "frontObservationPointLon": -6.46,
+    "facadeWidthM": 8.9,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-himalayan-cafe-way-483722693",
+    "name": "Himalayan Cafe",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 54.950581,
+    "lon": -7.737551,
+    "regionId": "letterkenny",
+    "regionLabel": "Letterkenny",
+    "locationLabel": "Church Lane, Letterkenny",
+    "solarMode": "facade",
+    "frontBearingDeg": 11.7,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9506,
+    "frontObservationPointLon": -7.7375,
+    "facadeWidthM": 11.3,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-kp3-node-13251490342",
+    "name": "KP3",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.05804,
+    "lon": -9.506856,
+    "regionId": "killarney",
+    "regionLabel": "Killarney",
+    "locationLabel": "3 Kenmare Place, Killarney, V93 A030",
+    "solarMode": "facade",
+    "frontBearingDeg": 168.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.058,
+    "frontObservationPointLon": -9.5068,
+    "facadeWidthM": 15.4,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-nosh-coffee-node-1611940769",
+    "name": "Nosh + Coffee",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.342308,
+    "lon": -6.464747,
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "8 Redmond Square, Wexford, Y35 V0HA",
+    "solarMode": "facade",
+    "frontBearingDeg": 126.2,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.3425,
+    "frontObservationPointLon": -6.4649,
+    "facadeWidthM": 16.2,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-sweetngreen-node-5630171223",
+    "name": "SweetNGreen",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.84477,
+    "lon": -8.98156,
+    "regionId": "ennis",
+    "regionLabel": "Ennis",
+    "locationLabel": "Friary Hall, Ennis, V95 YR92",
+    "solarMode": "facade",
+    "frontBearingDeg": 118.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.8447,
+    "frontObservationPointLon": -8.9816,
+    "facadeWidthM": 10.8,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-red-kettle-node-5291804877",
+    "name": "The Red Kettle",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.338981,
+    "lon": -6.463253,
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "19 Mallin Street, Wexford",
+    "solarMode": "facade",
+    "frontBearingDeg": 235,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.339,
+    "frontObservationPointLon": -6.4634,
+    "facadeWidthM": 18,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-tea-room-node-7573183642",
+    "name": "The Tea Room",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.342383,
+    "lon": -6.486871,
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "Newtown Road, Wexford",
+    "solarMode": "facade",
+    "frontBearingDeg": 253.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.3425,
+    "frontObservationPointLon": -6.487,
+    "facadeWidthM": 14.9,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-trimmers-lane-cafe-node-6418096931",
+    "name": "Trimmer's Lane Cafe",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 52.341299,
+    "lon": -6.464438,
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "Selskar Avenue, Wexford",
+    "solarMode": "facade",
+    "frontBearingDeg": 323.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.3415,
+    "frontObservationPointLon": -6.4639,
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   }
 ]

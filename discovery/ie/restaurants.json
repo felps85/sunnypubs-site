@@ -10652,7 +10652,12 @@
     "facadeWidthM": 7.3,
     "frontBearingDeg": 189.4,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed",
+      "source": "https://isabelles.ie/terrace/"
+    }
   },
   {
     "id": "restaurants-jamies-italian-node-3358130374",
@@ -13800,7 +13805,12 @@
     "facadeWidthM": 17.4,
     "frontBearingDeg": 86.5,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed",
+      "source": "https://sophies.ie/location/dublin/"
+    }
   },
   {
     "id": "restaurants-southern-spices-node-10970613132",
@@ -13961,7 +13971,12 @@
     "facadeWidthM": 11.9,
     "frontBearingDeg": 300.6,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed",
+      "source": "https://www.sueseystreet.ie/wp-content/uploads/2019/09/Suesey-Street-Private-Dining-Brochure-2019.pdf"
+    }
   },
   {
     "id": "restaurants-sumaki-node-5044580222",
@@ -27630,5 +27645,69 @@
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "St Andrew Lane"
+  },
+  {
+    "id": "restaurants-harpur-eleven-node-10891936663",
+    "appId": "ie",
+    "name": "Harpur Eleven",
+    "type": "restaurant",
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "13 Peter Street, Wexford, Y35 AX90",
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "lat": 52.336385,
+    "lon": -6.461677,
+    "sourceUrl": "https://www.openstreetmap.org/node/10891936663",
+    "solarMode": "facade",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "osm-overpass",
+    "placementConfidence": "source-backed",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAAAAABgAAAcAEIAAAfgAAA8AEMAAAfwAAA8AEOAAA/+AAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.3364,
+    "frontObservationPointLon": -6.4617,
+    "facadeWidthM": 6.5,
+    "frontBearingDeg": 162.7,
+    "shadeClearanceDeg": 22.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Peter Street",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "osm"
+    }
+  },
+  {
+    "id": "restaurants-pot-belly-food-truck-node-13137570647",
+    "appId": "ie",
+    "name": "Pot Belly Food Truck",
+    "type": "restaurant",
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "Cinema Lane/Harper's Lane, Wexford",
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "lat": 52.336944,
+    "lon": -6.460163,
+    "sourceUrl": "https://www.openstreetmap.org/node/13137570647",
+    "solarMode": "facade",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "osm-overpass",
+    "placementConfidence": "source-backed",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAA4AMAAIA/AAAA+AMAAIB/AAAA+AcAAIB/AAAA+IcAAIB/CAAA+P8AAID/DwAA+P8AAID/DwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.3373,
+    "frontObservationPointLon": -6.4599,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 149.5,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Cinema Lane/Harper's Lane",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "osm"
+    }
   }
 ]

@@ -8502,7 +8502,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3412,
     "frontObservationPointLon": -6.2584,
-    "facadeWidthM": 7.3
+    "facadeWidthM": 7.3,
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-jamies-italian-node-3358130374",
@@ -11011,6 +11015,10 @@
     "frontObservationPointLat": 53.3352,
     "frontObservationPointLon": -6.2635,
     "facadeWidthM": 17.4,
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed"
+    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -11145,7 +11153,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3327,
     "frontObservationPointLon": -6.2529,
-    "facadeWidthM": 11.9
+    "facadeWidthM": 11.9,
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-sumaki-node-5044580222",
@@ -21968,5 +21980,51 @@
     "frontObservationPointLat": 53.3436,
     "frontObservationPointLon": -6.2625,
     "facadeWidthM": 18
+  },
+  {
+    "id": "restaurants-harpur-eleven-node-10891936663",
+    "name": "Harpur Eleven",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 52.336385,
+    "lon": -6.461677,
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "13 Peter Street, Wexford, Y35 AX90",
+    "solarMode": "facade",
+    "frontBearingDeg": 162.7,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.3364,
+    "frontObservationPointLon": -6.4617,
+    "facadeWidthM": 6.5,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "restaurants-pot-belly-food-truck-node-13137570647",
+    "name": "Pot Belly Food Truck",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 52.336944,
+    "lon": -6.460163,
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "Cinema Lane/Harper's Lane, Wexford",
+    "solarMode": "facade",
+    "frontBearingDeg": 149.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.3373,
+    "frontObservationPointLon": -6.4599,
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   }
 ]
