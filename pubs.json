@@ -177,7 +177,8 @@
     "frontObservationPointLat": 52.6615,
     "frontObservationPointLon": -8.6294,
     "facadeWidthM": 7.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "a-golden-node-5816302788",
@@ -299,7 +300,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.7146,
     "frontObservationPointLon": -6.3496,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "solarMode": "facade"
   },
   {
     "id": "after-dark-node-999270526",
@@ -898,7 +900,8 @@
       "source": "https://anpoitinstil.ie/dining/"
     },
     "websiteUrl": "https://anpoitinstil.ie",
-    "websiteSource": "https://anpoitinstil.ie/"
+    "websiteSource": "https://anpoitinstil.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "an-puc-fada-node-6184439396",
@@ -1093,7 +1096,8 @@
     "frontObservationPointLat": 51.8967,
     "frontObservationPointLon": -8.477,
     "facadeWidthM": 9.2,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "an-teach-beag-node-2211738622",
@@ -1359,7 +1363,8 @@
     "frontObservationPointLat": 53.3596,
     "frontObservationPointLon": -6.2403,
     "facadeWidthM": 5.3,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "annie-kehoe-s-node-7781884937",
@@ -1423,7 +1428,8 @@
     "frontObservationPointLat": 51.8907,
     "frontObservationPointLon": -8.4882,
     "facadeWidthM": 10.1,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "annie-may-s-node-3139297357",
@@ -1857,7 +1863,8 @@
     "frontObservationPointLon": -6.23,
     "facadeWidthM": 4.5,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceRoadName": "Coolock Lane"
+    "facadeInferenceRoadName": "Coolock Lane",
+    "solarMode": "facade"
   },
   {
     "id": "athenry-golf-club-node-5053386121",
@@ -2089,7 +2096,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.717,
     "frontObservationPointLon": -6.3439,
-    "facadeWidthM": 5.5
+    "facadeWidthM": 5.5,
+    "solarMode": "facade"
   },
   {
     "id": "b-hopkins-node-10044247621",
@@ -2278,7 +2286,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5959,
     "frontObservationPointLon": -6.1824,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "solarMode": "facade"
   },
   {
     "id": "ball-alley-house-node-506824954",
@@ -2610,7 +2619,8 @@
     "frontObservationPointLat": 52.9606,
     "frontObservationPointLon": -7.2013,
     "facadeWidthM": 10.9,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "bar-rua-chijqqw4ppwoz0grakhnyqr5",
@@ -2641,7 +2651,8 @@
     "frontObservationPointLat": 53.3411,
     "frontObservationPointLon": -6.2625,
     "facadeWidthM": 7.6,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "bar-tolka-node-280123269",
@@ -2866,7 +2877,8 @@
     "frontObservationPointLat": 52.6796,
     "frontObservationPointLon": -7.8021,
     "facadeWidthM": 12.1,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "barretts-node-1881113868",
@@ -2963,7 +2975,8 @@
     "frontObservationPointLat": 53.2811,
     "frontObservationPointLon": -6.469,
     "facadeWidthM": 17.9,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "bay-view-inn-node-5555169873",
@@ -3027,7 +3040,8 @@
     "frontObservationPointLat": 53.389,
     "frontObservationPointLon": -6.1412,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "bayview-inn-node-1585082899",
@@ -3144,7 +3158,8 @@
     "frontObservationPointLat": 53.3857,
     "frontObservationPointLon": -6.2331,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "beaumont-s-node-9544602176",
@@ -3257,7 +3272,8 @@
     "frontObservationPointLat": 54.5884,
     "frontObservationPointLon": -5.9327,
     "facadeWidthM": 6.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "bell-s-bar-node-5590330590",
@@ -3515,7 +3531,8 @@
     "frontObservationPointLat": 52.6523,
     "frontObservationPointLon": -7.2493,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "biddy-o-dowds-node-10312691645",
@@ -3676,7 +3693,8 @@
     "frontObservationPointLat": 52.3328,
     "frontObservationPointLon": -6.4571,
     "facadeWidthM": 6.1,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "birchall-s-node-565770327",
@@ -3771,7 +3789,8 @@
     "frontObservationPointLat": 54.5986,
     "frontObservationPointLon": -5.9242,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "black-cat-cove-node-2334922575",
@@ -3958,7 +3977,8 @@
     "outdoorObservationPointLon": -6.2646,
     "outdoorAreaWidthM": 16.7,
     "outdoorAreaInferenceSource": "osm-outdoor-area-way-294909021",
-    "outdoorAreaProfileId": "osm:way:294909021"
+    "outdoorAreaProfileId": "osm:way:294909021",
+    "solarMode": "facade"
   },
   {
     "id": "blacks-bark-node-13293522271",
@@ -4117,7 +4137,8 @@
     "frontObservationPointLat": 51.7695,
     "frontObservationPointLon": -10.1007,
     "facadeWidthM": 17.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "blouser-s-pub-chijw6naa6rkwugrhlwasju-",
@@ -4148,7 +4169,8 @@
     "frontObservationPointLat": 53.7995,
     "frontObservationPointLon": -9.5242,
     "facadeWidthM": 7.8,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "blue-anchor-node-11289412532",
@@ -4195,7 +4217,8 @@
     "frontObservationPointLat": 52.6488,
     "frontObservationPointLon": -7.2512,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "blue-stack-bar-node-9655817224",
@@ -4234,7 +4257,7 @@
       "source": "https://boarddublin.com/faq/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://boarddublin.com/info/"
     },
@@ -4270,7 +4293,8 @@
       "source": "https://boarddublin.com/games/"
     },
     "websiteUrl": "https://boarddublin.com",
-    "websiteSource": "https://boarddublin.com/"
+    "websiteSource": "https://boarddublin.com/",
+    "solarMode": "facade"
   },
   {
     "id": "boat-house-node-12269754404",
@@ -4573,7 +4597,8 @@
     "websiteUrl": "https://bonobodublin.com",
     "websiteSource": "https://www.bizireland.com/bonobo-smithfield",
     "instagramUrl": "https://instagram.com/bonobo_smithfield",
-    "instagramSource": "https://www.lovindublin.com/best-of/cocktails-and-food-dublin-24614"
+    "instagramSource": "https://www.lovindublin.com/best-of/cocktails-and-food-dublin-24614",
+    "solarMode": "facade"
   },
   {
     "id": "boom-boom-rooms-node-790513540",
@@ -4770,7 +4795,8 @@
     "frontObservationPointLat": 53.312,
     "frontObservationPointLon": -6.2749,
     "facadeWidthM": 6.9,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "bowes-dublin-manual",
@@ -4826,7 +4852,8 @@
     "facadeWidthM": 6.1,
     "shadeClearanceDeg": 17.5,
     "websiteUrl": "https://bowespub.com",
-    "websiteSource": "https://bowespub.com/"
+    "websiteSource": "https://bowespub.com/",
+    "solarMode": "facade"
   },
   {
     "id": "bowler-s-node-4378143872",
@@ -5067,7 +5094,8 @@
     "frontObservationPointLat": 53.2302,
     "frontObservationPointLon": -6.1244,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "bradys-node-2098258646",
@@ -5181,7 +5209,8 @@
       "source": "https://brannigansbar.ie/"
     },
     "websiteUrl": "https://brannigansbar.ie",
-    "websiteSource": "https://brannigansbar.ie/"
+    "websiteSource": "https://brannigansbar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "brass-node-5171529312",
@@ -5227,7 +5256,8 @@
     "frontObservationPointLat": 54.2715,
     "frontObservationPointLon": -8.5816,
     "facadeWidthM": 10.2,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "breen-s-bar-node-3647727072",
@@ -5436,7 +5466,8 @@
     "websiteUrl": "https://brewdog.com/pages/bars/dublin",
     "websiteSource": "https://brewdog.com/pages/bars/dublin",
     "instagramUrl": "https://instagram.com/brewdogdublin",
-    "instagramSource": "https://brewdog.com/pages/bars/dublin"
+    "instagramSource": "https://brewdog.com/pages/bars/dublin",
+    "solarMode": "facade"
   },
   {
     "id": "brewers-fayre-node-4675564526",
@@ -5500,7 +5531,8 @@
     "frontObservationPointLat": 52.6551,
     "frontObservationPointLon": -7.2549,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "brewery-tavern-node-4888166121",
@@ -5748,7 +5780,8 @@
     "frontObservationPointLat": 53.8575,
     "frontObservationPointLon": -9.2975,
     "facadeWidthM": 6.8,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "bridgie-terries-node-770637466",
@@ -5794,7 +5827,8 @@
     "frontObservationPointLat": 51.8242,
     "frontObservationPointLon": -8.4619,
     "facadeWidthM": 12.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "briodys-chijmuxxtouoz0grobyyhe8j",
@@ -5825,7 +5859,8 @@
     "frontObservationPointLat": 53.3496,
     "frontObservationPointLon": -6.2581,
     "facadeWidthM": 7.4,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "brogan-s-bar-hotel-node-3404109996",
@@ -5872,7 +5907,8 @@
     "frontObservationPointLat": 53.3443,
     "frontObservationPointLon": -6.2661,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 57.5
+    "shadeClearanceDeg": 57.5,
+    "solarMode": "facade"
   },
   {
     "id": "brosnan-s-node-2107149026",
@@ -6019,7 +6055,8 @@
     "frontObservationPointLat": 52.3293,
     "frontObservationPointLon": -6.4714,
     "facadeWidthM": 13.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "bru-bar-hostel-node-4307051701",
@@ -6334,7 +6371,8 @@
     "frontObservationPointLat": 54.5978,
     "frontObservationPointLon": -5.8892,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "bungalow-bar-chijx1ieehvdwugrtdqci6ny",
@@ -6365,7 +6403,8 @@
     "frontObservationPointLat": 53.8575,
     "frontObservationPointLon": -9.2976,
     "facadeWidthM": 4.8,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "bunker-s-bar-restaurant-node-1873450957",
@@ -6618,7 +6657,8 @@
     "frontObservationPointLat": 53.2036,
     "frontObservationPointLon": -6.0982,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "butler-arms-node-684291065",
@@ -6895,7 +6935,8 @@
     "frontObservationPointLat": 53.2803,
     "frontObservationPointLon": -6.1889,
     "facadeWidthM": 7.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "c-central-node-778690166",
@@ -7344,7 +7385,8 @@
     "frontObservationPointLat": 53.2878,
     "frontObservationPointLon": -6.2436,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "candlelight-bar-rathmines-chijk1weizunz0grhpgwf0si",
@@ -7372,7 +7414,8 @@
     "frontObservationPointLat": 53.3228,
     "frontObservationPointLon": -6.2645,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "cannings-pub-node-1611216704",
@@ -7418,7 +7461,8 @@
     "frontObservationPointLat": 53.5257,
     "frontObservationPointLon": -7.3413,
     "facadeWidthM": 11.9,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "canty-s-bar-node-5204467575",
@@ -7532,7 +7576,8 @@
     "frontObservationPointLat": 53.5136,
     "frontObservationPointLon": -6.5402,
     "facadeWidthM": 13.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "carey-s-bar-node-7821185221",
@@ -7693,7 +7738,8 @@
     "frontObservationPointLat": 53.3572,
     "frontObservationPointLon": -6.4496,
     "facadeWidthM": 14,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "carrs-of-the-diamond-node-4264471112",
@@ -7984,7 +8030,7 @@
     "facadeWidthM": 13.5,
     "shadeClearanceDeg": 2.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://catandcage.ie/food-and-drink/food-menus/dinner-2/"
     },
@@ -8004,7 +8050,8 @@
     "websiteUrl": "https://catandcage.ie",
     "websiteSource": "https://catandcage.ie/",
     "instagramUrl": "https://instagram.com/thecatandcage",
-    "instagramSource": "https://catandcage.ie/"
+    "instagramSource": "https://catandcage.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "cat-s-craddle-node-507023909",
@@ -8275,7 +8322,8 @@
     "frontObservationPointLat": 53.1309,
     "frontObservationPointLon": -6.056,
     "facadeWidthM": 6.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "charlie-chaplin-s-node-4020703925",
@@ -8454,7 +8502,7 @@
       "source": "https://bereenbrothers.com/charlotte-quay"
     },
     "foodOffer": {
-      "category": "gastropub",
+      "category": "restaurant-grade",
       "confidence": "confirmed",
       "source": "https://bereenbrothers.com/charlotte-quay"
     },
@@ -8469,7 +8517,8 @@
     "websiteUrl": "https://bereenbrothers.com/charlotte-quay",
     "websiteSource": "https://bereenbrothers.com/charlotte-quay",
     "instagramUrl": "https://instagram.com/charlottequay",
-    "instagramSource": "https://bereenbrothers.com/charlotte-quay"
+    "instagramSource": "https://bereenbrothers.com/charlotte-quay",
+    "solarMode": "facade"
   },
   {
     "id": "charter-bar-node-10621505038",
@@ -8874,7 +8923,8 @@
     "frontObservationPointLat": 51.891,
     "frontObservationPointLon": -8.488,
     "facadeWidthM": 11.1,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "clancy-node-7021818330",
@@ -8941,6 +8991,25 @@
     "facadeWidthM": 9.4,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "Leinster Street"
+  },
+  {
+    "id": "pubs-clancys-bar-and-restaurant-way-1372710092",
+    "name": "Clancy’s Bar & Restaurant",
+    "lat": 51.897175,
+    "lon": -8.472766,
+    "displayLat": 51.897175,
+    "displayLon": -8.472766,
+    "source": "phase1-pub-osm",
+    "sourceName": "OpenStreetMap via Overpass",
+    "addressText": "15-16 Princes Street, Cork, T12 V6FH",
+    "county": "Cork",
+    "frontObservationPointLat": 51.8972,
+    "frontObservationPointLon": -8.4725,
+    "facadeWidthM": 4.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "websiteUrl": "https://www.clancyscork.ie",
+    "websiteSource": "https://www.clancyscork.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "clancys-bar-athy-manual",
@@ -9046,7 +9115,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.7159,
     "frontObservationPointLon": -6.3511,
-    "facadeWidthM": 5.7
+    "facadeWidthM": 5.7,
+    "solarMode": "facade"
   },
   {
     "id": "clarke-s-bar-node-1604412694",
@@ -9150,7 +9220,8 @@
     "frontObservationPointLat": 52.6551,
     "frontObservationPointLon": -7.2549,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "clem-s-node-1720508165",
@@ -9262,7 +9333,8 @@
     "frontObservationPointLat": 52.4497,
     "frontObservationPointLon": -6.7172,
     "facadeWidthM": 14.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "clohessy-s-node-4021055466",
@@ -9342,7 +9414,8 @@
     "outdoorObservationPointLon": -6.2424,
     "outdoorAreaWidthM": 23.3,
     "outdoorAreaInferenceSource": "osm-outdoor-area-way-656057652",
-    "outdoorAreaProfileId": "osm:way:656057652"
+    "outdoorAreaProfileId": "osm:way:656057652",
+    "solarMode": "facade"
   },
   {
     "id": "clonsilla-inn-chija22fpk1yz0graqduaaue",
@@ -9370,7 +9443,8 @@
     "frontObservationPointLat": 53.3824,
     "frontObservationPointLon": -6.4076,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "cloughjordan-inn-node-5943205631",
@@ -9542,7 +9616,7 @@
     "lon": -6.3383563,
     "displayLat": 54.1765,
     "displayLon": -6.3383563,
-    "frontBearingDeg": 286.7,
+    "frontBearingDeg": 195,
     "source": "likely-missing",
     "sourceName": "Cobbles",
     "addressText": "15 The Mall, Newry, Co. Down, BT3 41BG",
@@ -9557,8 +9631,14 @@
     "googlePrimaryType": "bar_and_grill",
     "googleBusinessStatus": "OPERATIONAL",
     "googleSimilarity": 1,
-    "facadeInferenceSource": "osm-nearest-road",
-    "facadeInferenceRoadName": "The Mall"
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "The Mall",
+    "solarMode": "facade",
+    "shadeClearanceDeg": 2.5,
+    "frontObservationPointLat": 54.1765,
+    "frontObservationPointLon": -6.3383,
+    "facadeWidthM": 14.6,
+    "sunGeometryProfileSource": "osm-building-shadow-v1"
   },
   {
     "id": "coffey-s-node-1084461594",
@@ -9669,7 +9749,8 @@
     "frontObservationPointLat": 53.3392,
     "frontObservationPointLon": -6.2454,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "collins-hotel-bar-node-530664231",
@@ -10009,7 +10090,8 @@
     "frontObservationPointLat": 53.3592,
     "frontObservationPointLon": -6.1957,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "connolly-s-of-leap-chijzeirslsprugro-wotool",
@@ -10039,7 +10121,8 @@
     "frontObservationPointLat": 51.5809,
     "frontObservationPointLon": -9.1438,
     "facadeWidthM": 13.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "connors-live-node-11117811614",
@@ -10268,7 +10351,8 @@
     "frontObservationPointLat": 53.4315,
     "frontObservationPointLon": -7.9373,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "coote-sylvester-node-7154558096",
@@ -10692,7 +10776,8 @@
     "frontObservationPointLat": 53.1898,
     "frontObservationPointLon": -7.9866,
     "facadeWidthM": 10.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "cosgroves-node-2471644896",
@@ -10856,7 +10941,8 @@
     "frontObservationPointLat": 51.8926,
     "frontObservationPointLon": -8.4682,
     "facadeWidthM": 11.9,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "counihans-bar-chijqriu-w-qregrme-tuzz-",
@@ -10887,7 +10973,8 @@
     "frontObservationPointLat": 51.8978,
     "frontObservationPointLon": -8.47,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "country-roads-inn-node-7673264577",
@@ -10931,7 +11018,8 @@
     "frontObservationPointLat": 53.3409,
     "frontObservationPointLon": -6.3356,
     "facadeWidthM": 8.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "courthouse-node-11495475405",
@@ -10995,7 +11083,8 @@
     "frontObservationPointLat": 52.1312,
     "frontObservationPointLon": -7.4616,
     "facadeWidthM": 10.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "coyles-bar-node-1579559548",
@@ -11108,7 +11197,8 @@
     "frontObservationPointLat": 53.0938,
     "frontObservationPointLon": -7.9133,
     "facadeWidthM": 6.7,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "crawford-co-node-1244199257",
@@ -12323,7 +12413,8 @@
     "frontObservationPointLat": 53.8007,
     "frontObservationPointLon": -9.5205,
     "facadeWidthM": 9.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "darby-s-bar-node-7873765116",
@@ -12511,7 +12602,8 @@
     "frontObservationPointLat": 53.3849,
     "frontObservationPointLon": -6.3715,
     "facadeWidthM": 7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "davy-byrnes-chiju5rykzsoz0grgobiw4lf",
@@ -12557,7 +12649,8 @@
       "source": "https://davybyrnes.com/food-menu/"
     },
     "websiteUrl": "https://davybyrnes.com",
-    "websiteSource": "https://davybyrnes.com/"
+    "websiteSource": "https://davybyrnes.com/",
+    "solarMode": "facade"
   },
   {
     "id": "davy-macs-node-4002236519",
@@ -12674,7 +12767,8 @@
     "frontObservationPointLat": 52.5947,
     "frontObservationPointLon": -8.4761,
     "facadeWidthM": 12.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "de-barras-folk-club-manual",
@@ -12704,7 +12798,8 @@
       "source": "https://debarra.ie/"
     },
     "websiteUrl": "https://debarra.ie",
-    "websiteSource": "https://debarra.ie/"
+    "websiteSource": "https://debarra.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "dead-centre-taproom-node-9456241413",
@@ -12785,7 +12880,8 @@
     "frontObservationPointLat": 53.0341,
     "frontObservationPointLon": -7.2956,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 22.5
+    "shadeClearanceDeg": 22.5,
+    "solarMode": "facade"
   },
   {
     "id": "debu-rca-s-node-4908151859",
@@ -13032,7 +13128,8 @@
     "frontObservationPointLat": 52.6499,
     "frontObservationPointLon": -7.256,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "denis-leahy-node-12941386933",
@@ -13398,7 +13495,8 @@
     "websiteUrl": "https://www.dickmackspub.com",
     "websiteSource": "https://www.dickmackspub.com/",
     "instagramUrl": "https://instagram.com/dickmackspub",
-    "instagramSource": "https://www.dickmackspub.com/"
+    "instagramSource": "https://www.dickmackspub.com/",
+    "solarMode": "facade"
   },
   {
     "id": "digan-s-chijjcnlc4alxugrtmlsofgp",
@@ -13429,7 +13527,8 @@
     "frontObservationPointLat": 53.2768,
     "frontObservationPointLon": -7.4914,
     "facadeWidthM": 11.1,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "dignams-node-11522966667",
@@ -13585,7 +13684,8 @@
     "websiteUrl": "https://disndat.ie",
     "websiteSource": "https://disndat.ie/",
     "instagramUrl": "https://instagram.com/disndatdublin",
-    "instagramSource": "https://disndat.ie/"
+    "instagramSource": "https://disndat.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "dockers-node-9264108045",
@@ -13715,7 +13815,8 @@
     "frontObservationPointLat": 53.3953,
     "frontObservationPointLon": -6.1623,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "donaghy-s-node-663000446",
@@ -13976,7 +14077,8 @@
     "frontObservationPointLat": 51.9138,
     "frontObservationPointLon": -8.432,
     "facadeWidthM": 5.4,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "dooley-s-node-1178830356",
@@ -14311,7 +14413,8 @@
     "websiteUrl": "https://www.doylescorner.ie",
     "websiteSource": "https://www.bizireland.com/doyles-corner_3u-01-699-1999",
     "instagramUrl": "https://instagram.com/doylescorner",
-    "instagramSource": "https://wanderlog.com/place/details/2658524/doyles-corner"
+    "instagramSource": "https://wanderlog.com/place/details/2658524/doyles-corner",
+    "solarMode": "facade"
   },
   {
     "id": "doyles-pub-node-347381168",
@@ -14421,7 +14524,8 @@
     "frontObservationPointLat": 53.3423,
     "frontObservationPointLon": -6.2754,
     "facadeWidthM": 5.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "druid-s-well-pub-chijpxtciwwlz0gr4g3rp5sr",
@@ -14452,7 +14556,8 @@
     "frontObservationPointLat": 53.0888,
     "frontObservationPointLon": -6.1097,
     "facadeWidthM": 16.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "drumcoura-city-node-6541932885",
@@ -14499,7 +14604,8 @@
     "frontObservationPointLon": -7.4775,
     "facadeWidthM": 6.4,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceRoadName": "Drumlane Road"
+    "facadeInferenceRoadName": "Drumlane Road",
+    "solarMode": "facade"
   },
   {
     "id": "drunken-fish-node-5044580221",
@@ -14707,7 +14813,8 @@
     "frontObservationPointLat": 53.3708,
     "frontObservationPointLon": -6.2061,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "duke-of-york-chijz8jh-fmiyugrq2fjgvof",
@@ -14738,7 +14845,8 @@
     "frontObservationPointLat": 54.6018,
     "frontObservationPointLon": -5.9274,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 32.5
+    "shadeClearanceDeg": 32.5,
+    "solarMode": "facade"
   },
   {
     "id": "dunbars-of-ferns-node-12666303281",
@@ -14783,7 +14891,8 @@
     "frontObservationPointLat": 53.2894,
     "frontObservationPointLon": -6.2434,
     "facadeWidthM": 16.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "dungeon-bar-node-12596062894",
@@ -15039,7 +15148,8 @@
     "frontObservationPointLat": 53.367,
     "frontObservationPointLon": -6.2933,
     "facadeWidthM": 8.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "e-j-kings-bar-restaurant-node-1809978647",
@@ -15229,7 +15339,8 @@
     "frontObservationPointLat": 53.2812,
     "frontObservationPointLon": -6.2757,
     "facadeWidthM": 13.4,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "edenmore-house-node-1432780730",
@@ -15464,7 +15575,8 @@
     "facadeWidthM": 7.2,
     "shadeClearanceDeg": 2.5,
     "websiteUrl": "https://www.elywinebar.ie",
-    "websiteSource": "https://www.elywinebar.ie/"
+    "websiteSource": "https://www.elywinebar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "emerald-bar-node-11114624705",
@@ -15608,7 +15720,8 @@
     "frontObservationPointLat": 54.576,
     "frontObservationPointLon": -5.9172,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "eugene-s-node-1425112458",
@@ -15659,6 +15772,25 @@
     "frontObservationPointLon": -5.9348,
     "facadeWidthM": 17.9,
     "facadeInferenceSource": "osm-building-facade"
+  },
+  {
+    "id": "pubs-ewings-way-841712898",
+    "name": "Ewing’s",
+    "lat": 52.837759,
+    "lon": -6.932625,
+    "displayLat": 52.837759,
+    "displayLon": -6.932625,
+    "source": "phase1-pub-osm",
+    "sourceName": "OpenStreetMap via Overpass",
+    "addressText": "Centaur Street, Carlow, R93 E030",
+    "county": "Carlow",
+    "frontObservationPointLat": 52.8376,
+    "frontObservationPointLon": -6.933,
+    "facadeWidthM": 11.8,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "websiteUrl": "https://ewingscarlow.com",
+    "websiteSource": "https://ewingscarlow.com/",
+    "solarMode": "facade"
   },
   {
     "id": "exchange-node-7747519334",
@@ -15923,7 +16055,7 @@
       "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
     },
@@ -15961,7 +16093,8 @@
     "websiteUrl": "https://www.farmerbrowns.ie/clonskeagh-pub",
     "websiteSource": "https://www.farmerbrowns.ie/clonskeagh-pub",
     "instagramUrl": "https://instagram.com/farmerbrownsdublin",
-    "instagramSource": "https://www.farmerbrowns.ie/clonskeagh-pub"
+    "instagramSource": "https://www.farmerbrowns.ie/clonskeagh-pub",
+    "solarMode": "facade"
   },
   {
     "id": "farrell-s-bar-node-9945580900",
@@ -16072,7 +16205,8 @@
     "frontObservationPointLat": 55.3685,
     "frontObservationPointLon": -7.337,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "farrier-draper-bar-restaurant-node-6666742585",
@@ -16170,7 +16304,8 @@
     "frontObservationPointLat": 54.6637,
     "frontObservationPointLon": -5.6656,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "fearon-s-node-9510140700",
@@ -16211,7 +16346,7 @@
     "lon": -6.3429716,
     "displayLat": 54.1734309,
     "displayLon": -6.3429716,
-    "frontBearingDeg": 170.7,
+    "frontBearingDeg": 168.9,
     "source": "likely-missing",
     "sourceName": "Felix Larkin",
     "addressText": "Francis Street, Newry, Co. Down",
@@ -16226,8 +16361,14 @@
     "googlePrimaryType": "pub",
     "googleBusinessStatus": "OPERATIONAL",
     "googleSimilarity": 1,
-    "facadeInferenceSource": "osm-nearest-road",
-    "facadeInferenceRoadName": "Francis Street"
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Francis Street",
+    "solarMode": "facade",
+    "shadeClearanceDeg": 2.5,
+    "frontObservationPointLat": 54.1734,
+    "frontObservationPointLon": -6.343,
+    "facadeWidthM": 10.3,
+    "sunGeometryProfileSource": "osm-building-shadow-v1"
   },
   {
     "id": "felons-club-node-2686062432",
@@ -16471,7 +16612,7 @@
     "frontObservationPointLon": -6.2803,
     "facadeWidthM": 7.4,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.fidelitybar.ie/"
     },
@@ -16488,7 +16629,8 @@
     "websiteUrl": "https://www.fidelitybar.ie",
     "websiteSource": "https://www.fidelitybar.ie/",
     "instagramUrl": "https://instagram.com/fidelitydublin",
-    "instagramSource": "https://www.fidelitybar.ie/"
+    "instagramSource": "https://www.fidelitybar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "figgerty-s-node-1540097372",
@@ -16894,7 +17036,8 @@
     "frontObservationPointLat": 53.2859,
     "frontObservationPointLon": -6.1187,
     "facadeWidthM": 13.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "fitzgibbon-s-node-1404605743",
@@ -17152,7 +17295,8 @@
     "frontObservationPointLat": 53.2495,
     "frontObservationPointLon": -6.665,
     "facadeWidthM": 4.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "flannery-s-node-326474567",
@@ -17263,7 +17407,8 @@
     "frontObservationPointLat": 53.3245,
     "frontObservationPointLon": -6.2962,
     "facadeWidthM": 6.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "florry-batt-s-node-4344595223",
@@ -17444,7 +17589,8 @@
     "facadeWidthM": 6.6,
     "shadeClearanceDeg": 7.5,
     "websiteUrl": "https://www.thefoggydewpubdublin.com",
-    "websiteSource": "https://www.thefoggydewpubdublin.com/"
+    "websiteSource": "https://www.thefoggydewpubdublin.com/",
+    "solarMode": "facade"
   },
   {
     "id": "foley-s-node-10171410195",
@@ -17889,7 +18035,8 @@
     "frontObservationPointLat": 52.8631,
     "frontObservationPointLon": -8.1994,
     "facadeWidthM": 8.6,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "foyleview-bar-node-1579313964",
@@ -18040,7 +18187,8 @@
     "websiteUrl": "http://www.frankryans.com",
     "websiteSource": "http://www.frankryans.com/",
     "instagramUrl": "https://instagram.com/frankryansbar",
-    "instagramSource": "http://www.frankryans.com/"
+    "instagramSource": "http://www.frankryans.com/",
+    "solarMode": "facade"
   },
   {
     "id": "frank-s-node-4378143876",
@@ -18085,7 +18233,8 @@
     "frontObservationPointLat": 53.294,
     "frontObservationPointLon": -6.1535,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "frankie-s-bar-bistro-node-2051809019",
@@ -18213,7 +18362,8 @@
     "frontObservationPointLat": 53.3199,
     "frontObservationPointLon": -6.6321,
     "facadeWidthM": 16.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "full-house-node-1251978689",
@@ -18620,7 +18770,8 @@
     "frontObservationPointLat": 53.9071,
     "frontObservationPointLon": -6.8051,
     "facadeWidthM": 14.4,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "garveys-dew-drop-inn-chijsrqejegyxkgr8bxnxsxk",
@@ -18651,7 +18802,8 @@
     "frontObservationPointLon": -8.7952,
     "facadeWidthM": 7.7,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceRoadName": "Chapel Street"
+    "facadeInferenceRoadName": "Chapel Street",
+    "solarMode": "facade"
   },
   {
     "id": "gaynor-s-pub-node-2512791403",
@@ -18883,7 +19035,8 @@
     "frontObservationPointLat": 54.2126,
     "frontObservationPointLon": -9.0941,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "gilsenan-s-node-1937884720",
@@ -18909,7 +19062,7 @@
     "lon": -6.3344061,
     "displayLat": 54.1787394,
     "displayLon": -6.3344061,
-    "frontBearingDeg": 317.6,
+    "frontBearingDeg": 314,
     "source": "likely-missing",
     "sourceName": "Ginger Jane's",
     "addressText": "13 Trevor Hill, Newry, Co. Down, BT3 41DN",
@@ -18924,7 +19077,13 @@
     "googlePrimaryType": "cocktail_bar",
     "googleBusinessStatus": "OPERATIONAL",
     "googleSimilarity": 1,
-    "facadeInferenceSource": "osm-nearest-road"
+    "facadeInferenceSource": "osm-building-facade",
+    "solarMode": "facade",
+    "shadeClearanceDeg": 2.5,
+    "frontObservationPointLat": 54.1787,
+    "frontObservationPointLon": -6.3344,
+    "facadeWidthM": 10.4,
+    "sunGeometryProfileSource": "osm-building-shadow-v1"
   },
   {
     "id": "glan-bar-node-2510804774",
@@ -19030,7 +19189,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.716,
     "frontObservationPointLon": -6.3565,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "solarMode": "facade"
   },
   {
     "id": "gleeson-s-bar-node-2359999762",
@@ -19259,7 +19419,8 @@
     "frontObservationPointLat": 51.8981,
     "frontObservationPointLon": -8.4608,
     "facadeWidthM": 10.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "golden-vale-bar-node-13092654587",
@@ -19387,7 +19548,8 @@
     "frontObservationPointLat": 52.6094,
     "frontObservationPointLon": -6.3039,
     "facadeWidthM": 5.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "grace-neill-s-chijc944bvj3yugrovqg3luh",
@@ -19418,7 +19580,8 @@
     "frontObservationPointLat": 54.6417,
     "frontObservationPointLon": -5.5364,
     "facadeWidthM": 8.4,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "grace-s-node-2885369320",
@@ -19620,7 +19783,8 @@
     "frontObservationPointLat": 53.4605,
     "frontObservationPointLon": -6.2447,
     "facadeWidthM": 18,
-    "facadeInferenceRoadName": "Swords Manor Avenue"
+    "facadeInferenceRoadName": "Swords Manor Avenue",
+    "solarMode": "facade"
   },
   {
     "id": "grand-central-node-957681736",
@@ -19973,7 +20137,8 @@
     "frontObservationPointLat": 53.4511,
     "frontObservationPointLon": -6.1473,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "grill-grain-bar-node-5590293373",
@@ -20133,7 +20298,8 @@
     "frontObservationPointLat": 53.0124,
     "frontObservationPointLon": -9.3864,
     "facadeWidthM": 6.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "guy-s-bar-node-1809978651",
@@ -20419,7 +20585,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.6135,
     "frontObservationPointLon": -6.2068,
-    "facadeWidthM": 5.9
+    "facadeWidthM": 5.9,
+    "solarMode": "facade"
   },
   {
     "id": "hamlets-of-kinsale-node-326141541",
@@ -20830,7 +20997,8 @@
       "source": "https://www.harrybyrnespub.com/"
     },
     "websiteUrl": "https://www.harrybyrnespub.com",
-    "websiteSource": "https://www.harrybyrnespub.com/"
+    "websiteSource": "https://www.harrybyrnespub.com/",
+    "solarMode": "facade"
   },
   {
     "id": "harry-s-node-2144960088",
@@ -20993,7 +21161,8 @@
     "frontObservationPointLat": 53.3359,
     "frontObservationPointLon": -6.2567,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "hartnett-s-bar-node-12710055401",
@@ -21153,7 +21322,8 @@
     "frontObservationPointLat": 53.451,
     "frontObservationPointLon": -6.5965,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "hatfield-house-node-9323621382",
@@ -21363,7 +21533,8 @@
     "frontObservationPointLat": 51.8886,
     "frontObservationPointLon": -8.5843,
     "facadeWidthM": 15.1,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "healys-bar-lounge-node-7862846941",
@@ -21410,7 +21581,8 @@
     "frontObservationPointLat": 54.5952,
     "frontObservationPointLon": -5.8704,
     "facadeWidthM": 14.3,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "heery-s-bar-restaurant-node-4943203356",
@@ -21654,7 +21826,8 @@
     "frontObservationPointLat": 52.2623,
     "frontObservationPointLon": -7.1174,
     "facadeWidthM": 7.2,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "henry-loughran-node-1798236806",
@@ -21948,7 +22121,8 @@
     "frontObservationPointLat": 53.355,
     "frontObservationPointLon": -6.2573,
     "facadeWidthM": 11,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "hillery-s-node-7021803988",
@@ -22172,7 +22346,7 @@
       "source": "https://holeinthewallpub.com/faqs/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://holeinthewallpub.com/menus/"
     },
@@ -22198,7 +22372,8 @@
     "websiteUrl": "https://holeinthewallpub.com",
     "websiteSource": "https://holeinthewallpub.com/",
     "instagramUrl": "https://instagram.com/holeinthewalldublin",
-    "instagramSource": "https://holeinthewallpub.com/"
+    "instagramSource": "https://holeinthewallpub.com/",
+    "solarMode": "facade"
   },
   {
     "id": "holohan-s-node-3045709850",
@@ -22262,7 +22437,8 @@
     "frontObservationPointLat": 54.6633,
     "frontObservationPointLon": -5.6651,
     "facadeWidthM": 8.6,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "horabs-node-4874731493",
@@ -22326,7 +22502,8 @@
     "frontObservationPointLat": 53.6081,
     "frontObservationPointLon": -6.7723,
     "facadeWidthM": 14.6,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "horgan-s-bar-node-9483404779",
@@ -22779,7 +22956,8 @@
     "frontObservationPointLat": 53.2663,
     "frontObservationPointLon": -6.1943,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "hussey-s-bar-node-3738176954",
@@ -22891,7 +23069,8 @@
     "frontObservationPointLat": 53.3267,
     "frontObservationPointLon": -6.2259,
     "facadeWidthM": 16.9,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "ice-house-bar-lounge-node-12165620270",
@@ -22909,6 +23088,25 @@
     "facadeWidthM": 18,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "The Quay"
+  },
+  {
+    "id": "pubs-idle-hour-way-795006812",
+    "name": "Idle Hour",
+    "lat": 51.898275,
+    "lon": -8.461235,
+    "displayLat": 51.898275,
+    "displayLon": -8.461235,
+    "source": "phase1-pub-osm",
+    "sourceName": "OpenStreetMap via Overpass",
+    "addressText": "1 Albert Quay, Cork, T12 TYK0",
+    "county": "Cork",
+    "frontObservationPointLat": 51.8983,
+    "frontObservationPointLon": -8.4613,
+    "facadeWidthM": 7.6,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "websiteUrl": "https://theidlehour.ie",
+    "websiteSource": "https://theidlehour.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "idlewild-node-9238631400",
@@ -22953,7 +23151,8 @@
     "frontObservationPointLat": 53.2525,
     "frontObservationPointLon": -6.1231,
     "facadeWidthM": 5.9,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "inn-by-the-harbour-node-3635729638",
@@ -23063,7 +23262,8 @@
       "source": "https://www.theinternationalbar.com/food/"
     },
     "websiteUrl": "https://www.theinternationalbar.com",
-    "websiteSource": "https://www.theinternationalbar.com/location/"
+    "websiteSource": "https://www.theinternationalbar.com/location/",
+    "solarMode": "facade"
   },
   {
     "id": "irish-whip-chijjfryefyhrugrqfwgyyjb",
@@ -23094,7 +23294,8 @@
     "frontObservationPointLat": 51.5624,
     "frontObservationPointLon": -9.4627,
     "facadeWidthM": 10.6,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "irish-s-bar-node-12945409991",
@@ -23141,7 +23342,8 @@
     "frontObservationPointLat": 54.1906,
     "frontObservationPointLon": -6.5764,
     "facadeWidthM": 7.2,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "issac-s-well-node-4121539212",
@@ -23614,7 +23816,8 @@
     "frontObservationPointLat": 52.6547,
     "frontObservationPointLon": -7.2464,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "j-d-s-node-10001219785",
@@ -23632,6 +23835,25 @@
     "facadeWidthM": 14.5,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "Main Street"
+  },
+  {
+    "id": "pubs-j-j-bowles-way-300768843",
+    "name": "J.J. Bowles",
+    "lat": 52.6704,
+    "lon": -8.628595,
+    "displayLat": 52.6704,
+    "displayLon": -8.628595,
+    "source": "phase1-pub-osm",
+    "sourceName": "OpenStreetMap via Overpass",
+    "addressText": "8 Thomondgate, Limerick, V94 HK74",
+    "county": "Limerick",
+    "frontObservationPointLat": 52.6704,
+    "frontObservationPointLon": -8.6287,
+    "facadeWidthM": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "websiteUrl": "https://www.jjbowlespub.com",
+    "websiteSource": "https://www.jjbowlespub.com/",
+    "solarMode": "facade"
   },
   {
     "id": "j-j-cunningham-node-11495466656",
@@ -24134,7 +24356,8 @@
     "websiteUrl": "https://www.jackies.ie",
     "websiteSource": "https://www.jackies.ie/",
     "instagramUrl": "https://instagram.com/jackiesdublin",
-    "instagramSource": "https://www.jackies.ie/"
+    "instagramSource": "https://www.jackies.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "jacko-s-bar-node-488567240",
@@ -24230,7 +24453,8 @@
     "frontObservationPointLat": 54.6695,
     "frontObservationPointLon": -5.658,
     "facadeWidthM": 12,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "james-byrne-node-8220912841",
@@ -24443,7 +24667,8 @@
     "frontObservationPointLat": 54.6637,
     "frontObservationPointLon": -5.6654,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 72.5
+    "shadeClearanceDeg": 72.5,
+    "solarMode": "facade"
   },
   {
     "id": "jenny-s-bar-node-663002382",
@@ -24491,7 +24716,8 @@
     "frontObservationPointLat": 52.6614,
     "frontObservationPointLon": -8.6272,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "jerry-jack-s-node-8528524536",
@@ -24639,15 +24865,11 @@
     "frontObservationPointLon": -6.2655,
     "facadeWidthM": 13,
     "shadeClearanceDeg": 7.5,
-    "foodOffer": {
-      "category": "no-food",
-      "confidence": "confirmed",
-      "source": "http://jimmyrabbittes.com/"
-    },
     "websiteUrl": "http://jimmyrabbittes.com",
     "websiteSource": "http://jimmyrabbittes.com/",
     "instagramUrl": "https://instagram.com/jimmyrabbittes",
-    "instagramSource": "http://jimmyrabbittes.com/"
+    "instagramSource": "http://jimmyrabbittes.com/",
+    "solarMode": "facade"
   },
   {
     "id": "jimmy-white-s-pub-node-6222748899",
@@ -24842,7 +25064,8 @@
     "frontObservationPointLat": 53.2778,
     "frontObservationPointLon": -6.3967,
     "facadeWidthM": 15.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "joe-farrell-s-node-1469865360",
@@ -24897,7 +25120,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5848,
     "frontObservationPointLon": -6.1049,
-    "facadeWidthM": 9.2
+    "facadeWidthM": 9.2,
+    "solarMode": "facade"
   },
   {
     "id": "joe-s-bar-node-9995596131",
@@ -25193,7 +25417,8 @@
     "frontObservationPointLat": 53.3696,
     "frontObservationPointLon": -6.2721,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "john-keogh-s-node-5795606853",
@@ -25348,7 +25573,8 @@
       "source": "https://johnniefoxs.com/about/the-living-museum/"
     },
     "websiteUrl": "https://johnniefoxs.com",
-    "websiteSource": "https://johnniefoxs.com/drink-dine/menus/"
+    "websiteSource": "https://johnniefoxs.com/drink-dine/menus/",
+    "solarMode": "facade"
   },
   {
     "id": "johnny-burke-s-node-10699818721",
@@ -25446,7 +25672,8 @@
     "facadeWidthM": 5.7,
     "shadeClearanceDeg": 7.5,
     "websiteUrl": "https://www.johnnyrushs.ie",
-    "websiteSource": "https://www.johnnyrushs.ie/"
+    "websiteSource": "https://www.johnnyrushs.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "johnos-pub-node-7304472075",
@@ -25788,7 +26015,8 @@
     "facadeWidthM": 9.3,
     "shadeClearanceDeg": 7.5,
     "websiteUrl": "https://www.junobar.ie",
-    "websiteSource": "https://www.junobar.ie/"
+    "websiteSource": "https://www.junobar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "k-sixty-seven-node-1560022630",
@@ -26157,7 +26385,8 @@
       "source": "https://kealys.ie/home/"
     },
     "websiteUrl": "https://kealys.ie",
-    "websiteSource": "https://kealys.ie/"
+    "websiteSource": "https://kealys.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "keane-s-node-5026660723",
@@ -26341,7 +26570,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.4876,
     "frontObservationPointLon": -6.1481,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "solarMode": "facade"
   },
   {
     "id": "keenans-node-1659365992",
@@ -26640,7 +26870,8 @@
     "frontObservationPointLat": 54.5995,
     "frontObservationPointLon": -5.9322,
     "facadeWidthM": 12,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "kelly-s-on-the-corner-node-5619858845",
@@ -27058,7 +27289,8 @@
     "facadeWidthM": 7.9,
     "shadeClearanceDeg": 2.5,
     "websiteUrl": "https://www.kettleshotel.ie",
-    "websiteSource": "https://www.kettleshotel.ie/"
+    "websiteSource": "https://www.kettleshotel.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "kiely-s-bar-node-3396998880",
@@ -27171,7 +27403,8 @@
     "frontObservationPointLat": 54.1018,
     "frontObservationPointLon": -6.1968,
     "facadeWidthM": 14.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "kildrought-node-582890747",
@@ -27218,7 +27451,8 @@
     "frontObservationPointLat": 52.6542,
     "frontObservationPointLon": -7.2476,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "kilgallen-s-node-3006954815",
@@ -27296,7 +27530,8 @@
     "frontObservationPointLat": 53.2767,
     "frontObservationPointLon": -6.3793,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "killoran-s-bar-node-11824542704",
@@ -27572,7 +27807,8 @@
     "frontObservationPointLat": 53.3767,
     "frontObservationPointLon": -6.2233,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "kitty-macs-chijbxfbbdpxregrygpoi3z8",
@@ -27603,7 +27839,8 @@
     "frontObservationPointLat": 51.6128,
     "frontObservationPointLon": -8.8497,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "kitty-o-se-s-node-4801674228",
@@ -27803,7 +28040,8 @@
     "frontObservationPointLon": -6.2654,
     "facadeWidthM": 4.5,
     "instagramUrl": "https://instagram.com/kodiak_rathmines",
-    "instagramSource": "https://maps.apple.com/place?place-id=I4EABCFBBB35A158"
+    "instagramSource": "https://maps.apple.com/place?place-id=I4EABCFBBB35A158",
+    "solarMode": "facade"
   },
   {
     "id": "krugers-bar-node-6831949251",
@@ -27884,7 +28122,8 @@
     "frontObservationPointLat": 52.6531,
     "frontObservationPointLon": -7.2533,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 27.5
+    "shadeClearanceDeg": 27.5,
+    "solarMode": "facade"
   },
   {
     "id": "l-mulligan-grocer-chijmybu6y0mz0grqcjm4szg",
@@ -27922,7 +28161,8 @@
       "source": "https://www.lmulligangrocer.com/"
     },
     "websiteUrl": "https://www.lmulligangrocer.com",
-    "websiteSource": "https://www.lmulligangrocer.com/"
+    "websiteSource": "https://www.lmulligangrocer.com/",
+    "solarMode": "facade"
   },
   {
     "id": "la-bodega-node-7241000181",
@@ -28085,7 +28325,8 @@
     "frontObservationPointLat": 52.6516,
     "frontObservationPointLon": -7.2514,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 67.5
+    "shadeClearanceDeg": 67.5,
+    "solarMode": "facade"
   },
   {
     "id": "lantern-bar-node-2349412003",
@@ -28206,7 +28447,8 @@
     "frontObservationPointLat": 53.6519,
     "frontObservationPointLon": -6.688,
     "facadeWidthM": 13,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "larry-caffrey-s-node-299808124",
@@ -28592,7 +28834,8 @@
     "frontObservationPointLat": 53.2656,
     "frontObservationPointLon": -6.1949,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "leggs-pub-node-4337941791",
@@ -28734,7 +28977,8 @@
       "source": "https://www.leonardscorner.com/food"
     },
     "websiteUrl": "https://www.leonardscorner.com",
-    "websiteSource": "https://www.leonardscorner.com/"
+    "websiteSource": "https://www.leonardscorner.com/",
+    "solarMode": "facade"
   },
   {
     "id": "letia-s-greenview-bar-node-9727051793",
@@ -28799,7 +29043,8 @@
     "frontObservationPointLat": 51.5626,
     "frontObservationPointLon": -9.4603,
     "facadeWidthM": 7.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "liam-o-riain-s-node-408485314",
@@ -29107,7 +29352,8 @@
     "frontObservationPointLat": 53.8006,
     "frontObservationPointLon": -9.5205,
     "facadeWidthM": 5.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "logan-s-node-11198707825",
@@ -29188,7 +29434,8 @@
     "frontObservationPointLat": 51.8961,
     "frontObservationPointLon": -8.4316,
     "facadeWidthM": 11.1,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "lord-bellamy-s-node-11079525438",
@@ -29407,7 +29654,8 @@
       "source": "https://www.luckys.ie/food"
     },
     "websiteUrl": "https://www.luckys.ie",
-    "websiteSource": "https://www.luckys.ie/"
+    "websiteSource": "https://www.luckys.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "lukers-node-5024994823",
@@ -29484,7 +29732,8 @@
       "source": "https://lundyfoots.ie/menus/"
     },
     "websiteUrl": "https://lundyfoots.ie",
-    "websiteSource": "https://lundyfoots.ie/"
+    "websiteSource": "https://lundyfoots.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "lusitania-bar-node-7728337959",
@@ -30037,7 +30286,8 @@
     "frontObservationPointLat": 52.6625,
     "frontObservationPointLon": -8.6264,
     "facadeWidthM": 7.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "ma-murphy-s-node-1808564328",
@@ -30133,7 +30383,8 @@
     "frontObservationPointLat": 51.6516,
     "frontObservationPointLon": -9.91,
     "facadeWidthM": 13.9,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "maccurtain-wine-cellar-node-12339780852",
@@ -30559,7 +30810,8 @@
     "frontObservationPointLat": 54.2584,
     "frontObservationPointLon": -5.941,
     "facadeWidthM": 11,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "maguire-s-pub-node-4928989852",
@@ -30936,7 +31188,8 @@
     "frontObservationPointLat": 53.5556,
     "frontObservationPointLon": -6.7692,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "marina-inn-node-5918566685",
@@ -31126,7 +31379,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5228,
     "frontObservationPointLon": -6.1047,
-    "facadeWidthM": 7.6
+    "facadeWidthM": 7.6,
+    "solarMode": "facade"
   },
   {
     "id": "martins-node-1669500909",
@@ -31310,7 +31564,8 @@
     "websiteUrl": "https://marysbar.ie",
     "websiteSource": "https://marysbar.ie/",
     "instagramUrl": "https://instagram.com/marysbardublin",
-    "instagramSource": "https://marysbar.ie/"
+    "instagramSource": "https://marysbar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "marys-node-12021278480",
@@ -31397,7 +31652,8 @@
       "source": "https://www.mattmolloy.com/"
     },
     "websiteUrl": "https://www.mattmolloy.com",
-    "websiteSource": "https://www.mattmolloy.com/"
+    "websiteSource": "https://www.mattmolloy.com/",
+    "solarMode": "facade"
   },
   {
     "id": "matt-the-millers-manual",
@@ -31469,7 +31725,8 @@
     "frontObservationPointLon": -5.8819,
     "facadeWidthM": 7.2,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceRoadName": "Brustin Brae Road"
+    "facadeInferenceRoadName": "Brustin Brae Road",
+    "solarMode": "facade"
   },
   {
     "id": "mattimoe-s-node-2471644906",
@@ -31825,7 +32082,8 @@
     "frontObservationPointLat": 53.192,
     "frontObservationPointLon": -6.1051,
     "facadeWidthM": 5.1,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "mcacculife-s-node-463196546",
@@ -32001,7 +32259,8 @@
     "frontObservationPointLat": 54.9512,
     "frontObservationPointLon": -8.3607,
     "facadeWidthM": 12,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "mccaffrey-s-node-12993807068",
@@ -32260,7 +32519,8 @@
     "frontObservationPointLat": 53.3413,
     "frontObservationPointLon": -6.261,
     "facadeWidthM": 6,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "mcdermott-s-pub-chijk5vjd1yhw0grczbfmnmp",
@@ -32294,7 +32554,8 @@
     "websiteUrl": "https://mcdermott-s-pub.com",
     "websiteSource": "https://mcdermott-s-pub.com/",
     "instagramUrl": "https://instagram.com/mcdermotts_pub_doolin",
-    "instagramSource": "https://mcdermott-s-pub.com/"
+    "instagramSource": "https://mcdermott-s-pub.com/",
+    "solarMode": "facade"
   },
   {
     "id": "mcdonald-node-3050410065",
@@ -32423,7 +32684,8 @@
     "frontObservationPointLat": 53.0183,
     "frontObservationPointLon": -9.3721,
     "facadeWidthM": 15.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "mcgarry-s-bar-node-415802976",
@@ -32535,7 +32797,8 @@
     "frontObservationPointLat": 53.7979,
     "frontObservationPointLon": -9.5232,
     "facadeWidthM": 10.2,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "mcginley-s-node-7569109763",
@@ -32698,7 +32961,8 @@
     "frontObservationPointLat": 53.3233,
     "frontObservationPointLon": -6.2803,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "mcgrath-s-node-506725129",
@@ -32828,7 +33092,8 @@
     "frontObservationPointLat": 55.2871,
     "frontObservationPointLon": -7.1675,
     "facadeWidthM": 9.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "mcguire-s-pub-node-5219760885",
@@ -32915,7 +33180,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.716,
     "frontObservationPointLon": -6.3472,
-    "facadeWidthM": 5.9
+    "facadeWidthM": 5.9,
+    "solarMode": "facade"
   },
   {
     "id": "mchughs-node-930066840",
@@ -33038,7 +33304,8 @@
     "frontObservationPointLat": 53.2947,
     "frontObservationPointLon": -6.1392,
     "facadeWidthM": 15.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "mckenna-s-bar-node-12972146526",
@@ -33207,7 +33474,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 54.2692,
     "frontObservationPointLon": -8.4719,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "solarMode": "facade"
   },
   {
     "id": "mclysaght-s-node-5041749661",
@@ -33269,7 +33537,8 @@
     "frontObservationPointLat": 53.3513,
     "frontObservationPointLon": -6.5464,
     "facadeWidthM": 9,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "mcmanus-node-2721286167",
@@ -33607,7 +33876,8 @@
       "source": "https://memas.ie/"
     },
     "websiteUrl": "https://memas.ie",
-    "websiteSource": "https://memas.ie/"
+    "websiteSource": "https://memas.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "member-s-bar-chijewffkimfz0grrcsd06zk",
@@ -33635,7 +33905,8 @@
     "frontObservationPointLat": 53.3958,
     "frontObservationPointLon": -6.1145,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "members-bar-chijq-gbmqajz0grzklqa14i",
@@ -33663,7 +33934,8 @@
     "frontObservationPointLat": 53.2657,
     "frontObservationPointLon": -6.1941,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "merchant-s-arch-chij2s0fromoz0grrpohlw7-",
@@ -33701,7 +33973,8 @@
       "source": "https://www.merchantsarch.ie/menus"
     },
     "websiteUrl": "https://www.merchantsarch.ie",
-    "websiteSource": "https://www.merchantsarch.ie/"
+    "websiteSource": "https://www.merchantsarch.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "mernaghs-chijw4hadgvwxugrpnq3klle",
@@ -33731,7 +34004,8 @@
     "frontObservationPointLat": 52.4242,
     "frontObservationPointLon": -6.5314,
     "facadeWidthM": 15.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "metzo-node-6248574948",
@@ -33793,7 +34067,8 @@
     "frontObservationPointLat": 52.2092,
     "frontObservationPointLon": -6.4243,
     "facadeWidthM": 9.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "michael-a-s-node-7021827233",
@@ -34004,7 +34279,8 @@
     "frontObservationPointLat": 54.0536,
     "frontObservationPointLon": -8.73,
     "facadeWidthM": 12.4,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "mickey-martin-s-node-2016802664",
@@ -34247,7 +34523,8 @@
     "frontObservationPointLat": 52.6792,
     "frontObservationPointLon": -7.8109,
     "facadeWidthM": 6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "millenium-bar-node-2073656190",
@@ -34310,7 +34587,8 @@
     "frontObservationPointLat": 53.3689,
     "frontObservationPointLon": -6.2552,
     "facadeWidthM": 5.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "mills-s-bar-node-506381946",
@@ -35207,7 +35485,8 @@
     "frontObservationPointLat": 53.3449,
     "frontObservationPointLon": -6.2521,
     "facadeWidthM": 8.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "mother-macs-chijffjksmhcw0gr4u-wz1ch",
@@ -35242,7 +35521,8 @@
     "websiteUrl": "https://mothermacs.ie",
     "websiteSource": "https://mothermacs.ie/",
     "instagramUrl": "https://instagram.com/mothermacspub",
-    "instagramSource": "https://mothermacs.ie/"
+    "instagramSource": "https://mothermacs.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "mother-reilly-s-bar-restaurant-node-3040139014",
@@ -35284,7 +35564,8 @@
     "frontObservationPointLat": 53.72,
     "frontObservationPointLon": -6.3569,
     "facadeWidthM": 16.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "mount-kennedy-inn-node-11802685510",
@@ -35348,7 +35629,8 @@
     "frontObservationPointLat": 54.6061,
     "frontObservationPointLon": -5.9598,
     "facadeWidthM": 9.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "moylan-s-node-1257321282",
@@ -35396,7 +35678,8 @@
     "frontObservationPointLat": 52.3558,
     "frontObservationPointLon": -7.703,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "moynish-house-bar-node-3319093402",
@@ -35623,7 +35906,8 @@
     "frontObservationPointLat": 53.4886,
     "frontObservationPointLon": -10.0227,
     "facadeWidthM": 13.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "mullens-node-11169497911",
@@ -35691,14 +35975,15 @@
     "frontBearingDeg": 180.7,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "Poolbeg Street",
-    "shadeClearanceDeg": 7.5,
+    "shadeClearanceDeg": 2.5,
     "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAwAAAAgAMAAAA+AAAE4AMAwAA+AAAM+AMAwIA/AAAM+AMAwIA/AAAc+AMAwMM/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAA",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3469,
     "frontObservationPointLon": -6.2555,
     "facadeWidthM": 13.9,
     "websiteUrl": "https://www.mulligans.ie",
-    "websiteSource": "https://www.mulligans.ie/"
+    "websiteSource": "https://www.mulligans.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "mulligan-s-pub-lake-view-node-12159572489",
@@ -36227,7 +36512,8 @@
     "frontObservationPointLat": 53.5253,
     "frontObservationPointLon": -6.1656,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "murrays-node-9235991552",
@@ -36390,7 +36676,8 @@
     "frontObservationPointLat": 53.3728,
     "frontObservationPointLon": -6.3623,
     "facadeWidthM": 15.2,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "n-cooney-node-11117811634",
@@ -36724,7 +37011,8 @@
     "frontObservationPointLat": 52.4734,
     "frontObservationPointLon": -8.1616,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "nellie-s-node-8130233950",
@@ -36850,7 +37138,8 @@
     "frontObservationPointLat": 51.5807,
     "frontObservationPointLon": -9.145,
     "facadeWidthM": 6.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "new-inn-bar-and-guesthouse-node-12682165551",
@@ -36914,7 +37203,8 @@
     "frontObservationPointLat": 53.5557,
     "frontObservationPointLon": -10.1095,
     "facadeWidthM": 12.6,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "newton-bar-ltd-node-13541408533",
@@ -36962,7 +37252,8 @@
     "frontObservationPointLat": 53.3965,
     "frontObservationPointLon": -6.1888,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "nicholson-s-node-6858141560",
@@ -37238,7 +37529,8 @@
     "frontObservationPointLat": 52.6703,
     "frontObservationPointLon": -8.63,
     "facadeWidthM": 6.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "north-tyrone-all-stars-club-node-2677570109",
@@ -37383,7 +37675,8 @@
     "frontObservationPointLat": 53.4232,
     "frontObservationPointLon": -7.9369,
     "facadeWidthM": 5.4,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "nyhan-s-node-6553104552",
@@ -38303,7 +38596,8 @@
     "websiteUrl": "https://www.odonoghues.ie",
     "websiteSource": "https://www.odonoghues.ie/",
     "instagramUrl": "https://instagram.com/odonoghuespub",
-    "instagramSource": "https://www.odonoghues.ie/"
+    "instagramSource": "https://www.odonoghues.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "o-donoghues-bar-node-1881449476",
@@ -38475,7 +38769,8 @@
     "frontObservationPointLat": 53.2043,
     "frontObservationPointLon": -6.0995,
     "facadeWidthM": 12.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "o-dwyer-s-node-452041291",
@@ -38519,7 +38814,8 @@
     "frontObservationPointLat": 53.4206,
     "frontObservationPointLon": -6.138,
     "facadeWidthM": 16.9,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "o-faola-in-s-chij1cehsnu6xugrzf7geeex",
@@ -38550,7 +38846,8 @@
     "frontObservationPointLat": 52.654,
     "frontObservationPointLon": -7.2475,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "o-flaherty-s-node-3381357856",
@@ -38927,7 +39224,8 @@
     "frontObservationPointLat": 52.8554,
     "frontObservationPointLon": -7.5841,
     "facadeWidthM": 16.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "o-manacha-in-boardwalk-bar-node-3174842928",
@@ -39251,7 +39549,8 @@
     "frontObservationPointLat": 52.9452,
     "frontObservationPointLon": -9.0649,
     "facadeWidthM": 6.9,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "o-riordan-s-node-4022461058",
@@ -39838,7 +40137,8 @@
     "frontObservationPointLat": 51.8981,
     "frontObservationPointLon": -8.4701,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "old-paddy-s-node-2807396185",
@@ -39885,7 +40185,8 @@
     "frontObservationPointLat": 54.4178,
     "frontObservationPointLon": -7.8173,
     "facadeWidthM": 9.4,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "old-royal-oak-chijx4ba6kcmz0gr51liav2z",
@@ -39914,7 +40215,8 @@
     "frontObservationPointLat": 53.3417,
     "frontObservationPointLon": -6.3037,
     "facadeWidthM": 8.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "olde-castle-bar-node-1906721904",
@@ -40091,7 +40393,8 @@
     "frontObservationPointLat": 52.6096,
     "frontObservationPointLon": -6.3046,
     "facadeWidthM": 15.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "one-new-row-node-9864081384",
@@ -40641,7 +40944,8 @@
     "frontObservationPointLat": 53.2863,
     "frontObservationPointLon": -6.1457,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "p-moore-node-9453330698",
@@ -40738,7 +41042,8 @@
     "frontObservationPointLat": 53.0167,
     "frontObservationPointLon": -7.1504,
     "facadeWidthM": 6.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "p-j-byrne-s-node-4888166021",
@@ -41514,7 +41819,8 @@
     "frontObservationPointLat": 53.3724,
     "frontObservationPointLon": -6.2525,
     "facadeWidthM": 13.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "patrick-ryan-node-13099162816",
@@ -41594,7 +41900,8 @@
     "frontObservationPointLat": 52.6621,
     "frontObservationPointLon": -8.6231,
     "facadeWidthM": 6.7,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "patsy-nicholas-node-1440575545",
@@ -41735,7 +42042,8 @@
       "source": "https://www.pavilionbar.ie/food"
     },
     "websiteUrl": "https://www.pavilionbar.ie",
-    "websiteSource": "https://www.pavilionbar.ie"
+    "websiteSource": "https://www.pavilionbar.ie",
+    "solarMode": "facade"
   },
   {
     "id": "pavilion-bar-chijiypmroaiyugrf2tfhe7l",
@@ -41766,7 +42074,8 @@
     "frontObservationPointLat": 54.5766,
     "frontObservationPointLon": -5.9174,
     "facadeWidthM": 12.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "pawn-shop-chijo5gzwekpz0grec626u4e",
@@ -41797,7 +42106,8 @@
     "frontObservationPointLat": 53.3441,
     "frontObservationPointLon": -6.2653,
     "facadeWidthM": 5.1,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "peacocks-steakhouse-node-1560022633",
@@ -41819,7 +42129,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.4528,
     "frontObservationPointLon": -6.243,
-    "facadeWidthM": 12.3
+    "facadeWidthM": 12.3,
+    "solarMode": "facade"
   },
   {
     "id": "peadar-browns-node-583257143",
@@ -41842,7 +42153,8 @@
       "source": "https://peadarbrowns.com/"
     },
     "websiteUrl": "https://peadarbrowns.com",
-    "websiteSource": "https://peadarbrowns.com/"
+    "websiteSource": "https://peadarbrowns.com/",
+    "solarMode": "facade"
   },
   {
     "id": "peadar-kearney-s-node-2386542318",
@@ -41882,7 +42194,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 54.9973,
     "frontObservationPointLon": -7.3215,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "solarMode": "facade"
   },
   {
     "id": "pebble-beach-node-1521601306",
@@ -41950,7 +42263,7 @@
     "frontObservationPointLon": -6.2786,
     "facadeWidthM": 4.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://peggykellys.ie/"
     },
@@ -41962,7 +42275,8 @@
       "source": "https://peggykellys.ie/"
     },
     "websiteUrl": "https://peggykellys.ie",
-    "websiteSource": "https://peggykellys.ie/"
+    "websiteSource": "https://peggykellys.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "peig-s-node-339489249",
@@ -42319,7 +42633,8 @@
     "frontObservationPointLat": 53.4233,
     "frontObservationPointLon": -7.9375,
     "facadeWidthM": 12.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "pier-36-node-1002846996",
@@ -42383,7 +42698,8 @@
     "frontObservationPointLat": 51.8974,
     "frontObservationPointLon": -8.4127,
     "facadeWidthM": 6.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "pillar-bar-node-1348371058",
@@ -42481,7 +42797,8 @@
     "facadeWidthM": 11.2,
     "shadeClearanceDeg": 22.5,
     "websiteUrl": "https://piperscorner.ie",
-    "websiteSource": "https://piperscorner.ie/"
+    "websiteSource": "https://piperscorner.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "pitstop-sports-bar-node-408980014",
@@ -42644,7 +42961,8 @@
     "frontObservationPointLat": 52.6661,
     "frontObservationPointLon": -8.6199,
     "facadeWidthM": 6.1,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "portside-inn-chije6lc988jyugrh7lvg7zw",
@@ -42675,7 +42993,8 @@
     "frontObservationPointLat": 54.6291,
     "frontObservationPointLon": -5.914,
     "facadeWidthM": 17.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "portstewart-arms-node-1615810760",
@@ -42722,7 +43041,8 @@
     "frontObservationPointLat": 54.5809,
     "frontObservationPointLon": -5.9382,
     "facadeWidthM": 13.1,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "powell-bros-node-1540097375",
@@ -42980,7 +43300,8 @@
     "frontObservationPointLat": 53.2902,
     "frontObservationPointLon": -6.1306,
     "facadeWidthM": 14.5,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "punters-bar-node-2679418818",
@@ -43041,7 +43362,7 @@
       "source": "https://pye.ie/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://pye.ie/menus/"
     },
@@ -43056,7 +43377,8 @@
     "websiteUrl": "https://pye.ie",
     "websiteSource": "https://pye.ie/",
     "instagramUrl": "https://instagram.com/pyedundrum",
-    "instagramSource": "https://pye.ie/"
+    "instagramSource": "https://pye.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "pygmalion-node-907142997",
@@ -43186,7 +43508,8 @@
     "frontObservationPointLat": 52.2032,
     "frontObservationPointLon": -6.5503,
     "facadeWidthM": 14.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "quilter-s-bar-node-278733895",
@@ -43380,7 +43703,8 @@
     "frontObservationPointLat": 53.3968,
     "frontObservationPointLon": -6.1369,
     "facadeWidthM": 17.2,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "racey-byrnes-bar-chijhx6dylndxugrice4rp3d",
@@ -43411,7 +43735,8 @@
     "frontObservationPointLat": 52.8362,
     "frontObservationPointLon": -6.9258,
     "facadeWidthM": 9.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "rackard-s-node-10826208066",
@@ -43451,7 +43776,8 @@
     "frontObservationPointLat": 53.5789,
     "frontObservationPointLon": -6.1089,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "raftery-s-rest-node-1881449484",
@@ -43679,7 +44005,8 @@
     "frontObservationPointLat": 53.034,
     "frontObservationPointLon": -7.2963,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "rascals-hq-node-9322108900",
@@ -43766,7 +44093,8 @@
     "frontObservationPointLat": 53.2811,
     "frontObservationPointLon": -6.4707,
     "facadeWidthM": 7,
-    "shadeClearanceDeg": 27.5
+    "shadeClearanceDeg": 27.5,
+    "solarMode": "facade"
   },
   {
     "id": "ratigan-s-pub-node-1469708335",
@@ -43912,7 +44240,8 @@
     "frontObservationPointLat": 54.3457,
     "frontObservationPointLon": -6.6557,
     "facadeWidthM": 7.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "reddan-s-node-540882879",
@@ -44634,7 +44963,8 @@
     "frontObservationPointLat": 54.6635,
     "frontObservationPointLon": -5.6671,
     "facadeWidthM": 9.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "rosehill-bar-1831-node-8988305697",
@@ -44698,7 +45028,8 @@
     "frontObservationPointLat": 52.9393,
     "frontObservationPointLon": -7.6294,
     "facadeWidthM": 7.1,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "rosie-s-node-1217997264",
@@ -44762,7 +45093,8 @@
     "frontObservationPointLat": 51.621,
     "frontObservationPointLon": -9.5227,
     "facadeWidthM": 12.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "rouse-s-node-2150916627",
@@ -44910,7 +45242,8 @@
     "frontObservationPointLat": 54.0022,
     "frontObservationPointLon": -6.4041,
     "facadeWidthM": 6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "rusty-nail-node-2075977387",
@@ -45142,7 +45475,8 @@
       "source": "https://beggarsbush.com/match-day-gallery/"
     },
     "websiteUrl": "https://beggarsbush.com",
-    "websiteSource": "https://beggarsbush.com/"
+    "websiteSource": "https://beggarsbush.com/",
+    "solarMode": "facade"
   },
   {
     "id": "ryan-s-bridge-bar-node-8769360132",
@@ -45451,7 +45785,8 @@
     "frontObservationPointLat": 54.5994,
     "frontObservationPointLon": -7.3057,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "salmon-s-public-house-chijxeox5qdyz0grvuktwkgn",
@@ -45479,7 +45814,8 @@
     "frontObservationPointLat": 53.3907,
     "frontObservationPointLon": -6.4062,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "sam-s-bar-chijlwmbvpthregr93ajdcew",
@@ -45510,7 +45846,8 @@
     "frontObservationPointLat": 51.7068,
     "frontObservationPointLon": -8.5229,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 22.5
+    "shadeClearanceDeg": 22.5,
+    "solarMode": "facade"
   },
   {
     "id": "sanctuary-node-1171865905",
@@ -45580,7 +45917,8 @@
       "source": "https://www.sandyfordhouse.ie/"
     },
     "websiteUrl": "https://www.sandyfordhouse.ie",
-    "websiteSource": "https://www.sandyfordhouse.ie/"
+    "websiteSource": "https://www.sandyfordhouse.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "sandymount-house-node-312574900",
@@ -45620,7 +45958,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.7159,
     "frontObservationPointLon": -6.3472,
-    "facadeWidthM": 5.2
+    "facadeWidthM": 5.2,
+    "solarMode": "facade"
   },
   {
     "id": "savages-bar-node-2402019445",
@@ -45848,7 +46187,8 @@
     "frontObservationPointLat": 52.8363,
     "frontObservationPointLon": -6.9305,
     "facadeWidthM": 13.8,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "screene-s-on-the-square-node-9939055185",
@@ -46137,7 +46477,8 @@
       "source": "https://www.seansbar.ie/"
     },
     "websiteUrl": "https://www.seansbar.ie",
-    "websiteSource": "https://www.seansbar.ie/"
+    "websiteSource": "https://www.seansbar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "sea-nie-s-bar-node-9831660489",
@@ -46212,7 +46553,8 @@
       "source": "https://searsonsbar.ie/"
     },
     "websiteUrl": "https://searsonsbar.ie",
-    "websiteSource": "https://searsonsbar.ie/"
+    "websiteSource": "https://searsonsbar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "seatons-of-sailortown-chijiygbiaajyugrzla1syjg",
@@ -46243,7 +46585,8 @@
     "frontObservationPointLat": 54.6087,
     "frontObservationPointLon": -5.9205,
     "facadeWidthM": 10.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "seaview-tavern-node-1575265996",
@@ -46590,7 +46933,8 @@
       "source": "https://sheehanspub.ie/"
     },
     "websiteUrl": "https://sheehanspub.ie",
-    "websiteSource": "https://sheehanspub.ie/"
+    "websiteSource": "https://sheehanspub.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "shennanigan-s-node-652990798",
@@ -46739,7 +47083,8 @@
       "source": "https://www.shorelinehotel.ie/dining/"
     },
     "websiteUrl": "https://www.shorelinehotel.ie",
-    "websiteSource": "https://www.shorelinehotel.ie/"
+    "websiteSource": "https://www.shorelinehotel.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "shortall-s-node-9936195567",
@@ -46869,7 +47214,8 @@
     "frontObservationPointLat": 54.329,
     "frontObservationPointLon": -7.6681,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "silvermine-node-1540105570",
@@ -47128,7 +47474,8 @@
     "frontObservationPointLat": 53.8811,
     "frontObservationPointLon": -6.3406,
     "facadeWidthM": 12.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "slatt-s-chijjxtxupymz0gr6foinwgb",
@@ -47159,7 +47506,8 @@
     "frontObservationPointLat": 53.3378,
     "frontObservationPointLon": -6.3289,
     "facadeWidthM": 10.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "slattery-s-node-2177465828",
@@ -47257,7 +47605,8 @@
     "frontObservationPointLat": 52.3456,
     "frontObservationPointLon": -7.4118,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "slieve-mish-bar-chijc2iwzho1rugrt6-hkdbn",
@@ -47288,7 +47637,8 @@
     "frontObservationPointLat": 52.2691,
     "frontObservationPointLon": -9.7006,
     "facadeWidthM": 11,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "smart-s-bar-node-8309797373",
@@ -47408,7 +47758,8 @@
     "frontObservationPointLat": 53.4852,
     "frontObservationPointLon": -6.151,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "smyths-siopa-ol-node-1991183851",
@@ -47566,7 +47917,8 @@
     "frontObservationPointLat": 53.4509,
     "frontObservationPointLon": -6.1477,
     "facadeWidthM": 8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "south-county-node-2277665059",
@@ -47713,7 +48065,8 @@
     "frontObservationPointLat": 53.273,
     "frontObservationPointLon": -7.4937,
     "facadeWidthM": 11.1,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "sportsmans-inn-node-295257682",
@@ -48039,7 +48392,8 @@
     "frontObservationPointLat": 53.3127,
     "frontObservationPointLon": -6.6079,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "strand-node-1425132151",
@@ -48128,7 +48482,8 @@
       "source": "https://street66bar.ie/"
     },
     "websiteUrl": "https://street66bar.ie",
-    "websiteSource": "https://street66bar.ie/"
+    "websiteSource": "https://street66bar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "sullivan-s-taproom-chij15j4xxu6xugrf6rfkd6p",
@@ -48159,7 +48514,8 @@
     "frontObservationPointLat": 52.653,
     "frontObservationPointLon": -7.2489,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 27.5
+    "shadeClearanceDeg": 27.5,
+    "solarMode": "facade"
   },
   {
     "id": "sully-s-node-3072996004",
@@ -48240,7 +48596,8 @@
     "frontObservationPointLat": 55.1893,
     "frontObservationPointLon": -7.0394,
     "facadeWidthM": 7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "suttons-bar-node-843569583",
@@ -48400,7 +48757,8 @@
     "frontObservationPointLat": 52.6513,
     "frontObservationPointLon": -7.2516,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "t-humphrey-s-node-12543374557",
@@ -48418,7 +48776,8 @@
     "frontObservationPointLon": -6.2523,
     "facadeWidthM": 5.2,
     "instagramUrl": "https://instagram.com/humphreysranelagh",
-    "instagramSource": "https://ie.geoview.info/t_humphreys%2C12543374557n"
+    "instagramSource": "https://ie.geoview.info/t_humphreys%2C12543374557n",
+    "solarMode": "facade"
   },
   {
     "id": "t-j-clarke-node-7925517285",
@@ -48630,7 +48989,8 @@
     "frontObservationPointLat": 52.2617,
     "frontObservationPointLon": -7.113,
     "facadeWidthM": 6.6,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "ta-se-s-node-6845067323",
@@ -48775,7 +49135,8 @@
     "frontObservationPointLat": 53.3251,
     "frontObservationPointLon": -6.2543,
     "facadeWidthM": 10.3,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "tapped-dublin-manual",
@@ -49250,7 +49611,8 @@
       "source": "https://www.the51bar.ie/"
     },
     "websiteUrl": "https://www.the51bar.ie",
-    "websiteSource": "https://www.the51bar.ie/"
+    "websiteSource": "https://www.the51bar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-79-inn-chijivtkjeumz0grvj-ehrad",
@@ -49278,7 +49640,8 @@
     "frontObservationPointLat": 53.3425,
     "frontObservationPointLon": -6.3587,
     "facadeWidthM": 7.2,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-1798-node-12093349456",
@@ -49323,7 +49686,8 @@
     "frontObservationPointLat": 53.3677,
     "frontObservationPointLon": -6.227,
     "facadeWidthM": 14.8,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-abbey-node-3399488596",
@@ -49452,7 +49816,8 @@
     "frontObservationPointLat": 53.3378,
     "frontObservationPointLon": -6.5382,
     "facadeWidthM": 6.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-abbey-tavern-node-324576013",
@@ -49499,7 +49864,8 @@
     "frontObservationPointLat": 51.902,
     "frontObservationPointLon": -8.4718,
     "facadeWidthM": 7.2,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-acorn-bar-node-5816300362",
@@ -49578,7 +49944,8 @@
     "frontObservationPointLat": 54.6085,
     "frontObservationPointLon": -5.92,
     "facadeWidthM": 10.6,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-anchor-node-9531021642",
@@ -49890,7 +50257,8 @@
     "frontObservationPointLat": 52.132,
     "frontObservationPointLon": -8.6456,
     "facadeWidthM": 6.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-ardmore-node-1503809064",
@@ -50016,7 +50384,8 @@
       "source": "https://aulddubliner.ie/"
     },
     "websiteUrl": "https://aulddubliner.ie",
-    "websiteSource": "https://aulddubliner.ie/"
+    "websiteSource": "https://aulddubliner.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-auld-sod-node-9995596121",
@@ -50195,7 +50564,8 @@
     "websiteUrl": "https://www.onthebackpage.com",
     "websiteSource": "https://www.onthebackpage.com/",
     "instagramUrl": "https://instagram.com/the_back_page",
-    "instagramSource": "https://www.onthebackpage.com/"
+    "instagramSource": "https://www.onthebackpage.com/",
+    "solarMode": "facade"
   },
   {
     "id": "the-bailey-node-11073348362",
@@ -50268,7 +50638,8 @@
       "source": "https://thebalgriffin.ie/bingo/"
     },
     "websiteUrl": "https://thebalgriffin.ie",
-    "websiteSource": "https://thebalgriffin.ie/"
+    "websiteSource": "https://thebalgriffin.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-ballymac-inn-node-12563373395",
@@ -50313,7 +50684,8 @@
     "frontObservationPointLat": 53.3556,
     "frontObservationPointLon": -6.4638,
     "facadeWidthM": 17,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-balrothery-inn-chijzxjo6lwiz0griqlrwjbl",
@@ -50344,7 +50716,8 @@
     "frontObservationPointLat": 53.5874,
     "frontObservationPointLon": -6.1881,
     "facadeWidthM": 7.6,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-bank-bar-node-9655025371",
@@ -50415,7 +50788,8 @@
       "source": "https://www.thebankersbar.ie/menu"
     },
     "websiteUrl": "https://www.thebankersbar.ie",
-    "websiteSource": "https://www.thebankersbar.ie/"
+    "websiteSource": "https://www.thebankersbar.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-bar-node-9265529546",
@@ -50500,17 +50874,18 @@
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed",
-      "source": "https://thebarbers.ie/"
+      "source": "https://thebarbers.ie/contact/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thebarbers.ie/menu/"
     },
     "websiteUrl": "https://thebarbers.ie",
-    "websiteSource": "https://thebarbers.ie/",
+    "websiteSource": "https://thebarbers.ie/contact/",
     "instagramUrl": "https://instagram.com/barbersbardublin",
-    "instagramSource": "https://thebarbers.ie/contact/"
+    "instagramSource": "https://thebarbers.ie/contact/",
+    "solarMode": "facade"
   },
   {
     "id": "the-barge-node-133193958",
@@ -50623,7 +50998,8 @@
     "frontObservationPointLat": 53.9446,
     "frontObservationPointLon": -8.0951,
     "facadeWidthM": 9.4,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-barrow-breeze-node-8712467207",
@@ -50710,7 +51086,7 @@
       "source": "https://thebathpub.ie/about-us/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thebathpub.ie/menus/"
     },
@@ -50739,7 +51115,8 @@
     "outdoorObservationPointLon": -6.2321354,
     "outdoorAreaWidthM": 12.4,
     "outdoorAreaInferenceSource": "osm-outdoor-area-way-1108388886",
-    "outdoorAreaProfileId": "osm:way:1108388886"
+    "outdoorAreaProfileId": "osm:way:1108388886",
+    "solarMode": "facade"
   },
   {
     "id": "the-beach-node-9949401156",
@@ -50779,7 +51156,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.1499,
     "frontObservationPointLon": -6.0663,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-beachcomber-node-2807396179",
@@ -50976,7 +51354,7 @@
     "frontObservationPointLon": -6.2714,
     "facadeWidthM": 16.6,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thebernardshaw.com/menu/"
     },
@@ -51011,7 +51389,8 @@
     "websiteUrl": "https://thebernardshaw.com",
     "websiteSource": "https://thebernardshaw.com/",
     "instagramUrl": "https://instagram.com/thebernardshaw",
-    "instagramSource": "https://www.instagram.com/thebernardshaw/"
+    "instagramSource": "https://www.instagram.com/thebernardshaw/",
+    "solarMode": "facade"
   },
   {
     "id": "the-betsy-node-6073174873",
@@ -51043,7 +51422,8 @@
       "source": "https://www.thebetsyswords.com/"
     },
     "websiteUrl": "https://www.thebetsyswords.com",
-    "websiteSource": "https://www.thebetsyswords.com/"
+    "websiteSource": "https://www.thebetsyswords.com/",
+    "solarMode": "facade"
   },
   {
     "id": "the-big-apple-node-11499672837",
@@ -51196,7 +51576,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.7079,
     "frontObservationPointLon": -6.3277,
-    "facadeWidthM": 10.6
+    "facadeWidthM": 10.6,
+    "solarMode": "facade"
   },
   {
     "id": "the-black-horse-inn-node-11500700300",
@@ -51362,7 +51743,8 @@
     "frontObservationPointLat": 53.3859,
     "frontObservationPointLon": -6.3745,
     "facadeWidthM": 5.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-blackpool-tavern-node-7289540994",
@@ -51428,7 +51810,8 @@
       "source": "https://www.theblackrock.ie/"
     },
     "websiteUrl": "https://www.theblackrock.ie",
-    "websiteSource": "https://www.theblackrock.ie/"
+    "websiteSource": "https://www.theblackrock.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-blackthorn-node-1600661151",
@@ -51603,7 +51986,8 @@
     "frontObservationPointLat": 53.2935,
     "frontObservationPointLon": -6.3086,
     "facadeWidthM": 5.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-blue-lagoon-chij25zai7ppxkgrup8hcufy",
@@ -51634,7 +52018,8 @@
     "frontObservationPointLat": 54.271,
     "frontObservationPointLon": -8.4619,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-blue-light-manual",
@@ -51651,7 +52036,8 @@
     "frontObservationPointLat": 53.2547,
     "frontObservationPointLon": -6.2312,
     "facadeWidthM": 15.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-blue-loo-node-1591373890",
@@ -51715,7 +52101,8 @@
     "frontObservationPointLat": 53.3474,
     "frontObservationPointLon": -6.2685,
     "facadeWidthM": 4.9,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-boathouse-bar-node-11154591879",
@@ -51858,7 +52245,8 @@
     "frontObservationPointLat": 54.581,
     "frontObservationPointLon": -5.9384,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-bottle-boy-node-9122380611",
@@ -51920,7 +52308,8 @@
     "frontObservationPointLat": 53.295,
     "frontObservationPointLon": -6.2569,
     "facadeWidthM": 12,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-bounty-node-1718588415",
@@ -51995,7 +52384,7 @@
     "lon": -6.3341761,
     "displayLat": 54.1789439,
     "displayLon": -6.3341761,
-    "frontBearingDeg": 16.4,
+    "frontBearingDeg": 346.5,
     "source": "likely-missing",
     "sourceName": "Brass Monkey",
     "addressText": "1-4 Sandys Street, Newry, Co. Down, BT3 41EN",
@@ -52010,8 +52399,14 @@
     "googlePrimaryType": "bar_and_grill",
     "googleBusinessStatus": "OPERATIONAL",
     "googleSimilarity": 1,
-    "facadeInferenceSource": "osm-nearest-road",
-    "facadeInferenceRoadName": "Sandys Street"
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Sandys Street",
+    "solarMode": "facade",
+    "shadeClearanceDeg": 2.5,
+    "frontObservationPointLat": 54.179,
+    "frontObservationPointLon": -6.334,
+    "facadeWidthM": 17.6,
+    "sunGeometryProfileSource": "osm-building-shadow-v1"
   },
   {
     "id": "the-brazen-head-node-10013398691",
@@ -52089,7 +52484,8 @@
     "frontObservationPointLat": 53.4233,
     "frontObservationPointLon": -7.9377,
     "facadeWidthM": 7.3,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-brew-dock-chijmz1p3y4oz0gry8yocw58",
@@ -52134,7 +52530,8 @@
       "source": "https://galwaybaybrewery.com/brewdock/"
     },
     "websiteUrl": "https://galwaybaybrewery.com/brewdock",
-    "websiteSource": "https://galwaybaybrewery.com/brewdock/"
+    "websiteSource": "https://galwaybaybrewery.com/brewdock/",
+    "solarMode": "facade"
   },
   {
     "id": "the-brewery-node-5940792785",
@@ -52216,7 +52613,8 @@
     "frontObservationPointLat": 53.2746,
     "frontObservationPointLon": -7.4929,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-brewhouse-node-7723084031",
@@ -52545,7 +52943,8 @@
     "frontObservationPointLat": 53.4948,
     "frontObservationPointLon": -6.1108,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-brook-house-node-1607402477",
@@ -52667,7 +53066,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.1444,
     "frontObservationPointLon": -6.0621,
-    "facadeWidthM": 5.7
+    "facadeWidthM": 5.7,
+    "solarMode": "facade"
   },
   {
     "id": "the-burrow-node-765582585",
@@ -52706,7 +53106,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5805,
     "frontObservationPointLon": -6.1072,
-    "facadeWidthM": 11.7
+    "facadeWidthM": 11.7,
+    "solarMode": "facade"
   },
   {
     "id": "the-bush-bar-node-3557238111",
@@ -53001,7 +53402,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5219,
     "frontObservationPointLon": -6.0875,
-    "facadeWidthM": 5.2
+    "facadeWidthM": 5.2,
+    "solarMode": "facade"
   },
   {
     "id": "the-carpenter-chijg1q1abvyz0gre0qch7l8",
@@ -53029,7 +53431,8 @@
     "frontObservationPointLat": 53.3718,
     "frontObservationPointLon": -6.3891,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-carraig-node-4431521661",
@@ -53140,7 +53543,8 @@
     "frontObservationPointLat": 54.0764,
     "frontObservationPointLon": -6.6072,
     "facadeWidthM": 6.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-castle-node-10118360858",
@@ -53319,7 +53723,8 @@
     "frontObservationPointLat": 53.3402,
     "frontObservationPointLon": -6.5383,
     "facadeWidthM": 6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-cave-node-9156246580",
@@ -53344,7 +53749,7 @@
     "lon": -6.3297472,
     "displayLat": 54.1766524,
     "displayLon": -6.3297472,
-    "frontBearingDeg": 177.8,
+    "frontBearingDeg": 175.8,
     "source": "likely-missing",
     "sourceName": "The Cavern",
     "addressText": "Church Street, Newry, Co. Down",
@@ -53359,8 +53764,14 @@
     "googlePrimaryType": "pub",
     "googleBusinessStatus": "OPERATIONAL",
     "googleSimilarity": 1,
-    "facadeInferenceSource": "osm-nearest-road",
-    "facadeInferenceRoadName": "Church Street"
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Church Street",
+    "solarMode": "facade",
+    "shadeClearanceDeg": 7.5,
+    "frontObservationPointLat": 54.1766,
+    "frontObservationPointLon": -6.3298,
+    "facadeWidthM": 6.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1"
   },
   {
     "id": "the-cedar-bar-node-9966006795",
@@ -53503,7 +53914,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.6096,
     "frontObservationPointLon": -6.1834,
-    "facadeWidthM": 7.2
+    "facadeWidthM": 7.2,
+    "solarMode": "facade"
   },
   {
     "id": "the-central-node-5720482295",
@@ -53653,7 +54065,8 @@
     "facadeWidthM": 6.2,
     "shadeClearanceDeg": 2.5,
     "websiteUrl": "https://thechalkvenue.ie",
-    "websiteSource": "https://thechalkvenue.ie/"
+    "websiteSource": "https://thechalkvenue.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-chaser-node-12346478399",
@@ -53803,7 +54216,8 @@
     "frontObservationPointLat": 53.428,
     "frontObservationPointLon": -6.2443,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-clock-tavern-chijfykjlafkwugrmthsdboc",
@@ -53834,7 +54248,8 @@
     "frontObservationPointLat": 53.7983,
     "frontObservationPointLon": -9.5233,
     "facadeWidthM": 7.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-clodagh-node-10086897753",
@@ -53898,7 +54313,8 @@
     "frontObservationPointLat": 54.6012,
     "frontObservationPointLon": -5.9258,
     "facadeWidthM": 13,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-club-node-12080246656",
@@ -54123,7 +54539,8 @@
     "frontObservationPointLat": 53.4325,
     "frontObservationPointLon": -6.2292,
     "facadeWidthM": 5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-coal-bunker-bar-node-4991371424",
@@ -54194,7 +54611,8 @@
     "frontObservationPointLat": 53.4579,
     "frontObservationPointLon": -6.2204,
     "facadeWidthM": 7.2,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-coliemore-chijve7he88hz0grnmjynj0w",
@@ -54232,7 +54650,8 @@
       "source": "https://www.thecoliemore.ie/bar"
     },
     "websiteUrl": "https://www.thecoliemore.ie",
-    "websiteSource": "https://www.thecoliemore.ie/"
+    "websiteSource": "https://www.thecoliemore.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-comet-node-1496777115",
@@ -54354,7 +54773,8 @@
       "source": "https://theconfessionbox.ie/"
     },
     "websiteUrl": "https://theconfessionbox.ie",
-    "websiteSource": "https://theconfessionbox.ie/about"
+    "websiteSource": "https://theconfessionbox.ie/about",
+    "solarMode": "facade"
   },
   {
     "id": "the-congo-node-9504572782",
@@ -54880,7 +55300,8 @@
     "frontObservationPointLat": 54.1156,
     "frontObservationPointLon": -9.1469,
     "facadeWidthM": 5.1,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-cottage-bar-chijv9qgymyux0grwq3edokk",
@@ -54911,7 +55332,8 @@
     "frontObservationPointLat": 54.951,
     "frontObservationPointLon": -7.7365,
     "facadeWidthM": 8.5,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-country-house-node-1584710231",
@@ -54975,7 +55397,8 @@
     "frontObservationPointLat": 52.6789,
     "frontObservationPointLon": -7.813,
     "facadeWidthM": 9,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-courthouse-node-465235746",
@@ -55103,7 +55526,8 @@
     "frontObservationPointLat": 52.2477,
     "frontObservationPointLon": -7.0847,
     "facadeWidthM": 16,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-crabtree-node-280487230",
@@ -55393,7 +55817,8 @@
     "frontObservationPointLat": 54.6833,
     "frontObservationPointLon": -5.9888,
     "facadeWidthM": 11.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-crows-nest-node-7963642769",
@@ -55535,7 +55960,8 @@
     "frontObservationPointLat": 53.2781,
     "frontObservationPointLon": -6.1073,
     "facadeWidthM": 13.4,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-danny-mann-inn-node-2304992191",
@@ -55583,7 +56009,8 @@
     "frontObservationPointLat": 53.9934,
     "frontObservationPointLon": -8.516,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-dark-horse-bar-kitchen-node-10698092299",
@@ -55648,7 +56075,8 @@
     "frontObservationPointLat": 54.6016,
     "frontObservationPointLon": -5.9303,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-deli-node-6238195089",
@@ -55761,7 +56189,8 @@
     "frontObservationPointLat": 54.2298,
     "frontObservationPointLon": -6.7691,
     "facadeWidthM": 13.6,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-dew-drop-inn-node-922793345",
@@ -56122,7 +56551,8 @@
     "frontObservationPointLat": 51.6597,
     "frontObservationPointLon": -9.2615,
     "facadeWidthM": 11.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-drop-inn-node-12899791048",
@@ -56162,7 +56592,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5227,
     "frontObservationPointLon": -6.0981,
-    "facadeWidthM": 12.3
+    "facadeWidthM": 12.3,
+    "solarMode": "facade"
   },
   {
     "id": "the-dropping-well-chijf7jhivqjz0grj97aubn3",
@@ -56195,7 +56626,8 @@
     "facadeWidthM": 18,
     "shadeClearanceDeg": 2.5,
     "websiteUrl": "https://droppingwell.com",
-    "websiteSource": "https://droppingwell.com/"
+    "websiteSource": "https://droppingwell.com/",
+    "solarMode": "facade"
   },
   {
     "id": "the-druid-inn-node-3768186387",
@@ -56242,7 +56674,8 @@
     "frontObservationPointLat": 53.2644,
     "frontObservationPointLon": -6.1152,
     "facadeWidthM": 10.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-dublin-bar-node-11247605260",
@@ -56428,7 +56861,8 @@
     "frontObservationPointLat": 53.8318,
     "frontObservationPointLon": -6.395,
     "facadeWidthM": 14.4,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-dunlo-tavern-node-9995596119",
@@ -56492,7 +56926,8 @@
     "frontObservationPointLat": 52.8454,
     "frontObservationPointLon": -7.395,
     "facadeWidthM": 12.8,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-dust-inn-node-2561241273",
@@ -56839,7 +57274,8 @@
     "facadeWidthM": 11,
     "shadeClearanceDeg": 2.5,
     "websiteUrl": "https://www.theferrymantownhouse.ie",
-    "websiteSource": "https://www.theferrymantownhouse.ie/"
+    "websiteSource": "https://www.theferrymantownhouse.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-fertha-node-4378143888",
@@ -56921,7 +57357,8 @@
     "frontObservationPointLat": 53.2982,
     "frontObservationPointLon": -8.7486,
     "facadeWidthM": 7.7,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-fifty-six-node-6961668048",
@@ -57001,7 +57438,8 @@
     "frontObservationPointLat": 53.3448,
     "frontObservationPointLon": -6.3978,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-findlater-node-2372312459",
@@ -57117,7 +57555,8 @@
     "facadeWidthM": 15.2,
     "shadeClearanceDeg": 2.5,
     "websiteUrl": "https://www.theflowingtide.ie",
-    "websiteSource": "https://www.theflowingtide.ie/"
+    "websiteSource": "https://www.theflowingtide.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-flying-enterprise-lounge-and-restaurant-node-1176936359",
@@ -57274,7 +57713,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.4576,
     "frontObservationPointLon": -6.221,
-    "facadeWidthM": 9.6
+    "facadeWidthM": 9.6,
+    "solarMode": "facade"
   },
   {
     "id": "the-foundry-node-1722820688",
@@ -57811,7 +58251,8 @@
     "frontObservationPointLat": 53.0965,
     "frontObservationPointLon": -7.2084,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-gate-inn-node-512293398",
@@ -57977,7 +58418,8 @@
     "frontObservationPointLat": 52.6612,
     "frontObservationPointLon": -8.6306,
     "facadeWidthM": 11.3,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-glenanarr-node-7737918691",
@@ -58034,7 +58476,7 @@
     "shadeClearanceDeg": 7.5,
     "facadeInferenceRoadName": "Stoneybatter",
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.theglimmerman.com/"
     },
@@ -58048,7 +58490,8 @@
     "websiteUrl": "https://www.theglimmerman.com",
     "websiteSource": "https://www.theglimmerman.com/",
     "instagramUrl": "https://instagram.com/Theglimmermand7",
-    "instagramSource": "https://www.theglimmerman.com/"
+    "instagramSource": "https://www.theglimmerman.com/",
+    "solarMode": "facade"
   },
   {
     "id": "the-globe-node-8724950866",
@@ -58177,7 +58620,8 @@
     "frontObservationPointLat": 53.2395,
     "frontObservationPointLon": -6.1966,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-golden-eagle-node-2150086215",
@@ -58241,7 +58685,8 @@
     "frontObservationPointLat": 52.8772,
     "frontObservationPointLon": -9.1747,
     "facadeWidthM": 15,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-goose-tavern-chijbb55zuyoz0gr4mdfhr9t",
@@ -58272,7 +58717,8 @@
     "frontObservationPointLat": 53.3757,
     "frontObservationPointLon": -6.2398,
     "facadeWidthM": 9.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-graduate-bar-and-restaurant-node-1263991636",
@@ -58398,7 +58844,8 @@
       "coverage": "multi-screen"
     },
     "websiteUrl": "https://www.thegrandsocial.ie",
-    "websiteSource": "https://www.thegrandsocial.ie/"
+    "websiteSource": "https://www.thegrandsocial.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-grange-pub-chijacy3d4ejz0grb-eqiddj",
@@ -58426,7 +58873,8 @@
     "frontObservationPointLat": 53.2787,
     "frontObservationPointLon": -6.1637,
     "facadeWidthM": 17,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-granite-node-930066446",
@@ -58518,7 +58966,8 @@
     "frontObservationPointLat": 53.3893,
     "frontObservationPointLon": -6.3887,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-green-briar-node-1881215449",
@@ -58762,7 +59211,8 @@
     "frontObservationPointLat": 54.6759,
     "frontObservationPointLon": -5.6174,
     "facadeWidthM": 17.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-grove-node-6783719496",
@@ -58892,7 +59342,8 @@
       "confidence": "confirmed",
       "source": "https://www.hapennybridgeinn.com"
     },
-    "websiteUrl": "https://www.hapennybridgeinn.com"
+    "websiteUrl": "https://www.hapennybridgeinn.com",
+    "solarMode": "facade"
   },
   {
     "id": "the-hacienda-bar-chijt-m6yskmz0gr6bmxpzzg",
@@ -58923,7 +59374,8 @@
     "frontObservationPointLat": 53.3481,
     "frontObservationPointLon": -6.2703,
     "facadeWidthM": 10.6,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-haggard-inn-node-2000036406",
@@ -59192,7 +59644,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5222,
     "frontObservationPointLon": -6.0825,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "solarMode": "facade"
   },
   {
     "id": "the-harbour-bar-node-2923940534",
@@ -59337,7 +59790,8 @@
     "frontObservationPointLat": 54.2736,
     "frontObservationPointLon": -8.4768,
     "facadeWidthM": 14.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-harvest-chijtdesxuciz0gr5gznvnj3",
@@ -59368,7 +59822,8 @@
     "frontObservationPointLat": 53.6109,
     "frontObservationPointLon": -6.1854,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-hatch-node-8047204915",
@@ -59578,7 +60033,8 @@
     "frontObservationPointLat": 54.5993,
     "frontObservationPointLon": -5.9329,
     "facadeWidthM": 8.3,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-heritage-node-11348132849",
@@ -59641,7 +60097,8 @@
     "frontObservationPointLat": 53.2056,
     "frontObservationPointLon": -6.1007,
     "facadeWidthM": 5.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-hibernian-bar-node-2400499830",
@@ -59832,7 +60289,8 @@
     "frontObservationPointLat": 53.5212,
     "frontObservationPointLon": -9.0889,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-hill-node-8745931443",
@@ -59942,7 +60400,8 @@
     "frontObservationPointLat": 54.462,
     "frontObservationPointLon": -6.084,
     "facadeWidthM": 10.1,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-hog-and-hound-node-12251328828",
@@ -60086,7 +60545,8 @@
     "frontObservationPointLat": 53.3622,
     "frontObservationPointLon": -6.2905,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-honk-bar-node-5023043131",
@@ -60426,7 +60886,8 @@
     "frontObservationPointLat": 53.3799,
     "frontObservationPointLon": -6.1744,
     "facadeWidthM": 9.4,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-irish-house-bar-chijx62xj3vdwugrupprrwfv",
@@ -60457,7 +60918,8 @@
     "frontObservationPointLat": 53.8558,
     "frontObservationPointLon": -9.2996,
     "facadeWidthM": 9.9,
-    "shadeClearanceDeg": 27.5
+    "shadeClearanceDeg": 27.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-irishman-s-node-9167490800",
@@ -60505,7 +60967,8 @@
     "frontObservationPointLat": 53.3399,
     "frontObservationPointLon": -6.2234,
     "facadeWidthM": 5.9,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-island-bar-node-685302615",
@@ -60565,7 +61028,8 @@
     "frontObservationPointLat": 53.4292,
     "frontObservationPointLon": -6.1261,
     "facadeWidthM": 4.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-jar-node-503224354",
@@ -60612,7 +61076,8 @@
     "frontObservationPointLat": 54.581,
     "frontObservationPointLon": -5.9354,
     "facadeWidthM": 6.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-jerpoint-inn-node-8656284096",
@@ -60693,7 +61158,8 @@
     "frontObservationPointLat": 54.6019,
     "frontObservationPointLon": -5.9286,
     "facadeWidthM": 8.3,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-jolly-beggar-node-446302964",
@@ -60869,7 +61335,8 @@
     "frontObservationPointLat": 52.8614,
     "frontObservationPointLon": -8.1979,
     "facadeWidthM": 9.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-kerryman-s-node-1596481086",
@@ -60916,7 +61383,8 @@
     "frontObservationPointLat": 53.9755,
     "frontObservationPointLon": -7.3524,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-kilmore-inn-node-7864222444",
@@ -60995,7 +61463,8 @@
     "frontObservationPointLat": 54.6616,
     "frontObservationPointLon": -5.6687,
     "facadeWidthM": 10.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-kingdom-bar-node-7080438450",
@@ -61576,7 +62045,8 @@
     "frontObservationPointLat": 53.342,
     "frontObservationPointLon": -6.2525,
     "facadeWidthM": 11.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-linen-hall-bar-chijvvufsfgiyugrdycnl1bc",
@@ -61607,7 +62077,8 @@
     "frontObservationPointLat": 54.5937,
     "frontObservationPointLon": -5.9313,
     "facadeWidthM": 6.5,
-    "shadeClearanceDeg": 27.5
+    "shadeClearanceDeg": 27.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-lions-den-node-1424062137",
@@ -62204,7 +62675,8 @@
     "frontObservationPointLat": 53.3806,
     "frontObservationPointLon": -6.175,
     "facadeWidthM": 7.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-maple-leaf-node-836043023",
@@ -62250,7 +62722,8 @@
     "frontObservationPointLat": 54.5922,
     "frontObservationPointLon": -5.9308,
     "facadeWidthM": 15.1,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-marine-node-1386724801",
@@ -62481,7 +62954,8 @@
     "frontObservationPointLat": 54.054,
     "frontObservationPointLon": -8.73,
     "facadeWidthM": 9.1,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-mayfly-inn-node-6918295463",
@@ -62528,7 +63002,8 @@
     "frontObservationPointLat": 53.6475,
     "frontObservationPointLon": -7.2129,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-meath-arms-node-4165413738",
@@ -62654,7 +63129,8 @@
       "source": "https://themerrioninn.com/a-la-carte-menu/"
     },
     "websiteUrl": "https://themerrioninn.com",
-    "websiteSource": "https://themerrioninn.com/"
+    "websiteSource": "https://themerrioninn.com/",
+    "solarMode": "facade"
   },
   {
     "id": "the-merry-cobbler-node-312569935",
@@ -62744,7 +63220,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5218,
     "frontObservationPointLon": -6.0904,
-    "facadeWidthM": 7
+    "facadeWidthM": 7,
+    "solarMode": "facade"
   },
   {
     "id": "the-middle-shop-chijnx4loyjyz0grc86gbvmj",
@@ -62775,7 +63252,8 @@
     "frontObservationPointLat": 53.3639,
     "frontObservationPointLon": -6.4902,
     "facadeWidthM": 8.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-midland-bar-node-3669293345",
@@ -62839,7 +63317,8 @@
     "frontObservationPointLat": 53.6109,
     "frontObservationPointLon": -6.1854,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-mill-bar-node-7248432954",
@@ -63050,7 +63529,8 @@
     "frontObservationPointLat": 52.6617,
     "frontObservationPointLon": -8.6189,
     "facadeWidthM": 6.2,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-morehampton-chijufgbnwspz0gro7-mixb-",
@@ -63079,7 +63559,8 @@
     "frontObservationPointLat": 53.3228,
     "frontObservationPointLon": -6.2384,
     "facadeWidthM": 15.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-morgue-chiju41w4jolz0grk2c4ogp2",
@@ -63112,7 +63593,7 @@
     "facadeWidthM": 18,
     "shadeClearanceDeg": 2.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.themorgue.ie/"
     },
@@ -63125,7 +63606,8 @@
       "source": "https://www.themorgue.ie/services/15/from-the-grill/"
     },
     "websiteUrl": "https://www.themorgue.ie",
-    "websiteSource": "https://www.themorgue.ie/"
+    "websiteSource": "https://www.themorgue.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-morris-bar-node-12920142701",
@@ -63270,7 +63752,8 @@
       "source": "https://themullingarhouse.ie/evening-menu-24/"
     },
     "websiteUrl": "https://themullingarhouse.ie",
-    "websiteSource": "https://themullingarhouse.ie/"
+    "websiteSource": "https://themullingarhouse.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-munster-bar-node-9550216894",
@@ -63541,7 +64024,8 @@
       "source": "https://www.norseman.ie/"
     },
     "websiteUrl": "https://www.norseman.ie",
-    "websiteSource": "https://www.norseman.ie/"
+    "websiteSource": "https://www.norseman.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-north-irish-horse-inn-node-3099832430",
@@ -63622,7 +64106,8 @@
     "frontObservationPointLat": 52.6613,
     "frontObservationPointLon": -8.6307,
     "facadeWidthM": 7.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-oak-bar-node-2268531079",
@@ -63831,7 +64316,8 @@
     "facadeWidthM": 18,
     "shadeClearanceDeg": 2.5,
     "websiteUrl": "https://www.jdwetherspoon.com/pubs/the-old-borough-swords",
-    "websiteSource": "https://www.jdwetherspoon.com/pubs/the-old-borough-swords/"
+    "websiteSource": "https://www.jdwetherspoon.com/pubs/the-old-borough-swords/",
+    "solarMode": "facade"
   },
   {
     "id": "the-old-bridge-inn-node-1583220924",
@@ -63962,7 +64448,8 @@
     "frontObservationPointLat": 53.2759,
     "frontObservationPointLon": -7.4901,
     "facadeWidthM": 14.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-old-killowen-inn-node-8571719074",
@@ -64142,7 +64629,7 @@
     "facadeWidthM": 4.5,
     "shadeClearanceDeg": 2.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://theoldschoolhouse.ie/bar-food-menu/"
     },
@@ -64170,7 +64657,8 @@
     "websiteUrl": "https://theoldschoolhouse.ie",
     "websiteSource": "https://theoldschoolhouse.ie/",
     "instagramUrl": "https://instagram.com/schoolhouseswords",
-    "instagramSource": "https://theoldschoolhouse.ie/"
+    "instagramSource": "https://theoldschoolhouse.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-old-ship-node-6961668040",
@@ -64386,7 +64874,8 @@
     "frontObservationPointLat": 53.2686,
     "frontObservationPointLon": -8.9294,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-olde-forge-node-1843385187",
@@ -64596,7 +65085,8 @@
     "frontObservationPointLat": 51.8967,
     "frontObservationPointLon": -8.477,
     "facadeWidthM": 9.2,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-oval-bar-chijw-8yiqoz0gri-8uv6kit",
@@ -64638,7 +65128,8 @@
       "confidence": "confirmed",
       "source": "https://theovalbar.com/food-drink/"
     },
-    "websiteUrl": "https://theovalbar.com"
+    "websiteUrl": "https://theovalbar.com",
+    "solarMode": "facade"
   },
   {
     "id": "the-oyster-node-1828395090",
@@ -64863,7 +65354,8 @@
       "source": "https://patriotsinn.ie/sports/"
     },
     "websiteUrl": "https://patriotsinn.ie",
-    "websiteSource": "https://patriotsinn.ie/"
+    "websiteSource": "https://patriotsinn.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-penny-hill-node-263366607",
@@ -65171,7 +65663,8 @@
     "frontObservationPointLat": 51.8982,
     "frontObservationPointLon": -8.4674,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-porter-house-chijbqz1ewayxegr97yn7dfo",
@@ -65201,7 +65694,8 @@
     "frontObservationPointLat": 52.4741,
     "frontObservationPointLon": -8.1572,
     "facadeWidthM": 7.3,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-porter-house-chij-fjx0egeaegrrb6-prpo",
@@ -65232,7 +65726,8 @@
     "frontObservationPointLat": 52.3825,
     "frontObservationPointLon": -6.4504,
     "facadeWidthM": 13.6,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-porterhouse-node-4329633190",
@@ -65354,7 +65849,8 @@
     "frontObservationPointLat": 53.4594,
     "frontObservationPointLon": -6.2202,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-primrose-node-11372129205",
@@ -65432,7 +65928,8 @@
     "frontObservationPointLat": 53.4032,
     "frontObservationPointLon": -6.2067,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-pub-node-5556153421",
@@ -65496,7 +65993,8 @@
     "frontObservationPointLat": 52.6549,
     "frontObservationPointLon": -7.2548,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-punt-node-1678142044",
@@ -65519,7 +66017,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.7165,
     "frontObservationPointLon": -6.3554,
-    "facadeWidthM": 7.9
+    "facadeWidthM": 7.9,
+    "solarMode": "facade"
   },
   {
     "id": "the-punter-s-rest-node-621953954",
@@ -65728,7 +66227,8 @@
     "frontObservationPointLat": 53.2779,
     "frontObservationPointLon": -6.1052,
     "facadeWidthM": 16.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-quilty-tavern-node-1870978615",
@@ -65827,7 +66327,8 @@
       ],
       "source": "https://theragtrader.ie/all-ireland-hurling-final-2025/"
     },
-    "websiteUrl": "https://theragtrader.ie"
+    "websiteUrl": "https://theragtrader.ie",
+    "solarMode": "facade"
   },
   {
     "id": "the-raheny-inn-chijkvar-4wpz0grhx2nykv8",
@@ -65856,7 +66357,8 @@
     "frontObservationPointLat": 53.3801,
     "frontObservationPointLon": -6.174,
     "facadeWidthM": 13.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-railway-bar-node-2720405204",
@@ -66116,7 +66618,8 @@
     "frontObservationPointLat": 53.3121,
     "frontObservationPointLon": -6.2746,
     "facadeWidthM": 7.9,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-raven-node-12134907988",
@@ -66275,7 +66778,8 @@
     "frontObservationPointLat": 53.366,
     "frontObservationPointLon": -6.4801,
     "facadeWidthM": 9.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-reel-inn-node-9655817227",
@@ -66322,7 +66826,8 @@
     "frontObservationPointLat": 53.3595,
     "frontObservationPointLon": -6.2448,
     "facadeWidthM": 13.6,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-reg-chijd7-ef5rgqkgrkmctf41j",
@@ -66353,7 +66858,8 @@
     "frontObservationPointLat": 52.2605,
     "frontObservationPointLon": -7.1053,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-reporter-chijoeadbo4jyugrcntd0fch",
@@ -66384,7 +66890,8 @@
     "frontObservationPointLat": 54.6041,
     "frontObservationPointLon": -5.9312,
     "facadeWidthM": 9.9,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-rest-pub-node-1424019465",
@@ -66431,7 +66938,8 @@
     "frontObservationPointLat": 54.6542,
     "frontObservationPointLon": -8.1107,
     "facadeWidthM": 7.3,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-revels-chijf2mtk-0lz0grgnavuhfx",
@@ -66482,7 +66990,8 @@
       "source": "https://www.revelsbar.com"
     },
     "websiteUrl": "https://www.revelsbar.com",
-    "websiteSource": "https://www.revelsbar.com"
+    "websiteSource": "https://www.revelsbar.com",
+    "solarMode": "facade"
   },
   {
     "id": "the-richmond-inn-node-10247216555",
@@ -66593,7 +67102,8 @@
     "frontObservationPointLat": 51.8538,
     "frontObservationPointLon": -8.2955,
     "facadeWidthM": 9.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-rob-roy-node-12710117878",
@@ -66854,7 +67364,8 @@
     "frontObservationPointLat": 54.5854,
     "frontObservationPointLon": -5.9227,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-rose-of-mooncoin-chijzyjbds3bqkgrdfscvihg",
@@ -66884,7 +67395,8 @@
     "frontObservationPointLat": 52.2924,
     "frontObservationPointLon": -7.2548,
     "facadeWidthM": 11.1,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-roselawn-inn-node-3718522031",
@@ -67081,7 +67593,8 @@
     "frontObservationPointLat": 54.5894,
     "frontObservationPointLon": -5.9363,
     "facadeWidthM": 8.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-royal-meath-chijy6upnkxbz0grmtxaql7a",
@@ -67112,7 +67625,8 @@
     "frontObservationPointLat": 53.6535,
     "frontObservationPointLon": -6.684,
     "facadeWidthM": 8.4,
-    "shadeClearanceDeg": 27.5
+    "shadeClearanceDeg": 27.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-rum-house-node-2993749533",
@@ -67269,7 +67783,8 @@
     "frontObservationPointLat": 53.2769,
     "frontObservationPointLon": -6.1432,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-salmon-leap-inn-chij7f3hdynyz0grsxaobl8m",
@@ -67299,7 +67814,8 @@
     "frontObservationPointLat": 53.3626,
     "frontObservationPointLon": -6.4864,
     "facadeWidthM": 5.3,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-salmon-pool-node-10971087758",
@@ -67380,7 +67896,8 @@
     "frontObservationPointLat": 52.6445,
     "frontObservationPointLon": -7.2607,
     "facadeWidthM": 12.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-schooner-node-2712281090",
@@ -67668,7 +68185,8 @@
     "frontObservationPointLat": 53.3902,
     "frontObservationPointLon": -6.2998,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-shannon-house-node-5811014161",
@@ -68007,7 +68525,8 @@
     "frontObservationPointLat": 51.5006,
     "frontObservationPointLon": -9.2629,
     "facadeWidthM": 14.6,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-skillet-inn-chijp4nsdw6jw0grewtnrzi4",
@@ -68038,7 +68557,8 @@
     "frontObservationPointLat": 53.2993,
     "frontObservationPointLon": -8.7471,
     "facadeWidthM": 11.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-skipper-s-bar-node-11104776126",
@@ -68135,7 +68655,8 @@
     "frontObservationPointLat": 53.2757,
     "frontObservationPointLon": -9.0633,
     "facadeWidthM": 8.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-slieve-rossa-node-3073294933",
@@ -68410,7 +68931,8 @@
     "frontObservationPointLat": 53.282,
     "frontObservationPointLon": -6.341,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-speakers-bar-chijxznongdxz0gr9uon-hpv",
@@ -68439,7 +68961,8 @@
     "frontObservationPointLat": 53.3401,
     "frontObservationPointLon": -6.5384,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-spinning-wheel-node-11114624714",
@@ -68502,7 +69025,8 @@
     "frontObservationPointLat": 54.009,
     "frontObservationPointLon": -6.39,
     "facadeWidthM": 8.2,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-sportman-s-inn-node-3384401690",
@@ -69104,7 +69628,8 @@
     "frontObservationPointLat": 53.3397,
     "frontObservationPointLon": -6.2421,
     "facadeWidthM": 7.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-strand-node-2688905835",
@@ -69127,7 +69652,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5221,
     "frontObservationPointLon": -6.0923,
-    "facadeWidthM": 7
+    "facadeWidthM": 7,
+    "solarMode": "facade"
   },
   {
     "id": "the-strand-node-1410111542",
@@ -69207,7 +69733,8 @@
     "frontObservationPointLat": 53.3623,
     "frontObservationPointLon": -6.3857,
     "facadeWidthM": 16.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-stray-sod-node-2530587659",
@@ -69283,7 +69810,8 @@
     "frontObservationPointLat": 53.3726,
     "frontObservationPointLon": -6.0582,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-swagman-node-663001946",
@@ -69328,7 +69856,8 @@
     "frontObservationPointLat": 53.3235,
     "frontObservationPointLon": -6.4249,
     "facadeWidthM": 10.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-swan-node-6251294159",
@@ -69626,7 +70155,8 @@
     "frontObservationPointLat": 51.7061,
     "frontObservationPointLon": -8.5251,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-tavern-node-1440570045",
@@ -70283,7 +70813,8 @@
     "frontObservationPointLat": 53.527,
     "frontObservationPointLon": -6.1663,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-tower-node-528287982",
@@ -70499,7 +71030,7 @@
     "frontObservationPointLon": -6.3053,
     "facadeWidthM": 14.9,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thetwosisters.ie/menus/"
     },
@@ -70513,7 +71044,8 @@
     "websiteUrl": "https://thetwosisters.ie",
     "websiteSource": "https://thetwosisters.ie/",
     "instagramUrl": "https://instagram.com/thetwosisterspub",
-    "instagramSource": "https://thetwosisters.ie/"
+    "instagramSource": "https://thetwosisters.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-union-bar-node-13191077469",
@@ -71071,7 +71603,8 @@
       "source": "https://www.theviscount.ie/"
     },
     "websiteUrl": "https://www.theviscount.ie",
-    "websiteSource": "https://www.theviscount.ie/"
+    "websiteSource": "https://www.theviscount.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-vortex-node-948977834",
@@ -71166,7 +71699,8 @@
     "frontObservationPointLat": 53.3381,
     "frontObservationPointLon": -6.2374,
     "facadeWidthM": 14.7,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-waterfront-node-11012516023",
@@ -71215,7 +71749,8 @@
     "facadeWidthM": 12.5,
     "shadeClearanceDeg": 62.5,
     "websiteUrl": "https://www.thewatermill.ie",
-    "websiteSource": "https://www.thewatermill.ie/"
+    "websiteSource": "https://www.thewatermill.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-waterside-node-639367124",
@@ -71590,7 +72125,8 @@
     "frontObservationPointLat": 55.0953,
     "frontObservationPointLon": -7.5329,
     "facadeWidthM": 11.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-white-horse-node-957278297",
@@ -71847,7 +72383,8 @@
     "frontObservationPointLat": 53.2022,
     "frontObservationPointLon": -6.1103,
     "facadeWidthM": 9.8,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-wiley-fox-chijbdu4d4uoz0graouk1a8n",
@@ -71890,7 +72427,8 @@
       "source": "https://www.thewileyfox.ie/"
     },
     "websiteUrl": "https://www.thewileyfox.ie",
-    "websiteSource": "https://www.thewileyfox.ie/"
+    "websiteSource": "https://www.thewileyfox.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "the-willows-node-3705003678",
@@ -72050,7 +72588,8 @@
     "frontObservationPointLat": 53.2877,
     "frontObservationPointLon": -6.1777,
     "facadeWidthM": 9.8,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-wood-node-299818672",
@@ -72114,7 +72653,8 @@
     "frontObservationPointLat": 51.899,
     "frontObservationPointLon": -8.4756,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-woodman-node-2130191964",
@@ -72247,7 +72787,8 @@
     "frontObservationPointLat": 53.3471,
     "frontObservationPointLon": -6.2545,
     "facadeWidthM": 8.2,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-world-s-end-bar-chijpdu6zgo6xugra1fhmxew",
@@ -72278,7 +72819,8 @@
     "frontObservationPointLat": 52.6544,
     "frontObservationPointLon": -7.2473,
     "facadeWidthM": 4.5,
-    "shadeClearanceDeg": 12.5
+    "shadeClearanceDeg": 12.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-wren-node-10158121734",
@@ -72323,7 +72865,8 @@
     "frontObservationPointLat": 53.3625,
     "frontObservationPointLon": -6.4018,
     "facadeWidthM": 6.5,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-yacht-node-10136276602",
@@ -72404,7 +72947,8 @@
     "frontObservationPointLat": 53.2967,
     "frontObservationPointLon": -6.285,
     "facadeWidthM": 10.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "the-yukon-bar-node-11805428770",
@@ -72518,7 +73062,8 @@
     "frontObservationPointLat": 54.2728,
     "frontObservationPointLon": -8.4739,
     "facadeWidthM": 6.8,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "thomas-fletcher-node-1898304331",
@@ -72557,7 +73102,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.7199,
     "frontObservationPointLon": -6.3416,
-    "facadeWidthM": 11.4
+    "facadeWidthM": 11.4,
+    "solarMode": "facade"
   },
   {
     "id": "thomas-moore-inn-node-503224346",
@@ -72739,11 +73285,6 @@
     "frontObservationPointLon": -9.0538,
     "facadeWidthM": 4.5,
     "facadeInferenceSource": "osm-building-facade",
-    "foodOffer": {
-      "category": "no-food",
-      "confidence": "confirmed",
-      "source": "https://www.tigchoiligalway.com/contact-us"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed",
@@ -73300,7 +73841,8 @@
     "frontObservationPointLat": 53.8542,
     "frontObservationPointLon": -9.2964,
     "facadeWidthM": 10.1,
-    "shadeClearanceDeg": 17.5
+    "shadeClearanceDeg": 17.5,
+    "solarMode": "facade"
   },
   {
     "id": "tom-barry-s-node-540500495",
@@ -73347,7 +73889,8 @@
     "frontObservationPointLat": 54.007,
     "frontObservationPointLon": -6.3825,
     "facadeWidthM": 8.4,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "tom-collins-bar-chijqwqdo2rcw0grnjvk5h3b",
@@ -73378,7 +73921,8 @@
     "frontObservationPointLat": 52.6613,
     "frontObservationPointLon": -8.6278,
     "facadeWidthM": 7.2,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "tom-croke-node-7952835201",
@@ -73652,7 +74196,8 @@
     "websiteUrl": "https://www.tonerspub.ie",
     "websiteSource": "https://www.tonerspub.ie/",
     "instagramUrl": "https://instagram.com/tonerspub",
-    "instagramSource": "https://www.tonerspub.ie/"
+    "instagramSource": "https://www.tonerspub.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "tony-horan-node-1372190286",
@@ -73934,7 +74479,8 @@
     "frontObservationPointLat": 53.4497,
     "frontObservationPointLon": -6.2242,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "treacey-s-the-nook-node-8975363783",
@@ -74246,7 +74792,8 @@
     "frontObservationPointLat": 51.6504,
     "frontObservationPointLon": -9.9121,
     "facadeWidthM": 16.2,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "tynan-s-bridge-house-bar-chije30jlz4wxugrwcf3efed",
@@ -74277,7 +74824,8 @@
     "frontObservationPointLat": 52.652,
     "frontObservationPointLon": -7.2508,
     "facadeWidthM": 7.7,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "tyrell-s-node-12595268456",
@@ -74411,7 +74959,8 @@
       "source": "https://uncletomscabin.ie/"
     },
     "websiteUrl": "https://uncletomscabin.ie",
-    "websiteSource": "https://uncletomscabin.ie/"
+    "websiteSource": "https://uncletomscabin.ie/",
+    "solarMode": "facade"
   },
   {
     "id": "unicorn-node-679478599",
@@ -74458,7 +75007,8 @@
     "frontObservationPointLat": 54.6039,
     "frontObservationPointLon": -5.9316,
     "facadeWidthM": 12.6,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "urban-brewing-node-5073432440",
@@ -74584,7 +75134,8 @@
       "source": "https://vathouse.ie/entertaiment/",
       "coverage": "multi-screen"
     },
-    "websiteUrl": "https://vathouse.ie"
+    "websiteUrl": "https://vathouse.ie",
+    "solarMode": "facade"
   },
   {
     "id": "vaughan-s-node-10844468300",
@@ -74663,7 +75214,8 @@
     "frontObservationPointLat": 52.9388,
     "frontObservationPointLon": -9.3909,
     "facadeWidthM": 11.1,
-    "shadeClearanceDeg": 7.5
+    "shadeClearanceDeg": 7.5,
+    "solarMode": "facade"
   },
   {
     "id": "vertigo-bar-node-3423690446",
@@ -75079,7 +75631,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.5227,
     "frontObservationPointLon": -6.0976,
-    "facadeWidthM": 9.1
+    "facadeWidthM": 9.1,
+    "solarMode": "facade"
   },
   {
     "id": "walshs-node-12422841975",
@@ -75571,7 +76124,7 @@
     "frontObservationPointLon": -6.2622,
     "facadeWidthM": 12.3,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.wigwamdublin.com/menu"
     },
@@ -75601,7 +76154,8 @@
     "websiteUrl": "https://www.wigwamdublin.com",
     "websiteSource": "https://www.wigwamdublin.com/",
     "instagramUrl": "https://instagram.com/wigwamdublin",
-    "instagramSource": "https://www.wigwamdublin.com/"
+    "instagramSource": "https://www.wigwamdublin.com/",
+    "solarMode": "facade"
   },
   {
     "id": "wilkin-s-of-church-hill-node-12826415870",
@@ -75690,7 +76244,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.7233,
     "frontObservationPointLon": -6.356,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "solarMode": "facade"
   },
   {
     "id": "wolf-whistle-node-2686062428",
@@ -75752,7 +76307,8 @@
     "frontObservationPointLat": 52.6983,
     "frontObservationPointLon": -8.7628,
     "facadeWidthM": 18,
-    "shadeClearanceDeg": 2.5
+    "shadeClearanceDeg": 2.5,
+    "solarMode": "facade"
   },
   {
     "id": "woodford-arms-bar-lounge-node-11704801068",
@@ -75853,7 +76409,8 @@
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.4562,
     "frontObservationPointLon": -6.2205,
-    "facadeWidthM": 6.2
+    "facadeWidthM": 6.2,
+    "solarMode": "facade"
   },
   {
     "id": "wrynns-node-8625586638",

@@ -4484,7 +4484,7 @@
       "source": "https://boarddublin.com/faq/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://boarddublin.com/info/"
     },
@@ -8450,7 +8450,7 @@
     "facadeWidthM": 13.5,
     "shadeClearanceDeg": 2.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://catandcage.ie/food-and-drink/food-menus/dinner-2/"
     },
@@ -8946,7 +8946,7 @@
       "source": "https://bereenbrothers.com/charlotte-quay"
     },
     "foodOffer": {
-      "category": "gastropub",
+      "category": "restaurant-grade",
       "confidence": "confirmed",
       "source": "https://bereenbrothers.com/charlotte-quay"
     },
@@ -9459,6 +9459,25 @@
     "facadeWidthM": 9.4,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "Leinster Street",
+    "solarMode": "facade"
+  },
+  {
+    "id": "pubs-clancys-bar-and-restaurant-way-1372710092",
+    "name": "Clancy’s Bar & Restaurant",
+    "lat": 51.897175,
+    "lon": -8.472766,
+    "displayLat": 51.897175,
+    "displayLon": -8.472766,
+    "source": "phase1-pub-osm",
+    "sourceName": "OpenStreetMap via Overpass",
+    "addressText": "15-16 Princes Street, Cork, T12 V6FH",
+    "county": "Cork",
+    "frontObservationPointLat": 51.8972,
+    "frontObservationPointLon": -8.4725,
+    "facadeWidthM": 4.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "websiteUrl": "https://www.clancyscork.ie",
+    "websiteSource": "https://www.clancyscork.ie/",
     "solarMode": "facade"
   },
   {
@@ -16582,6 +16601,25 @@
     "solarMode": "facade"
   },
   {
+    "id": "pubs-ewings-way-841712898",
+    "name": "Ewing’s",
+    "lat": 52.837759,
+    "lon": -6.932625,
+    "displayLat": 52.837759,
+    "displayLon": -6.932625,
+    "source": "phase1-pub-osm",
+    "sourceName": "OpenStreetMap via Overpass",
+    "addressText": "Centaur Street, Carlow, R93 E030",
+    "county": "Carlow",
+    "frontObservationPointLat": 52.8376,
+    "frontObservationPointLon": -6.933,
+    "facadeWidthM": 11.8,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "websiteUrl": "https://ewingscarlow.com",
+    "websiteSource": "https://ewingscarlow.com/",
+    "solarMode": "facade"
+  },
+  {
     "id": "exchange-node-7747519334",
     "name": "Exchange",
     "lat": 54.9983622,
@@ -16858,7 +16896,7 @@
       "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
     },
@@ -17441,7 +17479,7 @@
     "frontObservationPointLon": -6.2803,
     "facadeWidthM": 7.4,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.fidelitybar.ie/"
     },
@@ -23486,7 +23524,7 @@
       "source": "https://holeinthewallpub.com/faqs/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://holeinthewallpub.com/menus/"
     },
@@ -24266,6 +24304,25 @@
     "solarMode": "facade"
   },
   {
+    "id": "pubs-idle-hour-way-795006812",
+    "name": "Idle Hour",
+    "lat": 51.898275,
+    "lon": -8.461235,
+    "displayLat": 51.898275,
+    "displayLon": -8.461235,
+    "source": "phase1-pub-osm",
+    "sourceName": "OpenStreetMap via Overpass",
+    "addressText": "1 Albert Quay, Cork, T12 TYK0",
+    "county": "Cork",
+    "frontObservationPointLat": 51.8983,
+    "frontObservationPointLon": -8.4613,
+    "facadeWidthM": 7.6,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "websiteUrl": "https://theidlehour.ie",
+    "websiteSource": "https://theidlehour.ie/",
+    "solarMode": "facade"
+  },
+  {
     "id": "idlewild-node-9238631400",
     "name": "IdleWild",
     "lat": 53.3420846,
@@ -25025,6 +25082,25 @@
     "facadeWidthM": 14.5,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "Main Street",
+    "solarMode": "facade"
+  },
+  {
+    "id": "pubs-j-j-bowles-way-300768843",
+    "name": "J.J. Bowles",
+    "lat": 52.6704,
+    "lon": -8.628595,
+    "displayLat": 52.6704,
+    "displayLon": -8.628595,
+    "source": "phase1-pub-osm",
+    "sourceName": "OpenStreetMap via Overpass",
+    "addressText": "8 Thomondgate, Limerick, V94 HK74",
+    "county": "Limerick",
+    "frontObservationPointLat": 52.6704,
+    "frontObservationPointLon": -8.6287,
+    "facadeWidthM": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "websiteUrl": "https://www.jjbowlespub.com",
+    "websiteSource": "https://www.jjbowlespub.com/",
     "solarMode": "facade"
   },
   {
@@ -26097,11 +26173,6 @@
     "frontObservationPointLon": -6.2655,
     "facadeWidthM": 13,
     "shadeClearanceDeg": 7.5,
-    "foodOffer": {
-      "category": "no-food",
-      "confidence": "confirmed",
-      "source": "http://jimmyrabbittes.com/"
-    },
     "websiteUrl": "http://jimmyrabbittes.com",
     "websiteSource": "http://jimmyrabbittes.com/",
     "instagramUrl": "https://instagram.com/jimmyrabbittes",
@@ -37808,7 +37879,7 @@
     "frontBearingDeg": 180.7,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "Poolbeg Street",
-    "shadeClearanceDeg": 7.5,
+    "shadeClearanceDeg": 2.5,
     "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAwAAAAgAMAAAA+AAAE4AMAwAA+AAAM+AMAwIA/AAAM+AMAwIA/AAAc+AMAwMM/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAA",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3469,
@@ -44437,7 +44508,7 @@
     "frontObservationPointLon": -6.2786,
     "facadeWidthM": 4.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://peggykellys.ie/"
     },
@@ -45586,7 +45657,7 @@
       "source": "https://pye.ie/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://pye.ie/menus/"
     },
@@ -48545,7 +48616,7 @@
     "frontObservationPointLat": 52.8363,
     "frontObservationPointLon": -6.9305,
     "facadeWidthM": 13.8,
-    "shadeClearanceDeg": 17.5,
+    "shadeClearanceDeg": 2.5,
     "solarMode": "facade"
   },
   {
@@ -51638,7 +51709,7 @@
     "frontObservationPointLat": 53.3251,
     "frontObservationPointLon": -6.2543,
     "facadeWidthM": 10.3,
-    "shadeClearanceDeg": 7.5,
+    "shadeClearanceDeg": 2.5,
     "solarMode": "facade"
   },
   {
@@ -53447,15 +53518,15 @@
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed",
-      "source": "https://thebarbers.ie/"
+      "source": "https://thebarbers.ie/contact/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thebarbers.ie/menu/"
     },
     "websiteUrl": "https://thebarbers.ie",
-    "websiteSource": "https://thebarbers.ie/",
+    "websiteSource": "https://thebarbers.ie/contact/",
     "instagramUrl": "https://instagram.com/barbersbardublin",
     "instagramSource": "https://thebarbers.ie/contact/",
     "solarMode": "facade"
@@ -53667,7 +53738,7 @@
       "source": "https://thebathpub.ie/about-us/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thebathpub.ie/menus/"
     },
@@ -53947,7 +54018,7 @@
     "frontObservationPointLon": -6.2714,
     "facadeWidthM": 16.6,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thebernardshaw.com/menu/"
     },
@@ -61398,7 +61469,7 @@
     "shadeClearanceDeg": 7.5,
     "facadeInferenceRoadName": "Stoneybatter",
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.theglimmerman.com/"
     },
@@ -66746,7 +66817,7 @@
     "facadeWidthM": 18,
     "shadeClearanceDeg": 2.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.themorgue.ie/"
     },
@@ -67831,7 +67902,7 @@
     "facadeWidthM": 4.5,
     "shadeClearanceDeg": 2.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://theoldschoolhouse.ie/bar-food-menu/"
     },
@@ -74524,7 +74595,7 @@
     "frontObservationPointLon": -6.3053,
     "facadeWidthM": 14.9,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thetwosisters.ie/menus/"
     },
@@ -76891,11 +76962,6 @@
     "frontObservationPointLon": -9.0538,
     "facadeWidthM": 4.5,
     "facadeInferenceSource": "osm-building-facade",
-    "foodOffer": {
-      "category": "no-food",
-      "confidence": "confirmed",
-      "source": "https://www.tigchoiligalway.com/contact-us"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed",
@@ -79889,7 +79955,7 @@
     "frontObservationPointLon": -6.2622,
     "facadeWidthM": 12.3,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.wigwamdublin.com/menu"
     },
