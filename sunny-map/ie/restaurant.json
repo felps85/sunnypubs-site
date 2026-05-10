@@ -6109,6 +6109,12 @@
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
     }
   },
   {
@@ -8154,6 +8160,12 @@
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
     }
   },
   {
@@ -9885,7 +9897,13 @@
     "outdoorObservationPointLat": 53.3541,
     "outdoorObservationPointLon": -6.257,
     "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-osteria-lucio-node-4201938189",
@@ -11349,6 +11367,12 @@
     "facadeWidthM": 17.4,
     "wheelchairAccess": {
       "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     }
   },
@@ -14463,7 +14487,17 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.2771,
     "frontObservationPointLon": -9.0468,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-spiced-india-node-9925226607",
@@ -21706,7 +21740,13 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3326,
     "frontObservationPointLon": -6.2691,
-    "facadeWidthM": 6.8
+    "facadeWidthM": 6.8,
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-avalon-node-4554269900",
@@ -25428,5 +25468,24 @@
     "frontObservationPointLat": 53.395,
     "frontObservationPointLon": -6.4391,
     "facadeWidthM": 18
+  },
+  {
+    "id": "restaurants-the-pigeon-house-way-374958547",
+    "name": "The Pigeon House",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 53.35995,
+    "lon": -6.195647,
+    "regionId": "dublin",
+    "regionLabel": "Clontarf",
+    "locationLabel": "11B Vernon Avenue, Clontarf, Dublin, D03 DK23",
+    "solarMode": "facade",
+    "frontBearingDeg": 278.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3599,
+    "frontObservationPointLon": -6.1958,
+    "facadeWidthM": 13.4
   }
 ]
