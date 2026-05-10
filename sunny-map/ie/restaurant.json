@@ -3756,7 +3756,13 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.8976,
     "frontObservationPointLon": -8.4779,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-the-met-bar-and-restaurant-node-10053410134",
@@ -3813,6 +3819,12 @@
     "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "limited",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     }
   },
@@ -13777,6 +13789,12 @@
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
     }
   },
   {
@@ -14002,6 +14020,12 @@
     "facadeWidthM": 6.4,
     "wheelchairAccess": {
       "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     }
   },
@@ -16455,6 +16479,12 @@
     "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "limited",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     }
   },

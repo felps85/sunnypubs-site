@@ -10253,6 +10253,12 @@
     },
     "websiteUrl": "https://corribhouse.com",
     "instagramUrl": "https://instagram.com/corribhousegalway",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "Af7/AwMAADh+AADg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11171,6 +11177,12 @@
     },
     "foodOffer": {
       "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.arankilkenny.ie",

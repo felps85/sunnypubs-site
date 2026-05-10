@@ -397,6 +397,18 @@
       "status": "yes",
       "confidence": "confirmed"
     },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lightingVisuals": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://opium.ie/spaces/club",
     "instagramUrl": "https://instagram.com/opiumdublin",
     "solarMode": "outdoor-area",

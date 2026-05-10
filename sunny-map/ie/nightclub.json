@@ -384,6 +384,18 @@
     "dj": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lightingVisuals": {
+      "status": "yes",
+      "confidence": "confirmed"
     }
   },
   {

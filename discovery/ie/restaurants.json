@@ -3892,6 +3892,12 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://libertygrill.ie",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "AQDwAwAAAAAAAACAAEAAADgABgCAA3AAADjABwCAD38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3951,6 +3957,12 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.thespitjack.com",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "AQDwAwAAAAAAAACAAGAAABgABgCAAXAAAHjABwCAD38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -14350,6 +14362,12 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.ardbia.com",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "Af//AwAADAAAAMAAAAAADAAABsAAAOADHgAAfvwBAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -14585,6 +14603,12 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://dela.ie",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAEAAABgABACAAWAAADgABwCAB3gAAPjABwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -17144,6 +17168,12 @@
     },
     "websiteUrl": "https://www.thespitjack.com",
     "instagramUrl": "https://instagram.com/thespitjack",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAIAwAAwAAB8AAMAwAc4AAB8gAMAwH89AAD89wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",

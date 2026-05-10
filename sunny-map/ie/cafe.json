@@ -9932,7 +9932,13 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.2765,
     "frontObservationPointLon": -9.0549,
-    "facadeWidthM": 10.9
+    "facadeWidthM": 10.9,
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-dollys-coffee-node-13382366401",
@@ -10836,6 +10842,12 @@
     },
     "foodOffer": {
       "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     }
   },
