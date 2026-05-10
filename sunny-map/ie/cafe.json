@@ -8980,6 +8980,31 @@
     "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
+    "id": "two-pups-coffee-liberties-dublin-1",
+    "name": "Two Pups Coffee",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 53.339387,
+    "lon": -6.273491,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "74 Francis St, The Liberties, Dublin 8",
+    "websiteUrl": "https://www.twopupscoffee.com",
+    "instagramUrl": "https://instagram.com/two_pups_coffee",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
     "id": "cafes-urban-health-node-1426048609",
     "name": "Urban Health",
     "placeTypeId": "cafe",

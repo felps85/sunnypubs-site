@@ -9267,6 +9267,11 @@
     "name": "Two Pups Coffee",
     "regionLabel": "Dublin",
     "locationLabel": "74 Francis St, The Liberties, Dublin 8",
+    "lat": 53.339387,
+    "lon": -6.273491,
+    "geospatialSource": "osm-overpass",
+    "geospatialSourceUrl": "https://www.openstreetmap.org/node/4331570723",
+    "placementConfidence": "exact",
     "regionId": "dublin",
     "foodOffer": {
       "category": "pub-menu",

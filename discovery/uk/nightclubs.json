@@ -292,7 +292,7 @@
     "locationLabel": "5 Middle Street, BN1 1AL",
     "lat": 50.820854,
     "lon": -0.143418,
-    "websiteUrl": "https://www.casablancajazzclub.com",
+    "websiteUrl": "https://www.casasclub.co.uk",
     "solarMode": "outdoor-area",
     "sunGeometryProfileBase64": "Afj/AwAAAgAAACAAAAAAAgBAACAAAAQAAwDAADAAAByAAwDAAzwAAHzwAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -302,7 +302,24 @@
     "frontBearingDeg": 95.8,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Middle Street"
+    "facadeInferenceRoadName": "Middle Street",
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "musicGenres": {
+      "genres": [
+        "soul",
+        "funk",
+        "disco",
+        "pop"
+      ],
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-tide-club-node-11182160517",
@@ -617,7 +634,11 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 40.9,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-palm-beach-club-way-198678844",
@@ -637,7 +658,11 @@
     "facadeWidthM": 17.8,
     "frontBearingDeg": 346,
     "shadeClearanceDeg": 72.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-fever-way-116042877",
@@ -893,7 +918,33 @@
     "frontBearingDeg": 89.1,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Union Street"
+    "facadeInferenceRoadName": "Union Street",
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "musicGenres": {
+      "genres": [
+        "rock"
+      ],
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "coatCheck": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lightingVisuals": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-polo-lounge-node-1543443657",
@@ -1414,7 +1465,11 @@
     "facadeWidthM": 7.4,
     "frontBearingDeg": 188.1,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-fire-way-331438863",
@@ -1442,7 +1497,11 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 286.3,
     "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-fire-london-node-13577489801",
@@ -1547,7 +1606,11 @@
     "facadeWidthM": 4.5,
     "frontBearingDeg": 228.6,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-la-hacienda-node-9370334863",
@@ -1871,7 +1934,11 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 12.1,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-shoreditch-townhouse-way-173037429",
@@ -2343,7 +2410,11 @@
     "facadeWidthM": 4.5,
     "frontBearingDeg": 133.3,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-xoyo-way-155362965",
@@ -2746,7 +2817,23 @@
     "facadeWidthM": 13.1,
     "frontBearingDeg": 73.7,
     "shadeClearanceDeg": 22.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "coatCheck": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-loft-way-242049091",

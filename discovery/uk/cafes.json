@@ -3316,7 +3316,13 @@
     "facadeWidthM": 4.5,
     "frontBearingDeg": 237.9,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-daisy-grey-way-1136507499",
@@ -6596,7 +6602,13 @@
     "outdoorObservationPointLat": 50.824,
     "outdoorObservationPointLon": -0.1444,
     "outdoorAreaWidthM": 10.8,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-moksha-caffe-node-2774717052",
@@ -6625,7 +6637,11 @@
     "outdoorObservationPointLat": 50.8282,
     "outdoorObservationPointLon": -0.1356,
     "outdoorAreaWidthM": 8.1,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-munchies-craft-cat-cafe-and-bar-node-7019564634",
@@ -8150,7 +8166,11 @@
     "frontBearingDeg": 275.6,
     "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "High Street"
+    "facadeInferenceRoadName": "High Street",
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-black-wax-coffee-and-records-node-10135804817",
@@ -9069,6 +9089,10 @@
     "outdoorAreaInferenceSource": "manual-council-pavement-licence-25-00424-pavli",
     "outdoorAreaProfileId": "chelmsford-pavement-licence:25-00424-pavli",
     "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "smokingArea": {
       "status": "yes",
       "confidence": "confirmed"
     }
