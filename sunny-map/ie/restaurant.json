@@ -25517,5 +25517,19 @@
     "frontObservationPointLat": 53.3599,
     "frontObservationPointLon": -6.1958,
     "facadeWidthM": 13.4
+  },
+  {
+    "id": "restaurants-el-grito-taqueria-node-4302534684",
+    "name": "El Grito Taqueria",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 53.357355,
+    "lon": -6.256651,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "20 Mountjoy Square East, Dublin, D01 K3T1",
+    "websiteUrl": "https://elgrito.eu/",
+    "solarMode": "facade",
+    "status": "unavailable"
   }
 ]

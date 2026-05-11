@@ -257,7 +257,6 @@
     "locationLabel": "60 Harcourt Street, Dublin, D02 P902",
     "websiteUrl": "https://www.dtwonightclub.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
     "frontBearingDeg": 258.9,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -265,6 +264,14 @@
     "frontObservationPointLat": 53.3345,
     "frontObservationPointLon": -6.2629,
     "facadeWidthM": 17,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "outdoorObservationPointLat": 53.3344,
+    "outdoorObservationPointLon": -6.2625,
+    "outdoorAreaWidthM": 20,
+    "outdoorAreaInferenceSource": "osm-outdoor-area-manual-reviewed-v1",
     "dj": {
       "status": "yes",
       "confidence": "confirmed"
