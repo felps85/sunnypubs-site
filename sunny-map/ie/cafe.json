@@ -17797,7 +17797,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3313,
     "frontObservationPointLon": -6.2674,
-    "facadeWidthM": 6.2
+    "facadeWidthM": 6.2,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-brooks-cafe-way-1052152883",

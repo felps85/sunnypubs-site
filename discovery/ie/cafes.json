@@ -22501,6 +22501,11 @@
     "lat": 53.33133,
     "lon": -6.267471,
     "sourceUrl": "https://brindlecoffeewine.com/contact-avenue",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
+    },
     "websiteUrl": "https://brindlecoffeewine.com/",
     "websiteSource": "https://brindlecoffeewine.com/",
     "instagramUrl": "https://www.instagram.com/brindlecoffeewine",

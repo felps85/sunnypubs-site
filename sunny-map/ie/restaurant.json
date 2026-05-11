@@ -10762,7 +10762,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3333,
     "frontObservationPointLon": -6.2441,
-    "facadeWidthM": 6.8
+    "facadeWidthM": 6.8,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-san-sab-way-679933306",
@@ -11721,7 +11725,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3384,
     "frontObservationPointLon": -6.2553,
-    "facadeWidthM": 9.2
+    "facadeWidthM": 9.2,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-the-green-hen-node-3359270763",
@@ -12246,6 +12254,10 @@
     "frontObservationPointLat": 53.3466,
     "frontObservationPointLon": -6.2638,
     "facadeWidthM": 11.9,
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed"
+    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
