@@ -11029,7 +11029,11 @@
     "frontBearingDeg": 73,
     "shadeClearanceDeg": 37.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Roxburgh's Close"
+    "facadeInferenceRoadName": "Roxburgh's Close",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-argile-restaurant-node-3111236572",
@@ -11070,7 +11074,11 @@
     "facadeWidthM": 4.5,
     "frontBearingDeg": 142,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-assaggini-node-2153099985",
@@ -11735,7 +11743,11 @@
     "frontBearingDeg": 111.3,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Shaftesbury Avenue"
+    "facadeInferenceRoadName": "Shaftesbury Avenue",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-coriander-lounge-way-183692911",
@@ -12032,7 +12044,11 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 159.1,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-harvester-way-45324479",

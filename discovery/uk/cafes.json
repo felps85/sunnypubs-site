@@ -7279,7 +7279,11 @@
     "frontBearingDeg": 333.3,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Crown Street"
+    "facadeInferenceRoadName": "Crown Street",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-august-21-node-2774743761",
@@ -8170,6 +8174,10 @@
     "smokingArea": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
     }
   },
   {
@@ -8356,7 +8364,11 @@
     "facadeWidthM": 4.5,
     "frontBearingDeg": 250.5,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-coast-cafe-node-4551111127",
@@ -8375,7 +8387,11 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 309.9,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-common-meeple-board-game-cafe-way-1266108743",
@@ -8396,7 +8412,11 @@
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "Beach Street",
-    "websiteUrl": "https://www.commonmeeple.co.uk/"
+    "websiteUrl": "https://www.commonmeeple.co.uk/",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-costa-node-4551111098",
@@ -8578,6 +8598,10 @@
         "burger",
         "sandwich"
       ],
+      "confidence": "confirmed"
+    },
+    "outdoorArea": {
+      "type": "outdoor-seating",
       "confidence": "confirmed"
     }
   },
